@@ -32,22 +32,42 @@ FETCHERS = [
 ]
 
 
+ATTEMPTS = 2      # one retry on failure
+BACKOFF_S = 3     # brief wait before the retry
+
+
 def run_fetchers() -> dict:
     """Run each enabled fetcher, capturing per-job status. Never raises — a
     failing fetcher is recorded as an error WITHOUT aborting the run, so the
-    lane stays alive and the failure is visible in liveness.json."""
+    lane stays alive and the failure is visible in liveness.json.
+
+    Each feed gets one retry (after a short backoff) on failure — whether it
+    raised or returned status="error" — so a transient network blip (e.g. a
+    dropped connection) is absorbed instead of surfacing as `degraded`. A feed
+    that recovers is flagged `recovered_after_retry`; one that fails both
+    attempts stays an error (a real problem worth seeing)."""
     import importlib
+    import time
     jobs = {}
     for name, module in FETCHERS:
-        try:
-            mod = importlib.import_module(module)
-            jobs[name] = mod.fetch(DATA)
-        except Exception as exc:  # fail-loud per job, never abort the whole run
-            jobs[name] = {
-                "status": "error",
-                "error": repr(exc),
-                "trace": traceback.format_exc(limit=3),
-            }
+        result = {"status": "error", "error": "not run"}
+        for attempt in range(ATTEMPTS):
+            try:
+                mod = importlib.import_module(module)
+                result = mod.fetch(DATA)
+            except Exception as exc:  # fail-loud per job, never abort the whole run
+                result = {
+                    "status": "error",
+                    "error": repr(exc),
+                    "trace": traceback.format_exc(limit=3),
+                }
+            if result.get("status") != "error":
+                if attempt > 0:
+                    result["recovered_after_retry"] = True
+                break
+            if attempt < ATTEMPTS - 1:
+                time.sleep(BACKOFF_S)
+        jobs[name] = result
     return jobs
 
 
