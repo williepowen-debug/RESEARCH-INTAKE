@@ -20,21 +20,32 @@ def utcnow() -> str:
     return datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+# (job name, module name) — each module exposes fetch(data_dir) -> status dict.
+# Add a new feed by writing fetch_<x>.py with a fetch() and listing it here.
+FETCHERS = [
+    ("eia_petroleum",     "fetch_eia_petroleum"),
+    ("edgar_8k",          "fetch_edgar_8k"),
+    ("treasury_auctions", "fetch_treasury_auctions"),
+    ("cftc_cot",          "fetch_cftc_cot"),
+]
+
+
 def run_fetchers() -> dict:
-    """Run each enabled fetcher, capturing per-job status. Never raises."""
+    """Run each enabled fetcher, capturing per-job status. Never raises — a
+    failing fetcher is recorded as an error WITHOUT aborting the run, so the
+    lane stays alive and the failure is visible in liveness.json."""
+    import importlib
     jobs = {}
-
-    # --- EIA Weekly Petroleum ---
-    try:
-        from fetch_eia_petroleum import fetch as fetch_eia
-        jobs["eia_petroleum"] = fetch_eia(DATA)
-    except Exception as exc:  # fail-loud per job, never abort the whole run
-        jobs["eia_petroleum"] = {
-            "status": "error",
-            "error": repr(exc),
-            "trace": traceback.format_exc(limit=3),
-        }
-
+    for name, module in FETCHERS:
+        try:
+            mod = importlib.import_module(module)
+            jobs[name] = mod.fetch(DATA)
+        except Exception as exc:  # fail-loud per job, never abort the whole run
+            jobs[name] = {
+                "status": "error",
+                "error": repr(exc),
+                "trace": traceback.format_exc(limit=3),
+            }
     return jobs
 
 
