@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-06-29T21:32:55Z",
+  "last_run_utc": "2026-06-29T21:41:55Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -43,19 +43,12 @@
     },
     "newsweep": {
       "status": "ok",
-      "new": 12,
-      "skipped_already_seen": 160,
+      "new": 3,
+      "skipped_already_seen": 168,
       "by_class": {
-        "NEW": 8,
-        "DEVELOPMENT": 1,
-        "NEW_ALERT": 2,
-        "NEW_WATCH": 1
+        "NEW": 3
       },
-      "alerts": [
-        "Tech rebound lifts Dow to record, yen hits 40-year low against dollar - Yahoo Ne [DEVELOPMENT]",
-        "The Next ECONOMIC DEPRESSION | Bank Failure MELTDOWN Wolf Stock (yemfdycP8X) - M [NEW_ALERT]",
-        "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield  [NEW_ALERT]"
-      ],
+      "alerts": [],
       "saved": "data/2026-06-29/news.json"
     }
   },

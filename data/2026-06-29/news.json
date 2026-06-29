@@ -1,61 +1,13 @@
 {
   "by_class": {
-    "NEW": 8,
-    "DEVELOPMENT": 1,
-    "NEW_ALERT": 2,
-    "NEW_WATCH": 1
+    "NEW": 3
   },
   "items": [
     {
-      "title": "Ukrainian drones set another Russian oil refinery ablaze as Putin admits fuel shortages - AP News",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTZPUlo3WW9DRjJzZzIxV3hsNzhpLUdGZEFGQXRUR0tUd1Q4dURpSnYxcFJFTFJuM0ZTRmd3RUVfZ0FEMlJ5U1ZrYlVLcDBOR2RaMmU4YzAzS0t0UzZBU21rbzlqU19HTjZRN0t0dEo1MWJuSW9RNEV0MVNCNDM1RDFqQU80T0tkTzNvOEpfWEE4SDdIN2R4ZlNuRHRINHc?oc=5",
-      "date": "Mon, 29 Jun 2026 01:26:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "HENRY"
-      ],
-      "label": "gas-supply"
-    },
-    {
-      "title": "Fuel Shortages Spread Across 50+ Russian Regions as Refinery Strikes Knock Out Quarter of Output - UNITED24 Media",
-      "source": "UNITED24 Media",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczRPVy03VkRHMHFvd0xzX20tcXBhaWVHTkNVRE9hcHJrSEZYWE5QT2xFQVdwd2E5bFhocE1nNXRqMzNZYW16d19FTlNsWTRjZ2k2Wld6dl9XUG1xbWI4QTk2SWhwY1EySWR4SUVBeGk0bFBkNVVEY3R0Y1JjOFYzQk9LN3RuMkxQVFgtaTRCMHU2SVQ2TWZYM1VyR3ljYkN2cThoWURMdWpQQktPMUtnUDNmWFN2c0drQlEzRlh0T1ZPRFBPT1NoQUVSV19CTHp5em5hR3lGTjJ6UQ?oc=5",
-      "date": "Mon, 29 Jun 2026 10:43:57 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "HENRY"
-      ],
-      "label": "gas-supply"
-    },
-    {
-      "title": "FP-1 Drone Destroyed Key Facility at Tyumen Oil Refinery - \u041c\u0456\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439",
-      "source": "\u041c\u0456\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODNNSnlUYTJCZWowZC1uZkoxT3NJaTBPQnJTbTBDank4QVZVdW43Ry0xbUlLTmZZeF9OWWVJVWptcU5saENvcnFWQ2x3QjJxR3l2cm9YUmNrNk9SR21OMGJxVGxHckJMNmZHTkN5M3FXTndxUThtOEstRmxjSFRyag?oc=5",
-      "date": "Mon, 29 Jun 2026 14:53:38 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "HENRY"
-      ],
-      "label": "gas-supply"
-    },
-    {
-      "title": "Yen slips to 39-year low as dollar rally gathers steam - Nikkei Asia",
-      "source": "Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUwzb1ZoR1pVQ2IxVDdyVWV0LW9wcFBmNWNxVGpfNmJZQkFlc2gzQkFuWUpPVzcyeXNGUmpDZ2l0Q0Y5XzFqMGpkRF9vTW5WOENjUUFVU09iT1VQeW1LcGJBVG55SzB0cUd6Vkp2MTdJMGwzeTVnZm5LNXNxT2ZCbjZCRUNSNTVhSDVEMGJ6b0VkcDRrMHBhS0M1eVQ3V2ctQWF6UklnM1JuZw?oc=5",
-      "date": "Mon, 29 Jun 2026 17:11:00 GMT",
+      "title": "Yen Slides, Putting Traders on Intervention Watch - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGRXNHhiaHlSWFFCSU1xWTR5WkYzZjJWUnZSYmdFSF9ZY1RBSXVCUEUxSFRtcHAyZDlWdFNTVzNsSTFqTnNTMHhNVmotUGdCS1pra2dob3UzRHdxeDhvOXVMOU5yNGs4NURqWFd4N1laMjg4YmpNcGJqSXM4R01TRFVnMXRnTGNoUXBuRVI2emhhTkZKWk43aGtjWGUxSjBibEp5SA?oc=5",
+      "date": "Mon, 29 Jun 2026 21:30:36 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -67,129 +19,34 @@
       "label": "japan-boj"
     },
     {
-      "title": "Tech rebound lifts Dow to record, yen hits 40-year low against dollar - Yahoo News Singapore",
-      "source": "Yahoo News Singapore",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTExsSTNPTFAtejBlRVZpaXM5aWlfX0poSTBwLXltNDRRbmtJOElITVNjRXRWenZyWC11Z3VlN212cmJQOThyMElhd0E0Znk1T09aWE0wZzJNakswdEJpR2J3SmVRNHMwRlhpMzVraVFSRHp0?oc=5",
-      "date": "Mon, 29 Jun 2026 20:37:15 GMT",
-      "classification": "DEVELOPMENT",
-      "level": "normal",
-      "keyword": null,
-      "entity": "Apollo",
-      "watch_hits": [],
-      "agents": [
-        "SAM",
-        "BROCK"
-      ],
-      "label": "japan-boj"
-    },
-    {
-      "title": "What to do about space debris? - The Economist",
-      "source": "The Economist",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90a3NDM3lpams5YWhpX1VxYjRfNWJJS1k3bTAxX244X2VobHVLcDFxTDBYNnlUcXJHNnlGYVoyNlpSQ3NDUzZQam1WaENCYlNuc0Z4MXJzQ3B2WU9FYUZha1lDdkx1WlJESlBOSThJYVM2SVBEd29HeVM5NlZwRXM?oc=5",
-      "date": "Thu, 25 Jun 2026 12:58:00 GMT",
+      "title": "Central Texas leaders warn AI-driven layoffs could signal broader job losses - KXAN Austin",
+      "source": "KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3pBVTU1MWdvM0hfSm5WelhDS0tsN0NLR3lyRWVSZ3ZkVzNJWWtjNFJlU3RpWlcxaTdBUHAtX0NuN2lHQnl2SF96MjVJbHZ4aG43QmxiOFA5bF8xMjRUd3J4UFFpNThGT0ZyMjlCUGp4WXh2SzF3bEJfX3ZpSUFETTJYM3FKUXd6M1ZKVjhPWndJd2JNU0FWYWJyd0VPRU9ZY1hhUTM2U3ZlUUwwQ2fSAbMBQVVfeXFMTkJHeW85VklldElsbUFncnFtX01yYmxPTm5OUEZOeW1DdGgwNW1tdk5aUHFWQ3pteko3Nm9BOUMzVE9aWWlfWGZ5YVJiWUJPYWp0aDNKQ05TT3hyV1V1UmktMU9jcmJwUy1pWF9qcmpoMktHVWh6ZDFOVEg1Q21vQzktU3VTOUtNWFU3d0lTakgteFhkY2l0MWQ3MUZJSGM1UzFua05NSHBXZ1A0ZzVlRDBLTjg?oc=5",
+      "date": "Mon, 29 Jun 2026 21:23:31 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
       "entity": null,
       "watch_hits": [],
       "agents": [
-        "LIQUID"
+        "LABOR"
       ],
-      "label": "credit-spreads"
+      "label": "labor-layoffs"
     },
     {
-      "title": "The Next ECONOMIC DEPRESSION | Bank Failure MELTDOWN Wolf Stock (yemfdycP8X) - Mshale",
-      "source": "Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rdlduOEFUR2VQUV9DUXlqVm9uajhyd0thX2xnVGF1UkpGSmNPRW84M2Q1dmJXNVlROE43MW1Oak4wREZTSXpTZU1NMEZrdmZ1YTE2eUZmSmdpbXM?oc=5",
-      "date": "Sun, 28 Jun 2026 04:23:52 GMT",
-      "classification": "NEW_ALERT",
-      "level": "alert",
-      "keyword": "bank failure",
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "8 Key Takeaways from the House and Senate FSOC Hearings - Bank Policy Institute",
-      "source": "Bank Policy Institute",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TajR3Q2JuUlhSMG9zMjRxQVRYQmhraXVaWi1UUC1uU3VnRTFFUHZidk14dVgxMDk4bmN2WHdkMHR3dURkcWtyeTNjeVl3bk9SUERlcXIwakdlSElGaGV6TjJQNHJMcHgxR290eVpzU0htT0U5ZERiRGdzWDU?oc=5",
-      "date": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "title": "Bay Area tech layoffs top 10,000 this year - KALW",
+      "source": "KALW",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWd3VmExaWlUYXVMM2dTVzRLNWY5cDFJN2VJa3NBOThwUFRGaWQxMzhLcTN5bDhPTWw2YmNqRm96elZ4dmpiMHlwRnFRYjRkeFhZSlhYT01zR2RNeHJESHcwT01FSXBRVWxYWFhNaGptc0pOMHFGMGJleTFua0h6TW96czdNTFlVbWdlV2p1ZmhYQQ?oc=5",
+      "date": "Mon, 29 Jun 2026 21:37:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
       "entity": null,
       "watch_hits": [],
       "agents": [
-        "REGINALD",
-        "LIQUID"
+        "LABOR"
       ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "GENIUS Act Stablecoins: Bank Deposits & Dollar Dominance - galaxy.com",
-      "source": "galaxy.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUpGSzZjc21QTnZ0cHNrVWlsTUZDOWdWREMxMGt4Y0s3c0RMdlE1V3EtazJqbDZGY3dOcEF3dGtPUFFibXd6RDV0MTNFUmVNSmZXUk12VDg4TFAybTV0eGEySzBFczc2eGsyZE41Zm9BVXJnMGxPVm9FNTJYZDlHSGlkQ2p3NTNyOFhhVmkwUXNLakhWckJ3YlBYMVFMckU4TTgzcmRn?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield Guardrails to Prevent Deposit Flight - consumerbankers.com",
-      "source": "consumerbankers.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzMtbi1jeUhMT1M0UmE4ODREeXU5QTdIQ1REM1FIS3lUYWtic3hZOUEwSHBFOHRGYmowWHY2bkYyRENwQ3VvaG5MbDdXSlhmZnRaQ213bGZIem5iTTU4cGlMb2tiamJvaGZta0hHZVhGNkFocmpUYkktZDBPMmRxTmpTa0VFdldQWklqaHFXUUNLRUZMQkxFY1dydVZOdUhzZlcwUnFSN0o0dERwWmZxTUV0NGo3Tk5qMDd2bTFlMG95dEJ5ejNPMENwWHAtd0t6U3ItSkxiVkl0ZHhHalMzaDFTX2NVaXV5eExuQUhBZ2I?oc=5",
-      "date": "Fri, 08 May 2026 07:00:00 GMT",
-      "classification": "NEW_ALERT",
-      "level": "alert",
-      "keyword": "deposit flight",
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "Santander, Exeter, Westlake deals boost subprime auto ABS issuance volume - Auto Finance News",
-      "source": "Auto Finance News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0I5Z3ZvN0RvcGRTVGREOThycTVDSU1YYlhIdnUtRVhvVFl0TWdGVzZFMV9NQkdMeEdZMUw1NXZ5WjZjME03dFBLa2REa21wa0VTQk5KQjEwSFFBOVhfckpqUURKWEh3VTVXeHMzcXdCdTZiXzlNNkZndUJhRlJJdUhka1VqMTJUSDQ5UVNkVnRyLV9FT0xidEk5cWIyT25jS2Uwd3czWktweElCeVByWDJpV0FNOVVxQjh6VGJKdHFHYzM5ZkZFWQ?oc=5",
-      "date": "Thu, 04 Jun 2026 22:01:37 GMT",
-      "classification": "NEW_WATCH",
-      "level": "watch",
-      "keyword": "subprime",
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "CARL"
-      ],
-      "label": "consumer-stress"
-    },
-    {
-      "title": "A record number of Americans are behind on their auto loans - marketplace.org",
-      "source": "marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFVydVktUV9hVk5mZzUxREhrQ0lwQ05adk0yWlVGbzJrY1B6S1Y5UjNfekJMRmFDVWRJS1Q4WlFueEE4a1FPeVRpOWpTM3pIZUd0ZjRrQzZyTUhQWXpKLXYtcENFRXJtN1VBWW5PWnBPRjdqY3dncHBoVmp4My1wb2I0TnhEMGEtTzdTTkdGamtVMVFPaE15QmN6WWt2ZERUa3F2a01RZw?oc=5",
-      "date": "Wed, 12 Nov 2025 08:00:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "CARL"
-      ],
-      "label": "consumer-stress"
+      "label": "labor-layoffs"
     }
   ]
 }
