@@ -1,10 +1,10 @@
 {
   "by_class": {
-    "NEW": 142,
+    "NEW": 138,
     "NEW_WATCH_HIT": 2,
-    "NEW_WATCH": 14,
-    "DEVELOPMENT": 2,
-    "NEW_ALERT": 11
+    "NEW_WATCH": 15,
+    "DEVELOPMENT": 4,
+    "NEW_ALERT": 13
   },
   "items": [
     {
@@ -12,6 +12,21 @@
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOek9yeVRqTGV1VnlKdTlKQ2E1R3BjMXBIZ1lnc2tNTFAxR21GWGdTV0g1RGlUandOclRvZTNBZEltLWtteUg3SExEN2lUbGhSVFJyYjNQeGtNT2hjcHp3VHRNVXZOUDFFT0tFeHVhdzEwckxSOFBzb0FtTGNaZjB4OS1pNHdzbG5vNHg2ckhBeERTUDN2U2RtT1lPWHBUYTJXN0hwTkszb054eklfVHc?oc=5",
       "date": "Mon, 29 Jun 2026 18:33:17 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Private Credit: Looking Past the Noise - Nasdaq",
+      "source": "Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DRF9RVmpGRTdRVkV2RUtSWHUwblpDSzd3TUFlRzdzTTV6R1I4TjU5RHM1cmxrcXFHM3h4amhGYkUyX0hOUnNhbmNpdnlWem1jeld4RUdoOTJvTWR6cE1LbVNyYV9rTzV2dTNPMExxOTBpamc?oc=5",
+      "date": "Mon, 29 Jun 2026 17:23:21 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -53,6 +68,21 @@
       "label": "private-credit"
     },
     {
+      "title": "Breaking: Mtz/bdc/83a Fire reported in San Bernardino County on June 29 - Modesto Bee",
+      "source": "Modesto Bee",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1akZvaExheDJCSWJvMm1xM1pPdXRjdjFzcTVuOXZ3M2FiV0hNZjVwQnJNNHRudy02dkRRUUx2QlJpZV9MR1RERGU2bDlnUHhtblkzRnVHcTh3V3R2STVmRXJaYk4ybkJyTEdYOTg1akJ3UU5n?oc=5",
+      "date": "Mon, 29 Jun 2026 20:19:07 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
       "title": "Eiffel Raises $585M for Impact Private Credit Fund - ESG News",
       "source": "ESG News",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBQTRYdUQ4OUE5Z1NKbkRQLTlUdlVNdnplNTN0RmVfc1ZPaUctNlN4U1gxY01VcnpXVlMxaXhMTmEyajhieFpPOFJRM0dGQlJwZHhMU250TkdDS3QwRXlhZ3RvaTA4LVc2V0wxcDlUTEk4bkI2cVVqNmln?oc=5",
@@ -83,21 +113,6 @@
       "label": "private-credit"
     },
     {
-      "title": "Breaking: Mtz/bdc/83a Fire reported in San Bernardino County on June 29 - Fresno Bee",
-      "source": "Fresno Bee",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiMkM4S0hzT2tMX2UzQkNfd0tya0hqMmkxUW1jSnloWmdmdWZlYjVDSlN3UDNENHMyVUNBRnZzWmRnZnB3NklZODluOUFpRDlqMHduOTFIRW9WZG9yMVQ2aURCZVhEamVVLWpCQUVybDBwMExSdGt1bw?oc=5",
-      "date": "Mon, 29 Jun 2026 20:19:07 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "BROCK"
-      ],
-      "label": "private-credit"
-    },
-    {
       "title": "2026 Ben Graham Conference \u2013 Allocators on Investing a Frothy Market: Diversifiers, Private-Credit Discounts and the Fading 60/40 - Hedge Fund Alpha",
       "source": "Hedge Fund Alpha",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEZqNEJiVGt3U0dpc3hESHZVVzRQT3FjZHFBbnRhSFFPdXJVUkJXWmFlTExJQ185eDJxdzdkWG5PV3BXV0JuNy16U1BaOVFEUlpMaU9UazRsVUV6cUI0UmZzODRKT2pQQU85STJ6dU9vaXJEM1hSQUNSbEJNMy1VSU53Qkp6b01lMl9J?oc=5",
@@ -113,10 +128,10 @@
       "label": "private-credit"
     },
     {
-      "title": "Advisors pivot from private credit to private equity: iCapital - Citywire",
-      "source": "Citywire",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUdkYTJka1NIVk11WGFHM3JRaGVKb3pjZmF1N1JSREMwdXVlY2NzTzlCbm1jZEpoZDNjZVpKWUlPOGNjSkpJUlNYb29RSzVXYnlPMy1Bd0tIT1lYYTgyakpIMWNEZmxCclI1azBVd2RwcVppNE8zOXFzN0Y3SWtzb2ZjcXRDOERudG9HTlVuQUxBWjQ1TlVCNTQ3bTh2N3RxQ3p5OWwxN3J4QQ?oc=5",
-      "date": "Mon, 29 Jun 2026 19:07:30 GMT",
+      "title": "What Comes Next for Private Credit? - Morgan Stanley",
+      "source": "Morgan Stanley",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzdvcWh4bHJnNW9yWWM0UUhpNUxQOElkenB5WXZfekIwVHY0Q2MzNHZHNUZrVloycjVyWS12aXAwelBYTjYyTVc2R2pZZHJham44em5rMmhoZ2dsZzczVlExT1d4R3RkazRVS05ISXNXS3RBUjJ4QkNpLUZGbXJjaHRXb0xZcDZwa2V1QTJB?oc=5",
+      "date": "Tue, 23 Jun 2026 14:58:37 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -128,10 +143,10 @@
       "label": "private-credit"
     },
     {
-      "title": "What Comes Next for Private Credit? - Morgan Stanley",
-      "source": "Morgan Stanley",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzdvcWh4bHJnNW9yWWM0UUhpNUxQOElkenB5WXZfekIwVHY0Q2MzNHZHNUZrVloycjVyWS12aXAwelBYTjYyTVc2R2pZZHJham44em5rMmhoZ2dsZzczVlExT1d4R3RkazRVS05ISXNXS3RBUjJ4QkNpLUZGbXJjaHRXb0xZcDZwa2V1QTJB?oc=5",
-      "date": "Tue, 23 Jun 2026 14:58:37 GMT",
+      "title": "Advisors pivot from private credit to private equity: iCapital - Citywire",
+      "source": "Citywire",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUdkYTJka1NIVk11WGFHM3JRaGVKb3pjZmF1N1JSREMwdXVlY2NzTzlCbm1jZEpoZDNjZVpKWUlPOGNjSkpJUlNYb29RSzVXYnlPMy1Bd0tIT1lYYTgyakpIMWNEZmxCclI1azBVd2RwcVppNE8zOXFzN0Y3SWtzb2ZjcXRDOERudG9HTlVuQUxBWjQ1TlVCNTQ3bTh2N3RxQ3p5OWwxN3J4QQ?oc=5",
+      "date": "Mon, 29 Jun 2026 19:07:30 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -177,21 +192,6 @@
       "source": "Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGxHVGh1cktXYk5UNlNVSEExVVR0R1dKRG4xc3JJMjh3YmMtbVU4RE5OVkRTT0ozNjB1Vk1xVTJWY0s2aUNzSHNxRXJwXzdHUlR1TWZ0d3g2RHZVczNHNGxJQmZtS3d6RjVDWEhuTDI2X0UyTHJUUjNoelk3MVFiVldZcE1jSHZtaEtMRWhDcWNXWnk1dTlmX0pQWGZ0SWpmcUFZbEZ1Y1JlWkhjMGJac1FWQXZSUWd6TGc3cnlyUTFRQQ?oc=5",
       "date": "Mon, 29 Jun 2026 13:01:27 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "BROCK"
-      ],
-      "label": "private-credit"
-    },
-    {
-      "title": "Palmer Square Capital BDC (PSBD) \u2013 Among the Top 10 Dividend Stocks with 10%+ Yield - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHVDSkhQSGNsVWk0eGFlVlc1OVNsTXVQYXExQWc5X3pZNVhCQXdxdzNzbUc2MkRCb0RlMVVqdTdoSFdscG1YOFpMYzNnbUw5WC1xMUZMS0V6bm9PWlFVVGkyWE5HZ3BZLWs0VGJZYzgwdXdXRTFHZUp2M1F2QkhIZWFYZ2VuSVhudHA2S0xrR2ZkTTZWck9jRkJ5Zw?oc=5",
-      "date": "Mon, 29 Jun 2026 18:59:09 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -303,21 +303,6 @@
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVZpS1hFREs3VDc0QzBrVXM3QVZtUG01eW9raUlmQ3dqaU9xcXEyMTYzRXNiSG1nMmtza0dNZXY2YWRqVHhqNGtFNjd0dTZiWExMZ1RlVjZFbC1pSFd6dUx4RHVOMjZEWVFMckdmWTFQdENpSVhsQm94Y2k0d3REUFpVbnZBemNvbzN3ZHduYWdfb2c1QU9jaUxBSjYwREEtR3ZQZFBqZ01qM29Uc0xaNFdkdUstQTR0T1lZMGprOHFOdw?oc=5",
       "date": "Mon, 29 Jun 2026 15:37:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "HENRY"
-      ],
-      "label": "oil-energy"
-    },
-    {
-      "title": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVpLSXJnM0gxVVF5Um5raVAzNVVkdGdTRVRqallDVjBXYlhMWGZiTWdhTUdHWWY0enFRcHYwbkRjLXBTQV8zdEdVTjFUTGU1LWdJZTZjd3RNSko4NDAxdWFHVkZqZDlETGF6RjZSM21ITWs5akYwZU5XelYzSklIYXliRW5IN1JZVWdZeg?oc=5",
-      "date": "Mon, 29 Jun 2026 18:06:57 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -546,21 +531,6 @@
       "label": "japan-boj"
     },
     {
-      "title": "Dollar slips, yen reaches 40-year low - Honolulu Star-Advertiser",
-      "source": "Honolulu Star-Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjh0SzJ5a2RGeU0zSV80bUxMWGR0NnZrMXlDQ2RWRmRfVHE4VUs2UHR5TC1EN0IySVBfWm02U0NZbVVBT2lMQUNBODNOVTA4dVRLaG91OWpteXAxWjRucklJVDRraEdHMXB0NTVmRUZEUTNZMWtjeE1zWGF4Q1V3OWE0b0t3VTNLb3Q3cWpLNFdaMGJuaVExUA?oc=5",
-      "date": "Mon, 29 Jun 2026 20:26:49 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "SAM"
-      ],
-      "label": "japan-boj"
-    },
-    {
       "title": "Clockenflap\u2019s Justin Sweeting and Woozi Studio\u2019s Mia Min Yen on Asia\u2019s Live Music Boom at Golden Melody Festival: \u2018No Longer Is a Fan Just Buying a Ticket, but Investing in a Memory\u2019 - Variety",
       "source": "Variety",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHlMTm1XdkpBQ2w4eWFSUXlxWDNPWDVycXJjeG11MVJ1ZTZlZVFXS3ZpZHBjeXFkbjRHdTRFaFd2cVR6ajZNbjByQ0s4bnV1eTk4RkVOYU1vU1RnMjBwM0F0N2c3LTVUS3FFUjZQaTNCWTItTE5qUWdfU2NraFpfd09HZE5XdVhwaGlWZFF1cjNJbFpPN2pkVU9VYWpVS0o1M1BwS09GUQ?oc=5",
@@ -580,6 +550,21 @@
       "source": "CME Group",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXJteGdPLU9CeDBLbURMaVpVT1lSTGNmTjZXbDJoVVhrYlhnVnhNRlhGeFo2c3hqWTFjdDJNYUN4ZTVyampKbzM0WEVVVFBleVpoS0ZIWk1leFNndW5MeDI5ejV5S1plcWxSZzNtQmJRM3RncHV1Ulh1d2p6b2E0bEFYSXgyUjhZSkdUbFNSU1h2NmFJNmJtRlpBRFp6d2dpS09ROXdTa3lTM05kOW5nag?oc=5",
       "date": "Sat, 27 Jun 2026 07:31:58 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "Dollar slips, yen tumbles to 40-year low - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGRKcmV0U3puekxiWkh2LXhGYktjR1ZiZjFXemFsRUdWcWNJdzFHWWZzNUc3b0xsVm54WjRmR2FRMzVmWGRMeGk0cjR1cUppbkJVbkkzNmhycFdETVJQcldrWFMyS0JpY3k5X2ZTNEhJczh0cWtWVE4tNWc1ZS1uMmZ2Yw?oc=5",
+      "date": "Mon, 29 Jun 2026 14:37:59 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -636,6 +621,21 @@
       "label": "japan-boj"
     },
     {
+      "title": "Tokyo Stocks Edge Up as Yen Hits 40-Year Low - Let's Data Science",
+      "source": "Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuOVlvOHgyT1NoemctTThRLUI2WUNVYk9LN1dURnI2RDNIbENDMnFyTHlCa2s2eVhxOFB3TWlUd1UtUzJvRnE2bTNmcE12a1FKMmRPYkRMcHdSS21GQklqTmx5ekNEZ1V0Q2t6UHVwMlJmUG1ZUkU4WE4tQXpFUHlWYU1HbU5RMEFRSG0zMA?oc=5",
+      "date": "Mon, 29 Jun 2026 20:09:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
       "title": "Japanese Yen falls to 40-year low against dollar - Investing.com",
       "source": "Investing.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUhXc3BiMEhSMndPdTBqbU9VSHg2d2FDM2l1SGZGbVhnM2xLQzNHMUN2enJFaU9DTWpJVDROT2VReXI4Zi1WNElaWlhzal9XRFFvYkdHdDdwMjhtTUQ4Z0Iyd1NBSDFmVGhhZlJyalJ0R0FVOTNOa2doOUp5LWlQSmRSTXIzbHhZUkpUOEN3RWdnUzZodng5VGNBWTR6Zw?oc=5",
@@ -651,25 +651,10 @@
       "label": "japan-boj"
     },
     {
-      "title": "Yen slips to 39-year low as dollar rally gathers steam - Nikkei Asia",
-      "source": "Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUwzb1ZoR1pVQ2IxVDdyVWV0LW9wcFBmNWNxVGpfNmJZQkFlc2gzQkFuWUpPVzcyeXNGUmpDZ2l0Q0Y5XzFqMGpkRF9vTW5WOENjUUFVU09iT1VQeW1LcGJBVG55SzB0cUd6Vkp2MTdJMGwzeTVnZm5LNXNxT2ZCbjZCRUNSNTVhSDVEMGJ6b0VkcDRrMHBhS0M1eVQ3V2ctQWF6UklnM1JuZw?oc=5",
-      "date": "Mon, 29 Jun 2026 17:11:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "SAM"
-      ],
-      "label": "japan-boj"
-    },
-    {
-      "title": "Take contrarian bet on yen and long-duration UST: The Free Markets ETF - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MeC0zQ2RhOW1XVWZnVkFZbmh3d2pkbGk3U2NXX0ZsUFBPVUtfYzRCTzJwcDkxdUpvc0hSRWt1VXc0RFBjWXFBZ09oQzR4Ri13ekVieC1PVXEtNDhydEt1bl9ydkFSZjg?oc=5",
-      "date": "Mon, 29 Jun 2026 03:49:49 GMT",
+      "title": "Yen\u2019s decline makes perfect sense to some analysts - The Japan Times",
+      "source": "The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGdFTjZJR05IbzVqTGJlSHE4ZHNvNmM0WDdoTVhUVXRpWllmN2NRcnlqTm15V0IxUWZwSExaTjNCbDhVLURwcEVHZkdtTHRxbU1vRV9Pa0NvTXIxZ081c1FjT0xtbzdNdkJiRVl5aHdYUklER3ZkVDliSzQ5RlZPSUxNcVo?oc=5",
+      "date": "Fri, 26 Jun 2026 08:31:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -696,10 +681,70 @@
       "label": "japan-boj"
     },
     {
+      "title": "Companies laying off staff this year include Meta, Amazon, and Groupon \u2014 see the list - Business Insider",
+      "source": "Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUtSVkJCN0tBeHVpR3owbi1YTzFyVHNOZlBWOWt4empJQ29tTnpBQ1ZjbEIySlZ3YnhWN3pLRTRocTdLTURIaXo3RmJqY3RKeHlOc1kxbHBSQ0NSM0NHamVZWjNPOWpKRlpkVEprdW1EQ0RVSW52TEtGem95bDlHVVcyUHg?oc=5",
+      "date": "Mon, 29 Jun 2026 18:31:33 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Digital Eating Disorder Treatment Startup Equip Health Rolls Out Layoffs - Behavioral Health Business",
+      "source": "Behavioral Health Business",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWstZExUTmUzcUkyV0xpWDZ3UDQ2TGtiRWNfUkRYb0QyaXkxV0l0RUdNQk1MOERPdjZGY3B1Y2FQempGYkxTWTBETHhVNUhnejlEZU9mVFBCX0NLdzZjUlY3ZWplbzVsZVRFclFybzlYT2JwbGRWNkhTY3djWlVxV1NGa2tnY2ZuQ05BUXZKVmFYaV9lc3NQWEVMVk1DSFRyQ3J3bERvRjVoQkU?oc=5",
+      "date": "Mon, 29 Jun 2026 20:42:38 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
       "title": "International Paper announces shutdowns, layoffs at 4 US facilities - Packaging Dive",
       "source": "Packaging Dive",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmdYXzJBOHNkRlhmZjVHZG1MZm1BT2Y2eUViZU92aGpVWFU0Z09jaFdDLUNTeHB3Y0o3U2VHNWkxTU5PSF9mLTcyUWxpa1o5U04xOFlDdHNjcUVDNGptOExRa29UcnJMSzJXLUZ0NEtWNWkzNWg3U1h2UkZJVHJpV2xRQngwZ3ktcWxJbHpvRXdIUTNWUFNwenVORzFud1F3bmswd29ldExadw?oc=5",
       "date": "Mon, 29 Jun 2026 15:41:40 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "More than 200 layoffs planned at tech, manufacturing companies in Essex and Camden - NJ.com",
+      "source": "NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0ZxM011bkZpb1JqYk85bW0wY1AteEhXeWZrRVVLMk8tT2xjckNhd2Z5cndncUZNZlVlMFZpQlB2ZjQ0X21MTExoWHpDdklpMzZqVEZZeFo2MjRaRkR6TUhnSGVjSUtlbGQ1aEtQNlg1WkJrbVJmdGVKMzVqeXlWMHBEaU55WXZOV2VCODV3Q29ST0VaRk1PR3BmaE9WTWVjRkNIdzBaME1fcEMzc0ZiWWxuTWNvUQ?oc=5",
+      "date": "Mon, 29 Jun 2026 16:01:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "'I hate this, but that is our reality:' More layoffs coming for UVM Health - Vermont Public",
+      "source": "Vermont Public",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZHFZU3BTb3hWSl9LTHJ2NzFqaDZ4VlNvUjRmMGhUcVNQUmJURDJaUUlLbHA3VEdrVE1wajg3Z0RfM3N1b2JRU1JPZ2EyemhaQ1FVTFpSa21FelpfRGdaakdGcFhGVU00aEh3M3Z1VW1VUE0zMjRFaEQxazVsYUMyTTd1bEtaVUJubi1lcWR5bnotWVVFY0g0Y0lQdVM4VE1STndGN2ZocENnYV9LN2FlbVpZRExURDV4RG9PQmEwMVkxODRrQXpvUWZUbHo?oc=5",
+      "date": "Mon, 29 Jun 2026 20:58:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -726,21 +771,6 @@
       "label": "labor-layoffs"
     },
     {
-      "title": "JPMorgan Chase pushes fraud division layoffs, despite rising revenues - thestreet.com",
-      "source": "thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnhlWGFMb3luY0l6c29zTkpzTXJtZXp0dXFIeENYbFhnd1RzTGQ0TTl6NVZ0RXdtYjJyTjlMZXp6NmZWZHpzU0VULVNFU2FkVGFRaGdnbk5fWVlEb0R4WW43bm9BX0xQQzBFMy1qN21LRWZNWFdOYmt2bmpwbWRnTHFEQ2VGd3pFelJOZmI3N3hGYVZVZTQyUEgwSnRCakcwOFNPa0ZaYUk?oc=5",
-      "date": "Mon, 29 Jun 2026 09:03:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
       "title": "Layoffs NC | SAS Institute cuts 300 jobs company wide; analytics software provider headquartered in Cary, is a global - ABC11 News",
       "source": "ABC11 News",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNREFSd2JKWUJ2akhfWmNaMko0bURMcUFBeXMxSVpOandaM2xPYXFBODhPN2RaSTJma2M3bFVKWXYtNlJZRzI3OHZEOGZ0VTBIMGhDSkdpcjZvRkpsd0R6bzRzbDhsZ1J6NWowdlVacW8weE1oVFJBOEt6dFB3UllTUW9sN3VzeGhqaU9RUzRNZ2dQWUZNUWdlQThlY3I0NkotaGx1UnUybGwwLTNmVU40QXQtQ3g4c3RMeTczb0IyUjVJTGk2UjB6TXZ0LUYyT2swQTl5bGxYeFfSAd4BQVVfeXFMTV93VDN3ZHFvZ25TcEVHZDJKaVhWR0YycDZyQ0IwYXlaVE44bnJ4ek01LV9QT19MYWVoaFhzODA3MWZlTkR0SzVPX0pFZno1aWtUbEh3elJ0bldXUGkwcU5rY2p2WTJWN0FKSnAzLWwzMzZQdm0zam9RRS1vNVAyQ2sxMXVvcFlWVXVCYTVXNWoxT2FTeTBZZXAzOVprQWlTejZJUkhsNk8zSFdlMW50VmdQUWFfckJ5Rm1fN2ZucE1mcGJaS1N1MkRWS1J0eXJxOVlwYWFFYjdONWk3TDRB?oc=5",
@@ -756,10 +786,70 @@
       "label": "labor-layoffs"
     },
     {
+      "title": "JPMorgan Chase pushes fraud division layoffs, despite rising revenues - thestreet.com",
+      "source": "thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnhlWGFMb3luY0l6c29zTkpzTXJtZXp0dXFIeENYbFhnd1RzTGQ0TTl6NVZ0RXdtYjJyTjlMZXp6NmZWZHpzU0VULVNFU2FkVGFRaGdnbk5fWVlEb0R4WW43bm9BX0xQQzBFMy1qN21LRWZNWFdOYmt2bmpwbWRnTHFEQ2VGd3pFelJOZmI3N3hGYVZVZTQyUEgwSnRCakcwOFNPa0ZaYUk?oc=5",
+      "date": "Mon, 29 Jun 2026 09:03:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
       "title": "Layoffs Looming, Xbox Union Members Argue For Transparency And Good-Faith Bargaining - Engadget",
       "source": "Engadget",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGtnNlZ3X3pNaGV1MlR6b3lLT0p1ZG42VWp2QkNCcWdBdUlWdVdmT1FGOHRGd1lsMlk4eFN3NVlUT0FLaDV4MFVYSEF6RWt2eVRVTFNKU0UwTDlIYm55dnVlcUdlcmUxNWxtVjNoZkhuOFlCaXFuXzZtQzBsTlFsaHhQdXl5ak9qZ3oxUXNfNXhZbUd0R2FhLWNIVlY0Mm42WWFR?oc=5",
       "date": "Mon, 29 Jun 2026 19:06:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Trump\u2019s tariffs aren\u2019t saving jobs at Whirlpool\u2019s Iowa refrigerator plant - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUItamM1R1pTcmZMLW5MbWt1YUxzcFJSQ3JWZTdxMjRVMXRrak1WTk8taThCNDcxd3hxMGFFb3oxY21Zc0U3YkdZZ1hsbV9fOHVfaWd2SERTT0ZWY3drV0FlcmdidVdIOXZNUlhNWnhwc1VvVWwwTUdrWDRINmloYXpRR0c4cWJNTlI0dUVGTjI5YWRLbE9Ic0l3YmJmVWVjcVpydlRmWWt2ZTJ3ZF9MaGhNMnp5WjU1VVpzbG1CMVYtM3Ro?oc=5",
+      "date": "Mon, 29 Jun 2026 19:43:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Layoffs are \u2018inevitable\u2019 at Temple as school looks to cut $60 million, president says - Inquirer.com",
+      "source": "Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlVHSVczZktFOW1pSDJLeGlBTllrbXNiR3lzVGt5OVZ1ekRPQVJvZGszV2IxQWVwdlRod3BhcW1INmwxcmNHYWVmdC1maDdRNWpSYjRvZjBrWHhZbElXY0dwbnB3T3cxSnFDTTFEc3djRjB1Q1ZuT2JOXy1YZjZlNFliMGZaOG5TMVRVV1BYMA?oc=5",
+      "date": "Mon, 29 Jun 2026 20:37:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Unionized Workers At Xbox Respond To Layoff Reports, Say They \u2018Will Not Be Treated As Disposable\u2019 - Kotaku",
+      "source": "Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemFIU3hJajdlUFpCMnY2bzFwdWpXTy1oVlVQWmhTNjc0MXptcjZ0TWtRbXA4d2g2RWZEUkpGUDE5S2VMNjQwblBRSlJ4YXhYNFJ0Y2VLTkYtZXVzM093LTRPTzNlTUZ1cUpQdWo2Qy1NY29JQUxqQ0UxbDJiaFRqNnlTM3BNdm9kX09SZEFwQkphcjBjVFJqX2FZaDR5d3VqUDVmbHVubC1Wdw?oc=5",
+      "date": "Mon, 29 Jun 2026 16:39:40 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -790,96 +880,6 @@
       "source": "CTech",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RSWN2VktSSUZBVGxMSzgyR2Y2S2Nsd1FldGx6OXlDU3R5WFRILXU4LWliN1lPNGdGRXB0OEVfdzJiUVN6cU43bjY1b3VFU2dpNVVwNWoyS2d4cFFTcWRQMDJfTnFDdDJN?oc=5",
       "date": "Mon, 29 Jun 2026 10:18:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "Unionized Workers At Xbox Respond To Layoff Reports, Say They \u2018Will Not Be Treated As Disposable\u2019 - Kotaku",
-      "source": "Kotaku",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemFIU3hJajdlUFpCMnY2bzFwdWpXTy1oVlVQWmhTNjc0MXptcjZ0TWtRbXA4d2g2RWZEUkpGUDE5S2VMNjQwblBRSlJ4YXhYNFJ0Y2VLTkYtZXVzM093LTRPTzNlTUZ1cUpQdWo2Qy1NY29JQUxqQ0UxbDJiaFRqNnlTM3BNdm9kX09SZEFwQkphcjBjVFJqX2FZaDR5d3VqUDVmbHVubC1Wdw?oc=5",
-      "date": "Mon, 29 Jun 2026 16:39:40 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "NASA OIG Response To Congress On GSFC Closures and Layoffs - NASA Watch",
-      "source": "NASA Watch",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakw3Q19JYmt1aUZROEx6SGQ4Y0FrMmN1WnhUbk91X3JsZ2lVNTFlSUV0UGtvMDhwVDlETWpxejhGUG51dGpzLXlqQk1uVGlyTTlNdTJBdjlwQkg0cXNUWGJCU1h4X3BTbWhsT2thOFZ5dkRQVC1ORVptQ2d0WVlsdGZfOFJQMDV2YzNnUnhiZFlYWmNERllJ?oc=5",
-      "date": "Mon, 29 Jun 2026 18:19:45 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "CompanyCam conducts round of layoffs amidst indicators of continued traction - Silicon Prairie News",
-      "source": "Silicon Prairie News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXpYaXhMZWwxWTEtaDBmMG5VaTFKU0hCcGdIRHJTYnFjRE5kVUtBYkhyR1N4UDg0UGF1QUFTa01MdXEtRWdKanJRakVFbGRPZE50MGhUcnNORE5WcHhKRFpwT3k0WmRjaS1RcHZhV3FkUktDRU5KRjBWdEpIa1ZvUjB3YTd3VkxsNWxDX0t6N01WVTlHVktUbVdzbTkyNUhqSTlYSXhxUzRhazBSRHZUcjdWcjVtZEk?oc=5",
-      "date": "Fri, 26 Jun 2026 19:58:33 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "Amperity hit with layoffs as AI changes the shape of the customer data startup and how it operates - GeekWire",
-      "source": "GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHdsQUU4czlXOVFrUlJ5dEtJUUctdnhPcW1EN21Pc2xRUm9RZmUxaWtxR0tESWZwb2wtekNueW5XdU8wcGZZYUx0UktPY0c3V2ZpX2FER2hKZ2tsRHI5S0pyN0hIQ2lyXy1vNDV3U1NheGRVYVFNLWptYUY1alRwVGJVZ2E2WjZWV0JXekpGMTlpR0Q5R24xaTJHUkRuNENRdGtuaUZySzBnWEFFcmYtQ2JtVW5lMVpsMU1MVmJLT1FQeVBsRG9mdA?oc=5",
-      "date": "Thu, 25 Jun 2026 20:29:45 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "CWA-represented workers at Xbox criticize Microsoft management and pending layoffs - GamesBeat",
-      "source": "GamesBeat",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFQ0YWQ2ZklCSHp4blIxUXJTLVhtY2dMZUNic2Y0d3B1UEZEbVlQazdVSHY0a0RpOHZIS3FLdnRDSmg4Mjdoekk5OTY1SkdvbTU3WUsxVUZvcjdLVGg0Y0VvYUR6R2I5VllLbEF5c3d3cC15QVNnQk4wSFRBcl9iVmxRQ1NlUHhOYnZ2bWJaU3gzNkRXalBxSk1nNVdxQlRNam05dF9rbUk?oc=5",
-      "date": "Mon, 29 Jun 2026 18:45:33 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-layoffs"
-    },
-    {
-      "title": "SUN: Johns Hopkins University announces layoffs, eliminating 110 positions - WBFF",
-      "source": "WBFF",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVhtaDdreGQ0cEx0eE05bGh4M3d4aEZZQjk0dnlyUlRUR3VIUjU3c19DRVFFRG1uUk10UWtLbXJLYVBtSDhsUXFGeUZMUUZrcXZyaWZTNnBhU29mNENsal9PLWFRYXJGNHc1WTlXUlYxS053UVhYT245MGwtSWwybW5yc1AzU3dDQnlsRFNWWUNWVy1yU2pnU01R?oc=5",
-      "date": "Fri, 26 Jun 2026 13:19:35 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -924,7 +924,22 @@
       "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead - CoinDesk",
       "source": "CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0REV3hWdGlCbW9obHRkZk1VS05JNDNrMlcxUUVaeGIxd0VvRzZnaU5fbUhoMGpvaXVDUllzRnRRT0RmYjVFOWp5MWJuTGlrOUNyYTgzeVVtc3dxRktlYWRJdnQxbmVDc0FTMC1nTmpCVEtoc1R3T1pGSkpXT0xfamhaWjNvNTI4dVg2MXI5a2RvWU02dDRuaWdBYTVSa2xMRHFYeFljdW5OZ0FiN3dDQzVn?oc=5",
-      "date": "Mon, 29 Jun 2026 11:10:49 GMT",
+      "date": "Mon, 29 Jun 2026 11:10:50 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "172,000 Jobs Doubled the Forecast. Thursday\u2019s Report Could Move Gold Again. - GoldSilver",
+      "source": "GoldSilver",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUNuNjJFT0ktbmJiUlo4ckpXSXVtaHdKWGExVFFfSEZOckpUa0RoYUl3WEhZR2kxMkdtV2tvRlRaQVJCZWpQU3h5eGhMcjF5MjlNVVlmOTFYV2k1cnBjejV0MmNLR0xFR1J3RlFnV3pEM2NNLWFodU4xT2FqUnRkdGpwNnM3OHItNUltUDBIUQ?oc=5",
+      "date": "Mon, 29 Jun 2026 18:29:58 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -951,10 +966,10 @@
       "label": "labor-nfp"
     },
     {
-      "title": "Why Thursday\u2019s June Jobs Report Could Move Markets - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHBaSXNuNmlOdGZsdHd0UERMVk85Z0x0d1Iybl85ZVdoOVViSXJNMXBxUjJvdnUxX1RNd2IxNjJvOUZ4bDFtY3Q0SUEyYUhfVGlLREZRWmlDNTc1bDl1UkJXMm1QYWpHWHI4WXBZNHlVcHYzZGFuMks4UG45RU9Bd0JPX2RCclJTTUpNdWdQT2lQQlpla1VxTHp3?oc=5",
-      "date": "Mon, 29 Jun 2026 06:45:00 GMT",
+      "title": "June jobs report should reinforce the Fed\u2019s inflation-first stance - rbc.com",
+      "source": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWxCYWZHenlZQTUtblFsLTE1WC1UdTNiNE1EdC1Mb2pQcVU3VmpEa096UmV6QzhJR2FYeTB3VU9CY2Itb0Q0d08wOEVDbTdvemNpaURncTZXTV8xZDJNVEl2XzRZTW1VcDVfSXZGaHpJMk5pbWFaVktiWDVob3k0aDNjMVB5TE5uaDVkTnlQRUN2TDJNWkNFMTBWb0NvdV9KTkRCc0hlSXhfMmFRX0puZmIxUQ?oc=5",
+      "date": "Fri, 26 Jun 2026 16:18:57 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -981,21 +996,6 @@
       "label": "labor-nfp"
     },
     {
-      "title": "June jobs report should reinforce the Fed\u2019s inflation-first stance - rbc.com",
-      "source": "rbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWxCYWZHenlZQTUtblFsLTE1WC1UdTNiNE1EdC1Mb2pQcVU3VmpEa096UmV6QzhJR2FYeTB3VU9CY2Itb0Q0d08wOEVDbTdvemNpaURncTZXTV8xZDJNVEl2XzRZTW1VcDVfSXZGaHpJMk5pbWFaVktiWDVob3k0aDNjMVB5TE5uaDVkTnlQRUN2TDJNWkNFMTBWb0NvdV9KTkRCc0hlSXhfMmFRX0puZmIxUQ?oc=5",
-      "date": "Fri, 26 Jun 2026 16:18:57 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-nfp"
-    },
-    {
       "title": "Editorial: Jobs report exposes CT's one-party government - CT Insider",
       "source": "CT Insider",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVY1ZVdlOVlkNkZaQXczLWthaC1WSnhCRUlfdkxwbVFwUHU3UE0zRGhPb1hBbER5UC1rMmZKNHJYTmswd2wwTXlDbFZsVHNOYWFyWEtCQTZibXlvRHQ3OEJoWXIxbHM5ZGotU1BNRWljalQ3MHk2cUV5UDgtai1TNW9rd3FmUXlXWWxoNGJSeV9TRFZick5FMXY2aXlLUQ?oc=5",
@@ -1011,25 +1011,10 @@
       "label": "labor-nfp"
     },
     {
-      "title": "NFP week \u2013 USD in focus - FXStreet",
-      "source": "FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxUk82RzZHdTFoazVfZG1XeUREYjlOZzJkTTNKQ0lPTFUtSnRrUXJHQmFYTDRfajk5SVVnQWFvZ2tZQVB2VkdpWFBhbWVneEEweEFFa2JJT0RnT29naERVeXZUeWZlUUFmWmd4Y1lHcWt5aEp0N2pB?oc=5",
-      "date": "Mon, 29 Jun 2026 08:12:04 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LABOR"
-      ],
-      "label": "labor-nfp"
-    },
-    {
-      "title": "Dow Jones Futures Rise On U.S.-Iran News, S&P 500 To Reclaim Key Level; Tesla, Jobs Report Loom. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDNMaFJMX3hmdWRlMm9TaDBuSlRRa2hrUER5bC1EbnRuUkR3cTByR1h3TDlndDhfcUFETW5CZUlXaFVta09fZ3lheDJMNkJjdHV0cHlITG1Pb05jV1FYZV9vajUyYlRQRmlpb1MyUVRUVkJscjdKVjV6eGpXelV3WWR2X2RuNW9NZFFBNGxVeTAtSEJud0ktTlhnQnZYdURZeUdLQk1lZ2Y2MDVTQ0RFaHVlTVQ?oc=5",
-      "date": "Mon, 29 Jun 2026 12:06:00 GMT",
+      "title": "Why Thursday\u2019s June Jobs Report Could Move Markets - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHBaSXNuNmlOdGZsdHd0UERMVk85Z0x0d1Iybl85ZVdoOVViSXJNMXBxUjJvdnUxX1RNd2IxNjJvOUZ4bDFtY3Q0SUEyYUhfVGlLREZRWmlDNTc1bDl1UkJXMm1QYWpHWHI4WXBZNHlVcHYzZGFuMks4UG45RU9Bd0JPX2RCclJTTUpNdWdQT2lQQlpla1VxTHp3?oc=5",
+      "date": "Mon, 29 Jun 2026 06:45:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -1056,10 +1041,25 @@
       "label": "labor-nfp"
     },
     {
-      "title": "Gold weekly outlook: Central Bank speakers and NFP in focus - FOREX.com",
-      "source": "FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnpOR082cXFiQ0xSdXIzdEFSVjFIQ3NPTnRSV1VmMG9QZjdSOGdXVXQyNlVUZkR3eU9lZi1ocW1NaDlwRE9qZW5EamhkcWNZbE9TNjM0eHVLaXZZZmRNOU9iOUNTV2RmbEI5T3E1NnFHMllfcENoM2laQXU2U3VvblBrTU55aV83Zi1JVFZTUHpaN09yV3NFMElpREdYa3dwWk94SzR2N1nSAbQBQVVfeXFMT2Y4Z1dYYzdPeG9FYk56VDZETHNTZnBGQUZjTGlmeEpzcE56RExrUE5nejhfQXRGRUlubER4T1BoenlCT1o0ZzJiODRZQS1Yb0ZfVkhfeFFKazZFRTA0eldSRTE1djVHdFZsSS1CRkJhT1JpR2xYaFBvLWtUVF95WWlGYWZvUHlxRFI5TmloVzc4MXpPSjM3SWNPUU9LY01hLW1xMEtKS1JseXRDU2hja0NfdjY1?oc=5",
-      "date": "Sat, 27 Jun 2026 20:23:46 GMT",
+      "title": "Dow Jones Futures Rise On U.S.-Iran News, S&P 500 To Reclaim Key Level; Tesla, Jobs Report Loom. - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDNMaFJMX3hmdWRlMm9TaDBuSlRRa2hrUER5bC1EbnRuUkR3cTByR1h3TDlndDhfcUFETW5CZUlXaFVta09fZ3lheDJMNkJjdHV0cHlITG1Pb05jV1FYZV9vajUyYlRQRmlpb1MyUVRUVkJscjdKVjV6eGpXelV3WWR2X2RuNW9NZFFBNGxVeTAtSEJud0ktTlhnQnZYdURZeUdLQk1lZ2Y2MDVTQ0RFaHVlTVQ?oc=5",
+      "date": "Mon, 29 Jun 2026 12:06:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "NFP week \u2013 USD in focus - FXStreet",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxUk82RzZHdTFoazVfZG1XeUREYjlOZzJkTTNKQ0lPTFUtSnRrUXJHQmFYTDRfajk5SVVnQWFvZ2tZQVB2VkdpWFBhbWVneEEweEFFa2JJT0RnT29naERVeXZUeWZlUUFmWmd4Y1lHcWt5aEp0N2pB?oc=5",
+      "date": "Mon, 29 Jun 2026 08:12:04 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -1101,21 +1101,6 @@
       "label": "credit-spreads"
     },
     {
-      "title": "What to do about space debris? - The Economist",
-      "source": "The Economist",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90a3NDM3lpams5YWhpX1VxYjRfNWJJS1k3bTAxX244X2VobHVLcDFxTDBYNnlUcXJHNnlGYVoyNlpSQ3NDUzZQam1WaENCYlNuc0Z4MXJzQ3B2WU9FYUZha1lDdkx1WlJESlBOSThJYVM2SVBEd29HeVM5NlZwRXM?oc=5",
-      "date": "Thu, 25 Jun 2026 12:58:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "LIQUID"
-      ],
-      "label": "credit-spreads"
-    },
-    {
       "title": "Infosys Earns FICO Recognition for Credit Stress and Collections Framework on FICO Platform - FICO",
       "source": "FICO",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUFSNjNTZnp5WXdRdXhxc2dJTTRHblFqQ3NpU0owcm5DbnR2QzdEWHRadnFTXzNvQ19VRnVpZ3FGMk5wR2VIS2NSX2o2Z2ExOEYyZ21RVmdjRDRHNVBOeWZJdnFDdkZxYWZsemptbFpFdW5TR0tHUGc4OW82Mjg0UXhKMDVjOElVa1RnRWw0dHNWQkJHTFlVOE5ielZfZnpfbFhWQlBkWnBKSWZJeXFzaTVoMnVkTjRl?oc=5",
@@ -1131,10 +1116,10 @@
       "label": "credit-spreads"
     },
     {
-      "title": "Will Nu\u2019s US$1 Billion Buyback Amid Rising Credit Stress Change Nu Holdings' (NU) Narrative? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11TEU5N3N4Mk5SNWVXSzEwY1dJQUtya094dlNDLXlxRUtoOHE0WkpWX1dPMmZCZ0l0cndhSnBOc0w5LUc4eFhZb1FSTGV6ejVnVHpfSkpYN0Q0am82dDBnTmdMbFo1b0pDWjZpa25qdHJjalpfUmRMYQ?oc=5",
-      "date": "Tue, 23 Jun 2026 17:14:42 GMT",
+      "title": "7 of the Best High-Yield Bond Funds to Buy Now | Investing - U.S. News - Money",
+      "source": "U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSlJQOFc5WnFZMnFVMjUzdUJDV0ROTGRSV3A0Yy01aER5amlPQV9PQXZ4b2lwZ0g0SlhYYW9PdGxBbGV6OVhmZHAwS2h2aVg1RjVkMjhvb1JhTVZFSlRmdC1jSi1PdFZKZUh2aTF5QVhhOWU0ZXBYU2dn?oc=5",
+      "date": "Tue, 09 Jun 2026 07:00:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -1146,10 +1131,10 @@
       "label": "credit-spreads"
     },
     {
-      "title": "7 of the Best High-Yield Bond Funds to Buy Now | Investing - U.S. News - Money",
-      "source": "U.S. News - Money",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSlJQOFc5WnFZMnFVMjUzdUJDV0ROTGRSV3A0Yy01aER5amlPQV9PQXZ4b2lwZ0g0SlhYYW9PdGxBbGV6OVhmZHAwS2h2aVg1RjVkMjhvb1JhTVZFSlRmdC1jSi1PdFZKZUh2aTF5QVhhOWU0ZXBYU2dn?oc=5",
-      "date": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "title": "Will Nu\u2019s US$1 Billion Buyback Amid Rising Credit Stress Change Nu Holdings' (NU) Narrative? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11TEU5N3N4Mk5SNWVXSzEwY1dJQUtya094dlNDLXlxRUtoOHE0WkpWX1dPMmZCZ0l0cndhSnBOc0w5LUc4eFhZb1FSTGV6ejVnVHpfSkpYN0Q0am82dDBnTmdMbFo1b0pDWjZpa25qdHJjalpfUmRMYQ?oc=5",
+      "date": "Tue, 23 Jun 2026 17:14:42 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -1296,6 +1281,21 @@
       "label": "credit-spreads"
     },
     {
+      "title": "Don\u2019t Toss Junk Bonds Out With Private-Credit Debt - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTlOUXE1R1hoT1BEakthMVk1N1V2VmM0bmZxcDVsOWxRWGNEUEhNb1Vpb0I3Q0ozNC1meEFBTVdodjc4cXBtQVByNk5GMk1VelZkMVdIY1VWM01GWWtuWUpuNklxUzV0a3FMQjJXc0Z5bnhiWGJ4TWg1MThnaEVEMkFfNUluMHFyZHdVV3JNQQ?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "junk bond",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "credit-spreads"
+    },
+    {
       "title": "Bitcoin News Today: Crowded Dollar Longs and Record SOFR Short Bets Could Snap \u2014 And That Would Be Bitcoin's Best Near-Term Catalyst - Binance",
       "source": "Binance",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzZTk2c25wOTA3TnVWcTJiemhwbzFqbF96WkVFWjVRRW8zSWZiTFFTeV81OVlHTGtxUHhIbVlqbFNNcGoxWUtCQ2hYREZxZFhkVDZiUVBBMVYwRFYzNGhzNkdPSFM?oc=5",
@@ -1371,6 +1371,21 @@
       "label": "funding-stress"
     },
     {
+      "title": "ISDA Launches US Treasury Repo Market Clearing Indicators - Markets Media",
+      "source": "Markets Media",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdW14cDF1azZwTGFpZmNPdmJkdEtLV2N2X2hDNGswWGRVaXZXeERtWFpZeV9OSGhGUDhncTBsR05yTnRCeWd4V2JzNlNBN1FuQlRqelJweDUwdWUwTFo4Q09uRDRBOFhSbXgzdHFhc19ZUmlCMUVEdFZCNllHY09CVEFXMU1uOXZsZU1HN1psTFI?oc=5",
+      "date": "Thu, 11 Jun 2026 09:38:51 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "funding-stress"
+    },
+    {
       "title": "Taking a Page from Commodity Traders: A New Playbook for Commercial Real Estate Investors - Boston Consulting Group",
       "source": "Boston Consulting Group",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGppUVhESXp6OUFIek5xdnltdXNHXzFxQjFKNW05cGk0Zk5DSXp0NVVXaTF5bnppLXpJWndTWC1aM2l2QXRGd0pMTmdhNXBHZWJhNFFVeUZweFMzYUtvREVMMEkyZWY5aXdfalRBbDc5MjV5SzNwWl9DVDNQcDQyY0NENzVoTGVoanlDQ29NQWxoQXc?oc=5",
@@ -1397,6 +1412,22 @@
       "watch_hits": [],
       "agents": [
         "REGINALD"
+      ],
+      "label": "cre-stress"
+    },
+    {
+      "title": "InPoint Commercial Real Estate Income declares $0.1042 per-share cash distribution for June 30 record - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVnVqSUkyWmVkdk5sNEZqWjVzajZFWFl5bTlOODF3ZkhzbUJXTnRwQVpyLUo1S0tUYlVEOXAyVzUyeTZtM1huNzJKdVM1eGNjbW9ZZUZWXzVuWGNHZDRZb1VVS0Uta256alUwRXRoVE9mb0Q2Tnl0bjU5RmdEOERzQ1ptMUtmOWxtWlRIUE53QlhxUHFkR08ta2xUWmZlU3FJVlNUZzhIMnA5MG9iaFVicm93b0pHZnZfdWpkS1dXR2tTRU9pMTl1bU9TR1Nqc3QyZUJ1WVh6Yk0xeGx1dGxuVWxIVWlmZmptM3llVWl4T0hZR2xT?oc=5",
+      "date": "Mon, 29 Jun 2026 20:23:01 GMT",
+      "classification": "DEVELOPMENT",
+      "level": "normal",
+      "keyword": null,
+      "entity": "ARES",
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "BROCK"
       ],
       "label": "cre-stress"
     },
@@ -1553,6 +1584,22 @@
       "label": "bank-stress"
     },
     {
+      "title": "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield Guardrails to Prevent Deposit Flight - Bank Policy Institute",
+      "source": "Bank Policy Institute",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzYybTl0dHVDOG53X2FMRWFPMnVxM1VkdkFia2VXYnR5dWlIY2hMbGxldjlYODN2MWZ3anZObnZZZFRyYURfMnhLZmdLMUZiekY1T1VLVmlsTWJMdm1Ranc5ekVJVGNlX2p6RkotZ0NmbHduOEhla202d0lVOHh5R2Fzd3JUbXVaNzdUVnp0LUpJa1UyTUN0MS1QdmtEU1dsRTV4blRZdlJEd3BGRTZwTUVtVnV2anJ5S1dEQU05SWYyVk9UVFJjOXhxVTZ4QQ?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "deposit flight",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "LIQUID"
+      ],
+      "label": "bank-stress"
+    },
+    {
       "title": "A Year Into The GENIUS Act, The Deposit-Flight Question Is No Longer Hypothetical - Forbes",
       "source": "Forbes",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWFhtTUVSd3haTEYyeUdEd1J3RWxENHZKTEVDMkVlSEpHOGtHVmV6SUxieFQxQ0xEbW1fTmtkWE92eExpTi15Si14N0RDTF9aUGRzUmZNYV9HUlZ2WUo1Vk52dGx3VU9iY1lWV0JVdVNMdFVoS2ZmWWNCanhySFowU1UtaWNxWHlsaTE2OExQdWMyeGNrckRSVjNxMFNUTmZJSjI1ZEtralFXRGRCVVFRNDhVclRKZlJuNXpzN1hsekF6aGo1WWF3NXNWV3BGbWstYnc?oc=5",
@@ -1601,10 +1648,10 @@
       "label": "bank-stress"
     },
     {
-      "title": "The Next ECONOMIC DEPRESSION | Bank Failure MELTDOWN Wolf Stock (yemfdycP8X) - Mshale",
-      "source": "Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rdlduOEFUR2VQUV9DUXlqVm9uajhyd0thX2xnVGF1UkpGSmNPRW84M2Q1dmJXNVlROE43MW1Oak4wREZTSXpTZU1NMEZrdmZ1YTE2eUZmSmdpbXM?oc=5",
-      "date": "Sun, 28 Jun 2026 04:23:52 GMT",
+      "title": "NDIC says 281 million depositors insured against bank failure - Punch Newspapers",
+      "source": "Punch Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFBPNG1jd0ZtbllHSm5pNjFMR1M3RURINzV5ZHdBSXpkelUtbVBlQ2dkR3NYa0NkYVNmajh6ZWJpTURTZ0ZERHpwYklIbEx0TTJ4N0kwVy1hVmphdUVseWxxYWRXQ0RUSU9LMnZ1MUUydzA3UmFYYmp4dHA3T3dsbDRVdnlvMVM1UlE?oc=5",
+      "date": "Mon, 29 Jun 2026 19:35:58 GMT",
       "classification": "NEW_ALERT",
       "level": "alert",
       "keyword": "bank failure",
@@ -1681,58 +1728,42 @@
       "label": "bank-stress"
     },
     {
-      "title": "8 Key Takeaways from the House and Senate FSOC Hearings - Bank Policy Institute",
-      "source": "Bank Policy Institute",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TajR3Q2JuUlhSMG9zMjRxQVRYQmhraXVaWi1UUC1uU3VnRTFFUHZidk14dVgxMDk4bmN2WHdkMHR3dURkcWtyeTNjeVl3bk9SUERlcXIwakdlSElGaGV6TjJQNHJMcHgxR290eVpzU0htT0U5ZERiRGdzWDU?oc=5",
-      "date": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "GENIUS Act Stablecoins: Bank Deposits & Dollar Dominance - galaxy.com",
-      "source": "galaxy.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUpGSzZjc21QTnZ0cHNrVWlsTUZDOWdWREMxMGt4Y0s3c0RMdlE1V3EtazJqbDZGY3dOcEF3dGtPUFFibXd6RDV0MTNFUmVNSmZXUk12VDg4TFAybTV0eGEySzBFczc2eGsyZE41Zm9BVXJnMGxPVm9FNTJYZDlHSGlkQ2p3NTNyOFhhVmkwUXNLakhWckJ3YlBYMVFMckU4TTgzcmRn?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
-      "title": "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield Guardrails to Prevent Deposit Flight - consumerbankers.com",
-      "source": "consumerbankers.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzMtbi1jeUhMT1M0UmE4ODREeXU5QTdIQ1REM1FIS3lUYWtic3hZOUEwSHBFOHRGYmowWHY2bkYyRENwQ3VvaG5MbDdXSlhmZnRaQ213bGZIem5iTTU4cGlMb2tiamJvaGZta0hHZVhGNkFocmpUYkktZDBPMmRxTmpTa0VFdldQWklqaHFXUUNLRUZMQkxFY1dydVZOdUhzZlcwUnFSN0o0dERwWmZxTUV0NGo3Tk5qMDd2bTFlMG95dEJ5ejNPMENwWHAtd0t6U3ItSkxiVkl0ZHhHalMzaDFTX2NVaXV5eExuQUhBZ2I?oc=5",
-      "date": "Fri, 08 May 2026 07:00:00 GMT",
-      "classification": "NEW_ALERT",
-      "level": "alert",
-      "keyword": "deposit flight",
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "REGINALD",
-        "LIQUID"
-      ],
-      "label": "bank-stress"
-    },
-    {
       "title": "Fed's Bowman says new external review of Silicon Valley Bank failure underway - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR01VSURTMVN6SGRmV0xmaEF1NUZhTXBrSVJ0ek1reGZpckFqdVYtOGh6UzFsOG5NNjRRZWZfQjhtRjBYLXA5TzEtSl83akRDcGd1a2dySVIwYnFPVjN5ZmJqTlVMTUVxM2ZsbTdWNnFONFVSRE1qajcza0JMRGxtalJMdkpOYXRJcmhQS2hreGw5VjVVNXZkWi0wTk82Q0t5TVRuY1dxbmhNTmtKQWs2MEYzMUVfSE9RdUdieEdkcWFRLVlZVDhiWDdWcGZsNmQ4alVXbGhKaURRbW9NVW0yZ0FmTQ?oc=5",
       "date": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "bank failure",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "LIQUID"
+      ],
+      "label": "bank-stress"
+    },
+    {
+      "title": "User Clip: Clip: Washington Mutual Bank Failure, Panel 2 - C-SPAN",
+      "source": "C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVhCdlBlMlA3YnNJWjRVOEF6cjNobVJDMnZMYWFDRGxBVmN4RnhGRTVHVFMxalZOdGlJSHRNNFNBY3JERG5Wb2hnaHFMcW56UEdBLVRDOENPQzIyWVVRZldzMUcwVUlVMnVxRDgtOFQ5VDg4NmVnVnpvU0NDR1ZnWTF5OU1KTDd6aXI0a1ZTNk5fQ2VvaThWXzNIZmVibzZScUR5UTZXd0dGZw?oc=5",
+      "date": "Thu, 19 Mar 2026 08:27:17 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "bank failure",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "LIQUID"
+      ],
+      "label": "bank-stress"
+    },
+    {
+      "title": "Bank of England updates bank failure playbook after US regulator\u2019s nod - Private Banker International",
+      "source": "Private Banker International",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkUyR2VkVWF0OGhXSWFRRGN6U2JoM2h0QlpkNm40LW9Bck1ha3FfR0gxTVd6RkExWnVxdl9FQV9QQXpraXp1WkhrNjBSTldRZ3FxNEpjTHVJcS0xdUduUXpFVFFITmJINGF4cEdBNzJtLWxRMVNhLWVtcnRGQmh5QVhGMFBnLVBUNUE?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT",
       "classification": "NEW_ALERT",
       "level": "alert",
       "keyword": "bank failure",
@@ -1790,6 +1821,21 @@
       "label": "consumer-stress"
     },
     {
+      "title": "Prime, subprime auto ABS spreads narrow - Auto Finance News",
+      "source": "Auto Finance News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblNvZzBQQl9rbzFKeXp0Nzh0RVhyQ0FqdnIwZE1tcHBLdmxYRklIYTVqNmtXbjc0Y2YteHM1Q2llMVBiVm93NG9rV0NSS3hBQ2pMb1RrcXlrQWJoZTk1Z0RUQkRLbHV2NlJyMV9pcG1CYS1QRFBXVEs2bi16bDE5cWpfN3NXOVl6aWhtNW43QXkxMkxpZmEyYUdpd0g?oc=5",
+      "date": "Mon, 22 Jun 2026 22:33:28 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
       "title": "Meet The Companies Most Exposed To Subprime Auto Risk - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHNnVXUzOHhnZUhUSXFPdGoyeElPMEZmVEtTdWxsb2liejBkOHZpeFlpYWFvMmhETzk1S1otWHRrWUhBRjBQLTRpcHFTc2NkNFgtNG9GQlpaQmtBRUV3cDdJaGdSNFUzbGh3bkc0NWI2d0J4RjJzdG04M3J0R2RhWjIwaEt2ZE1heUE?oc=5",
@@ -1809,21 +1855,6 @@
       "source": "Transport Topics",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TbmttUjZ4Yjk3Ujl5VXJDbXlxbXhrcHNvRVJ0TnE5RVRMbG12WklxRGR5MmdOR1poNmlPaXdmSVpHLVRaMHkxdTMtLUhDYm1IejVRbFVmZHFjUnZNdllNeVZxalBoeDA?oc=5",
       "date": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "classification": "NEW_WATCH",
-      "level": "watch",
-      "keyword": "subprime",
-      "entity": null,
-      "watch_hits": [],
-      "agents": [
-        "CARL"
-      ],
-      "label": "consumer-stress"
-    },
-    {
-      "title": "Santander, Exeter, Westlake deals boost subprime auto ABS issuance volume - Auto Finance News",
-      "source": "Auto Finance News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0I5Z3ZvN0RvcGRTVGREOThycTVDSU1YYlhIdnUtRVhvVFl0TWdGVzZFMV9NQkdMeEdZMUw1NXZ5WjZjME03dFBLa2REa21wa0VTQk5KQjEwSFFBOVhfckpqUURKWEh3VTVXeHMzcXdCdTZiXzlNNkZndUJhRlJJdUhka1VqMTJUSDQ5UVNkVnRyLV9FT0xidEk5cWIyT25jS2Uwd3czWktweElCeVByWDJpV0FNOVVxQjh6VGJKdHFHYzM5ZkZFWQ?oc=5",
-      "date": "Thu, 04 Jun 2026 22:01:37 GMT",
       "classification": "NEW_WATCH",
       "level": "watch",
       "keyword": "subprime",
@@ -1955,10 +1986,10 @@
       "label": "consumer-stress"
     },
     {
-      "title": "A record number of Americans are behind on their auto loans - marketplace.org",
-      "source": "marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFVydVktUV9hVk5mZzUxREhrQ0lwQ05adk0yWlVGbzJrY1B6S1Y5UjNfekJMRmFDVWRJS1Q4WlFueEE4a1FPeVRpOWpTM3pIZUd0ZjRrQzZyTUhQWXpKLXYtcENFRXJtN1VBWW5PWnBPRjdqY3dncHBoVmp4My1wb2I0TnhEMGEtTzdTTkdGamtVMVFPaE15QmN6WWt2ZERUa3F2a01RZw?oc=5",
-      "date": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "title": "Florida has lowest credit card delinquency percentage in U.S, study finds - WUSF",
+      "source": "WUSF",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHcxZ2ZCNjBSTUp5X1J6SS1Od0JjQU5xWUFoUmM1V3pURDFNeDVva2N1R2pMODJZNlZMV01FX29qd1JFdlZNZ1pZZWI5SXYxMENXRThqR1FJWlFmc0RrWU0tWVZaU19BcDl1RHlVb2FPaEptZTA3cUpQZXNySTNJME05cEstRFg5ajlKNXEySW1PX3dndnZmaS1PTnNFVlJkaXZ5OEZYaXNweG01bThXZnJGTHFwLVBnSUtWOUJVUEJCbTV6?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -2117,10 +2148,10 @@
       "label": "FT"
     },
     {
-      "title": "ECB does not need to fight inflation with \u2018same force\u2019 as in 2022-23, Lagarde says",
+      "title": "Maersk raises profit guidance as new US tariffs fuel demand",
       "source": "FT",
-      "link": "https://www.ft.com/content/b88c0d88-b4b4-4191-98e4-3edc51a9b41e",
-      "date": "Mon, 29 Jun 2026 19:00:03 GMT",
+      "link": "https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29",
+      "date": "Mon, 29 Jun 2026 20:32:59 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -2130,29 +2161,18 @@
       "label": "FT"
     },
     {
-      "title": "EU sets deadline of October for reduction in trade deficit with China",
+      "title": "Supermicro Taiwan offices raided in chip smuggling probe",
       "source": "FT",
-      "link": "https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677",
-      "date": "Mon, 29 Jun 2026 19:04:21 GMT",
-      "classification": "NEW",
+      "link": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23",
+      "date": "Mon, 29 Jun 2026 20:17:17 GMT",
+      "classification": "DEVELOPMENT",
       "level": "normal",
       "keyword": null,
-      "entity": null,
+      "entity": "ICE",
       "watch_hits": [],
-      "agents": [],
-      "label": "FT"
-    },
-    {
-      "title": "British American Tobacco slashes 9,000 jobs",
-      "source": "FT",
-      "link": "https://www.ft.com/content/f457d335-eb92-4e1e-8d33-04e5ed2fca8f",
-      "date": "Mon, 29 Jun 2026 10:34:38 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [],
+      "agents": [
+        "MARCO"
+      ],
       "label": "FT"
     },
     {
@@ -2351,10 +2371,10 @@
       "label": "BBC World"
     },
     {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
       "source": "BBC World",
-      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 07:51:05 GMT",
+      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 21:19:28 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -2403,6 +2423,19 @@
       "label": "BBC World"
     },
     {
+      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 15:46:50 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
       "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
       "source": "BBC World",
       "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
@@ -2429,10 +2462,10 @@
       "label": "BBC World"
     },
     {
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
       "source": "BBC World",
-      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 15:46:50 GMT",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 21:11:04 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -2445,7 +2478,7 @@
       "title": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
       "source": "BBC World",
       "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 20:21:03 GMT",
+      "date": "Mon, 29 Jun 2026 21:21:15 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,
@@ -2498,19 +2531,6 @@
       "source": "BBC World",
       "link": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 29 Jun 2026 12:00:06 GMT",
-      "classification": "NEW",
-      "level": "normal",
-      "keyword": null,
-      "entity": null,
-      "watch_hits": [],
-      "agents": [],
-      "label": "BBC World"
-    },
-    {
-      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "source": "BBC World",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 10:55:41 GMT",
       "classification": "NEW",
       "level": "normal",
       "keyword": null,

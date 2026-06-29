@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-06-29T20:32:49Z",
-  "status": "ok",
+  "last_run_utc": "2026-06-29T21:31:24Z",
+  "status": "degraded",
   "jobs": {
     "eia_petroleum": {
       "status": "ok",
@@ -20,10 +20,8 @@
       "saved": "data/2026-06-29/edgar_8k.json"
     },
     "treasury_auctions": {
-      "status": "ok",
-      "count": 37,
-      "weak": [],
-      "saved": "data/2026-06-29/treasury_auctions.json"
+      "status": "error",
+      "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cftc_cot": {
       "status": "ok",
@@ -43,33 +41,36 @@
     },
     "newsweep": {
       "status": "ok",
-      "total": 171,
+      "new": 172,
+      "skipped_already_seen": 0,
       "by_class": {
-        "NEW": 142,
+        "NEW": 138,
         "NEW_WATCH_HIT": 2,
-        "NEW_WATCH": 14,
-        "DEVELOPMENT": 2,
-        "NEW_ALERT": 11
+        "NEW_WATCH": 15,
+        "DEVELOPMENT": 4,
+        "NEW_ALERT": 13
       },
       "alerts": [
         "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening - Al  [NEW_WATCH_HIT]",
         "Ukraine attacks major Russian oil refinery as Putin acknowledges \u2018difficult peri [NEW_WATCH_HIT]",
         "Bitcoin News Today: Crowded Dollar Longs and Record SOFR Short Bets Could Snap \u2014 [DEVELOPMENT]",
         "Commercial Real Estate \u2013 Navigating the Brave New World of AI - Institutional In [NEW_ALERT]",
+        "InPoint Commercial Real Estate Income declares $0.1042 per-share cash distributi [DEVELOPMENT]",
         "Tlaib Introduces Bank Failure Accountability Act - House.gov [NEW_ALERT]",
         "5 bank failure-related changes the FDIC is considering - Banking Dive [NEW_ALERT]",
+        "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield  [NEW_ALERT]",
         "First Bank Failure of 2026 is Largest in Almost Two Years - KBRA [NEW_ALERT]",
-        "The Next ECONOMIC DEPRESSION | Bank Failure MELTDOWN Wolf Stock (yemfdycP8X) - M [NEW_ALERT]",
+        "NDIC says 281 million depositors insured against bank failure - Punch Newspapers [NEW_ALERT]",
         "Georgia lender's demise marks second bank failure this year - American Banker [NEW_ALERT]",
         "Georgia sees 1st bank failure in nearly a decade - S&P Global [NEW_ALERT]",
         "Economic Capital: A Better Measure of Bank Failure? - Liberty Street Economics [NEW_ALERT]",
         "FDIC releases audit of causes and response to January 2025 community bank failur [NEW_ALERT]",
-        "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield  [NEW_ALERT]",
-        "Fed's Bowman says new external review of Silicon Valley Bank failure underway -  [NEW_ALERT]",
-        "California Man Charged With Defrauding Western Alliance Bank Out Of $100M - Insu [DEVELOPMENT]"
+        "Fed's Bowman says new external review of Silicon Valley Bank failure underway -  [NEW_ALERT]"
       ],
       "saved": "data/2026-06-29/news.json"
     }
   },
-  "errors": []
+  "errors": [
+    "treasury_auctions"
+  ]
 }
