@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-06-29T20:26:14Z",
+  "last_run_utc": "2026-06-29T20:32:49Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -40,6 +40,35 @@
         "PSAVERT Personal savings rate %=3.0 [orange]"
       ],
       "saved": "data/2026-06-29/fred.json"
+    },
+    "newsweep": {
+      "status": "ok",
+      "total": 171,
+      "by_class": {
+        "NEW": 142,
+        "NEW_WATCH_HIT": 2,
+        "NEW_WATCH": 14,
+        "DEVELOPMENT": 2,
+        "NEW_ALERT": 11
+      },
+      "alerts": [
+        "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening - Al  [NEW_WATCH_HIT]",
+        "Ukraine attacks major Russian oil refinery as Putin acknowledges \u2018difficult peri [NEW_WATCH_HIT]",
+        "Bitcoin News Today: Crowded Dollar Longs and Record SOFR Short Bets Could Snap \u2014 [DEVELOPMENT]",
+        "Commercial Real Estate \u2013 Navigating the Brave New World of AI - Institutional In [NEW_ALERT]",
+        "Tlaib Introduces Bank Failure Accountability Act - House.gov [NEW_ALERT]",
+        "5 bank failure-related changes the FDIC is considering - Banking Dive [NEW_ALERT]",
+        "First Bank Failure of 2026 is Largest in Almost Two Years - KBRA [NEW_ALERT]",
+        "The Next ECONOMIC DEPRESSION | Bank Failure MELTDOWN Wolf Stock (yemfdycP8X) - M [NEW_ALERT]",
+        "Georgia lender's demise marks second bank failure this year - American Banker [NEW_ALERT]",
+        "Georgia sees 1st bank failure in nearly a decade - S&P Global [NEW_ALERT]",
+        "Economic Capital: A Better Measure of Bank Failure? - Liberty Street Economics [NEW_ALERT]",
+        "FDIC releases audit of causes and response to January 2025 community bank failur [NEW_ALERT]",
+        "Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield  [NEW_ALERT]",
+        "Fed's Bowman says new external review of Silicon Valley Bank failure underway -  [NEW_ALERT]",
+        "California Man Charged With Defrauding Western Alliance Bank Out Of $100M - Insu [DEVELOPMENT]"
+      ],
+      "saved": "data/2026-06-29/news.json"
     }
   },
   "errors": []
