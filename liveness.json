@@ -1,10 +1,17 @@
 {
-  "last_run_utc": "2026-06-29T19:14:55Z",
+  "last_run_utc": "2026-06-29T19:52:44Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
-      "status": "skipped",
-      "reason": "no EIA_API_KEY"
+      "status": "ok",
+      "metrics": {
+        "commercial_crude_mbbl": 412.134,
+        "spr_mbbl": 331.191,
+        "cushing_mbbl": 18.957,
+        "gasoline_mbbl": 216.299,
+        "distillate_mbbl": 106.116
+      },
+      "saved": "data/2026-06-29/eia_petroleum.json"
     }
   },
   "errors": []
