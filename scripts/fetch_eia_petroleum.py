@@ -48,7 +48,8 @@ def eia_fetch(key, series_id, route, limit=2):
     resp = requests.get(url, timeout=30)
     resp.raise_for_status()
     rows = resp.json().get("response", {}).get("data", [])
-    return [{"date": r["period"], "value": r["value"]}
+    # EIA v2 returns values as strings; cast at the boundary so downstream math works.
+    return [{"date": r["period"], "value": float(r["value"])}
             for r in rows if r.get("value") is not None]
 
 
