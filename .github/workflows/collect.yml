@@ -3,10 +3,12 @@ name: collect
 on:
   workflow_dispatch:        # manual trigger — use this for the first run
   schedule:
-    # GitHub cron is UTC and does NOT observe DST. Retune seasonally.
-    # EIA Weekly Petroleum Status posts Wed ~10:30 ET; fetch a bit after.
-    # 15:00 UTC = 11:00 ET (EDT) / 10:00 ET (EST).
-    - cron: '0 15 * * 3'
+    # Weekday-daily. GitHub cron is UTC and does NOT observe DST.
+    # 15:00 UTC = 11:00 ET (EDT) / 10:00 ET (EST) — after the morning macro
+    # releases (EIA Wed ~10:30 ET, jobless claims Thu 8:30 ET). News + filings
+    # are daily signals, so the lane runs every weekday; weekly feeds harmlessly
+    # re-fetch the same data between their releases.
+    - cron: '0 15 * * 1-5'
 
 permissions:
   contents: write           # required to commit collected data back to this repo
