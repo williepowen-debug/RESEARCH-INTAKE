@@ -28,6 +28,7 @@ FETCHERS = [
     ("treasury_auctions", "fetch_treasury_auctions"),
     ("cftc_cot",          "fetch_cftc_cot"),
     ("fred",              "fetch_fred"),
+    ("newsweep",          "fetch_newsweep"),
 ]
 
 
