@@ -7,10 +7,14 @@ scope: FETCH + CLASSIFY only. The original also ROUTED headlines to agent inboxe
 replaced), so it's intentionally dropped here. Agents read data/<date>/news.json
 and route on their side.
 
-Classification logic + sources are ported verbatim in newsweep_config.py
-(GOOGLE_NEWS_QUERIES, RSS_FEEDS, ENTITY_INDEX, WATCH_FOR, keyword lists). Public
-sources, no key. The config's WEB_SCRAPE (ZeroHedge) and dead WORKSPACE routing
-path are inert here — this fetcher doesn't use them.
+Cross-run dedup: a persistent `news_seen.json` at the repo root records headlines
+already reported (title key -> last-seen UTC date). Items seen within DEDUP_DAYS
+are skipped, so news.json holds only what's NEW since the last run rather than the
+same list every day. Entries older than DEDUP_DAYS are pruned, so a story can
+re-surface if it returns after a gap.
+
+Classification logic + sources are ported verbatim in newsweep_config.py. Public
+sources, no key. The config's WEB_SCRAPE and dead WORKSPACE path are inert here.
 """
 import datetime
 import json
@@ -22,6 +26,7 @@ import xml.etree.ElementTree as ET
 import newsweep_config as cfg
 
 UA = {"User-Agent": "Mozilla/5.0 Research-Intake/newsweep"}
+DEDUP_DAYS = 5  # re-surface a headline only if unseen for this many days
 
 
 def _get(url, timeout=10):
@@ -51,19 +56,46 @@ def _parse_rss(raw):
     return items
 
 
+def _load_seen(path):
+    try:
+        return json.loads(path.read_text())
+    except Exception:
+        return {}
+
+
+def _age_days(today_iso, then_iso):
+    try:
+        return (datetime.date.fromisoformat(today_iso)
+                - datetime.date.fromisoformat(then_iso)).days
+    except Exception:
+        return 999
+
+
 def fetch(data_dir: pathlib.Path) -> dict:
-    seen = set()
+    today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    seen_path = data_dir.parent / "news_seen.json"
+    seen = _load_seen(seen_path)
+    seen = {k: v for k, v in seen.items() if _age_days(today, v) <= DEDUP_DAYS}  # prune
+
+    within_run = set()
     collected = []
+    skipped_seen = 0
 
     def add(items, default_agents, label, fallback_source=""):
+        nonlocal skipped_seen
         for it in items[:cfg.MAX_ARTICLES_PER_SOURCE]:
             key = it["title"].lower()[:120]
-            if key in seen:
+            if key in within_run:
                 continue
-            seen.add(key)
+            within_run.add(key)
+            if key in seen:            # already reported in a recent run
+                seen[key] = today       # refresh recency, don't re-report
+                skipped_seen += 1
+                continue
             c = cfg.classify_article(it["title"])
-            if c["suppressed"]:  # NOISE, or KNOWN entity with no escalation
+            if c["suppressed"]:         # NOISE / KNOWN-no-escalation (not tracked)
                 continue
+            seen[key] = today           # mark newly reported
             agents = list(default_agents)
             if c["entity_info"]:
                 agents += [a for a in c["entity_info"].get("agents", []) if a not in agents]
@@ -93,16 +125,18 @@ def fetch(data_dir: pathlib.Path) -> dict:
     except Exception as exc:
         return {"status": "error", "error": repr(exc)}
 
+    seen_path.write_text(json.dumps(seen, indent=0, sort_keys=True) + "\n")  # persist
+
     by_class = {}
     for c in collected:
         by_class[c["classification"]] = by_class.get(c["classification"], 0) + 1
     alerts = [f"{c['title'][:80]} [{c['classification']}]" for c in collected
               if c["classification"] in ("NEW_ALERT", "NEW_WATCH_HIT", "DEVELOPMENT")]
 
-    day = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    day = today
     dest = data_dir / day
     dest.mkdir(parents=True, exist_ok=True)
     (dest / "news.json").write_text(
         json.dumps({"by_class": by_class, "items": collected}, indent=2) + "\n")
-    return {"status": "ok", "total": len(collected), "by_class": by_class,
-            "alerts": alerts[:15], "saved": f"data/{day}/news.json"}
+    return {"status": "ok", "new": len(collected), "skipped_already_seen": skipped_seen,
+            "by_class": by_class, "alerts": alerts[:15], "saved": f"data/{day}/news.json"}

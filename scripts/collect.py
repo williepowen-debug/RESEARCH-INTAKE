@@ -51,6 +51,56 @@ def run_fetchers() -> dict:
     return jobs
 
 
+def render_summary(liveness: dict) -> str:
+    """Render a glanceable human digest (SUMMARY.md) from the run summary."""
+    j = liveness.get("jobs", {})
+    L = ["# Research-Intake — latest run", "",
+         f"**{liveness.get('last_run_utc')}** · overall: **{liveness.get('status')}**",
+         "", "## Highlights", ""]
+
+    eia = j.get("eia_petroleum", {})
+    if eia.get("status") == "ok" and eia.get("metrics"):
+        m = eia["metrics"]
+        L.append(f"- **EIA** Cushing {m.get('cushing_mbbl')}M · crude {m.get('commercial_crude_mbbl')}M "
+                 f"· gasoline {m.get('gasoline_mbbl')}M  *(WoW in data file)*")
+
+    fred = j.get("fred", {})
+    if fred.get("status") in ("ok", "degraded"):
+        al = fred.get("alerts", [])
+        L.append(f"- **FRED** {fred.get('series_count', '?')} series · "
+                 + ("⚠ " + "; ".join(al) if al else "no threshold flags"))
+
+    nw = j.get("newsweep", {})
+    if nw.get("status") == "ok":
+        L.append(f"- **News** {nw.get('new', nw.get('total', '?'))} new "
+                 f"(skipped {nw.get('skipped_already_seen', 0)} already-seen) "
+                 f"· {len(nw.get('alerts', []))} alerts")
+        for a in nw.get("alerts", [])[:8]:
+            L.append(f"    - {a}")
+
+    cf = j.get("cftc_cot", {})
+    if cf.get("status") == "ok":
+        L.append(f"- **CFTC VIX** lev-money net {cf.get('vix_lev_money_net')} ({cf.get('vix_report_date')})")
+
+    tr = j.get("treasury_auctions", {})
+    if tr.get("status") == "ok":
+        weak = tr.get("weak", [])
+        L.append(f"- **Treasury** {tr.get('count')} auctions"
+                 + (f" · ⚠ {len(weak)} weak: {weak}" if weak else " · none weak"))
+
+    eg = j.get("edgar_8k", {})
+    if eg.get("status") == "ok":
+        crit = eg.get("critical", [])
+        L.append(f"- **EDGAR 8-K** {eg.get('count')} filings (thesis banks)"
+                 + (f" · ⚠ {len(crit)} critical: {crit}" if crit else ""))
+
+    L += ["", "## Feed status", "", "| feed | status |", "|---|---|"]
+    for k, v in j.items():
+        L.append(f"| {k} | {v.get('status')} |")
+    L += ["", "_Machine detail: `liveness.json` + `data/<UTC-date>/*.json`._", ""]
+    return "\n".join(L)
+
+
 def main() -> None:
     DATA.mkdir(exist_ok=True)
     jobs = run_fetchers()
@@ -62,6 +112,7 @@ def main() -> None:
         "errors": errors,
     }
     LIVENESS.write_text(json.dumps(liveness, indent=2) + "\n")
+    (ROOT / "SUMMARY.md").write_text(render_summary(liveness))
     print(json.dumps(liveness, indent=2))
 
 
