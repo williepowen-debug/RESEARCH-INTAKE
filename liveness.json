@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-06-29T21:41:55Z",
+  "last_run_utc": "2026-06-30T17:02:48Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -11,25 +11,29 @@
         "gasoline_mbbl": 216.299,
         "distillate_mbbl": 106.116
       },
-      "saved": "data/2026-06-29/eia_petroleum.json"
+      "alerts": [
+        "cushing_mbbl Cushing=18.957M [red] (<20M=Boundary#3 operational floor)"
+      ],
+      "saved": "data/2026-06-30/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
       "count": 0,
       "critical": [],
-      "saved": "data/2026-06-29/edgar_8k.json"
+      "saved": "data/2026-06-30/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 37,
+      "count": 40,
       "weak": [],
-      "saved": "data/2026-06-29/treasury_auctions.json"
+      "saved": "data/2026-06-30/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-23",
       "vix_lev_money_net": -18863,
-      "saved": "data/2026-06-29/cftc_cot.json"
+      "alerts": [],
+      "saved": "data/2026-06-30/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -39,17 +43,20 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]"
       ],
-      "saved": "data/2026-06-29/fred.json"
+      "saved": "data/2026-06-30/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 3,
-      "skipped_already_seen": 168,
+      "new": 88,
+      "skipped_already_seen": 68,
       "by_class": {
-        "NEW": 3
+        "NEW": 87,
+        "NEW_ALERT": 1
       },
-      "alerts": [],
-      "saved": "data/2026-06-29/news.json"
+      "alerts": [
+        "NDIC: Over 98 percent of depositors fully covered against bank failure - TheCabl [NEW_ALERT]"
+      ],
+      "saved": "data/2026-06-30/news.json"
     }
   },
   "errors": []
