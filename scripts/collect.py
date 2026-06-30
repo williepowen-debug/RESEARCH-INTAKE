@@ -81,8 +81,10 @@ def render_summary(liveness: dict) -> str:
     eia = j.get("eia_petroleum", {})
     if eia.get("status") == "ok" and eia.get("metrics"):
         m = eia["metrics"]
+        al = eia.get("alerts", [])
         L.append(f"- **EIA** Cushing {m.get('cushing_mbbl')}M · crude {m.get('commercial_crude_mbbl')}M "
-                 f"· gasoline {m.get('gasoline_mbbl')}M  *(WoW in data file)*")
+                 f"· gasoline {m.get('gasoline_mbbl')}M"
+                 + (f" · ⚠ {'; '.join(al)}" if al else "  *(WoW in data file)*"))
 
     fred = j.get("fred", {})
     if fred.get("status") in ("ok", "degraded"):
@@ -100,7 +102,9 @@ def render_summary(liveness: dict) -> str:
 
     cf = j.get("cftc_cot", {})
     if cf.get("status") == "ok":
-        L.append(f"- **CFTC VIX** lev-money net {cf.get('vix_lev_money_net')} ({cf.get('vix_report_date')})")
+        al = cf.get("alerts", [])
+        L.append(f"- **CFTC VIX** lev-money net {cf.get('vix_lev_money_net')} ({cf.get('vix_report_date')})"
+                 + (f" · ⚠ {'; '.join(al)}" if al else ""))
 
     tr = j.get("treasury_auctions", {})
     if tr.get("status") == "ok":

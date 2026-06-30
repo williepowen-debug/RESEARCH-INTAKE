@@ -33,6 +33,40 @@ EIA_SERIES = {
 }
 
 
+# --- threshold->alert layer (PROME 2026-06-30) --------------------------------
+# Gives EIA the same uniform `alerts` shape as fetch_fred.py so the lane emits
+# one significance vocabulary across all feeds; the consumer (WALTER) gates on it
+# and de-dupes on persistence. Bands:
+#   Cushing  — DOCUMENTED: <20M = operational min / WTI dislocation
+#              (FORGE config.py L189 "ROUTING_TABLE Boundary #3"; BRENT STATUS
+#              "20M operational floor", breached 2026-06-24). red <20, orange <21.
+#   crude WoW — PROME conservative default (TODO[BRENT] confirm): a large single-
+#              week swing is notable-INFO at |Δ|>=8 MMbbl. No red (one weekly
+#              inventory print rarely warrants ACTION alone). spr/gasoline/
+#              distillate left raw (no band) until BRENT supplies levels.
+def _eia_alerts(metrics: dict) -> tuple:
+    """Return (alerts:list[str], statuses:dict[label,str]) from the metrics dict.
+    Each metric carries {value, wow, period}; statuses map label->red/orange/green."""
+    alerts, statuses = [], {}
+
+    cush = metrics.get("cushing_mbbl") or {}
+    v = cush.get("value")
+    if v is not None:
+        st = "red" if v < 20.0 else "orange" if v < 21.0 else "green"
+        statuses["cushing_mbbl"] = st
+        if st in ("orange", "red"):
+            alerts.append(f"cushing_mbbl Cushing={v}M [{st}] (<20M=Boundary#3 operational floor)")
+
+    crude = metrics.get("commercial_crude_mbbl") or {}
+    wow = crude.get("wow")
+    if wow is not None and abs(wow) >= 8.0:
+        statuses["commercial_crude_mbbl"] = "orange"
+        kind = "draw" if wow < 0 else "build"
+        alerts.append(f"commercial_crude_mbbl crude WoW {kind} {abs(wow)}M [orange]")
+
+    return alerts, statuses
+
+
 def eia_fetch(key, series_id, route, limit=2):
     """Pull a weekly EIA v2 series, newest-first. Returns [{date, value}, ...]."""
     params = {
@@ -74,14 +108,19 @@ def fetch(data_dir: pathlib.Path) -> dict:
     except Exception as exc:
         return {"status": "error", "error": repr(exc)}
 
+    alerts, statuses = _eia_alerts(metrics)
+    for label, st in statuses.items():       # fold status into the saved metric
+        metrics[label]["status"] = st
+
     day = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
     dest = data_dir / day
     dest.mkdir(parents=True, exist_ok=True)
     (dest / "eia_petroleum.json").write_text(
-        json.dumps({"metrics": metrics, "raw": raw}, indent=2) + "\n")
+        json.dumps({"metrics": metrics, "raw": raw, "alerts": alerts}, indent=2) + "\n")
 
     return {
         "status": "ok",
         "metrics": {k: v["value"] for k, v in metrics.items()},
+        "alerts": alerts,
         "saved": f"data/{day}/eia_petroleum.json",
     }
