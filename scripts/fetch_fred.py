@@ -5,8 +5,13 @@ Standalone port of the verified series set in AGENTS/CARL/scripts/consumer_pulse
 Pulls latest + prior + YoY for each series with a threshold-based status.
 Reads FRED_API_KEY from env (set as a GH Actions secret); skips gracefully if absent.
 
-NOTE: HY OAS (BAMLH0A0HYM2) is deliberately EXCLUDED — it's owned by the
-`liquid-hy-watch` systemd timer in the working repo. Don't double-watch it here.
+NOTE (superseded 2026-07-01, Will-approved): HY OAS (BAMLH0A0HYM2) was originally
+EXCLUDED in deference to the `liquid-hy-watch` systemd timer in the working repo.
+That timer is machine-local (desktop-only; dark whenever that box is off — and
+WSL2 doesn't keep user timers running without an open instance), so THIS lane is
+now the machine-independent PRIMARY for the HY>280 / <260 watch; the desktop
+timer is redundancy. Canonical trigger definitions:
+AGENTS/LIQUID/workbook/KILL_MEMO_HY_OAS_260.md (+ KB-LIQ-062) in the working repo.
 """
 import datetime
 import json
@@ -35,7 +40,33 @@ SERIES = [
     ("DGS10",        "10Y Treasury yield",        "rising",  None),
     ("DGS2",         "2Y Treasury yield",         "rising",  None),
     ("T10Y2Y",       "10Y-2Y spread",             "falling", None),
+    ("BAMLH0A0HYM2", "HY OAS bps",                "rising",  (240, 260, 270, 280)),
 ]
+
+
+# --- HY OAS canonical trigger lines (PROME 2026-07-01, Will-approved) ----------
+def _hy_trigger_alerts(val, obs):
+    """Named trigger lines beyond the generic status bands, so a breach reads as
+    the decision it is, not just a color. >=280 = X1 credit-recognition trigger,
+    LIQUID's half (BROCK's half = wrapper basket leading managers down; BOTH must
+    fire; sustain judgment stays with LIQUID). <260 on two consecutive closes =
+    credit-bear re-kill line (KILL_MEMO_HY_OAS_260)."""
+    out = []
+    if val >= 280:
+        out.append(
+            f"BAMLH0A0HYM2 HY OAS={val:.0f}bps [red] >=280 X1-trigger breach "
+            "(LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)")
+    prior = None
+    if len(obs) > 1:
+        try:
+            prior = float(obs[1]["value"])
+        except ValueError:
+            prior = None
+    if val < 260 and prior is not None and prior < 260:
+        out.append(
+            f"BAMLH0A0HYM2 HY OAS={val:.0f}bps (prior {prior:.0f}) [orange] "
+            "<260 two consecutive closes = credit-bear re-kill line (KILL_MEMO_HY_OAS_260)")
+    return out
 
 
 def _fred(series_id, key, limit=15):
@@ -94,6 +125,11 @@ def fetch(data_dir: pathlib.Path) -> dict:
     for sid, label, dirbad, thr in SERIES:
         try:
             obs = _fred(sid, key)
+            if sid == "BAMLH0A0HYM2":
+                # FRED serves this series in PERCENT (2.75 = 275bps); the fleet
+                # speaks bps — convert the whole series once so value/prior/
+                # change/alerts stay unit-consistent (thresholds above are bps).
+                obs = [{**o, "value": str(float(o["value"]) * 100)} for o in obs]
             if not obs:
                 out[sid] = {"label": label, "error": "no observations"}
                 errors.append(sid)
@@ -108,6 +144,8 @@ def fetch(data_dir: pathlib.Path) -> dict:
             }
             if st in ("orange", "red"):
                 alerts.append(f"{sid} {label}={val} [{st}]")
+            if sid == "BAMLH0A0HYM2":
+                alerts.extend(_hy_trigger_alerts(val, obs))
         except Exception as exc:
             out[sid] = {"label": label, "error": repr(exc)}
             errors.append(sid)
