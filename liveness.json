@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-06-30T17:02:48Z",
+  "last_run_utc": "2026-07-01T17:11:08Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,26 +14,26 @@
       "alerts": [
         "cushing_mbbl Cushing=18.957M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-06-30/eia_petroleum.json"
+      "saved": "data/2026-07-01/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "critical": [],
-      "saved": "data/2026-06-30/edgar_8k.json"
+      "saved": "data/2026-07-01/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
       "count": 40,
       "weak": [],
-      "saved": "data/2026-06-30/treasury_auctions.json"
+      "saved": "data/2026-07-01/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-23",
       "vix_lev_money_net": -18863,
       "alerts": [],
-      "saved": "data/2026-06-30/cftc_cot.json"
+      "saved": "data/2026-07-01/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -43,20 +43,25 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]"
       ],
-      "saved": "data/2026-06-30/fred.json"
+      "saved": "data/2026-07-01/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 88,
-      "skipped_already_seen": 68,
+      "new": 91,
+      "skipped_already_seen": 70,
       "by_class": {
         "NEW": 87,
-        "NEW_ALERT": 1
+        "NEW_WATCH_HIT": 1,
+        "NEW_ALERT": 2,
+        "DEVELOPMENT": 1
       },
       "alerts": [
-        "NDIC: Over 98 percent of depositors fully covered against bank failure - TheCabl [NEW_ALERT]"
+        "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery - Al Jaz [NEW_WATCH_HIT]",
+        "Japan\u2019s \u2018Mr Yen\u2019 keeps market guessing on currency intervention - Financial Time [NEW_ALERT]",
+        "S.F. office vacancy drops amid record tenant demand from AI companies - The Busi [DEVELOPMENT]",
+        "Power bank failure sparks 11-story Feltham flat fire - Hounslow Herald [NEW_ALERT]"
       ],
-      "saved": "data/2026-06-30/news.json"
+      "saved": "data/2026-07-01/news.json"
     }
   },
   "errors": []
