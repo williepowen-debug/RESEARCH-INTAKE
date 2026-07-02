@@ -90,9 +90,9 @@
     },
     "MORTGAGE30US": {
       "label": "30yr mortgage rate %",
-      "value": 6.49,
-      "date": "2026-06-25",
-      "change": 0.02,
+      "value": 6.43,
+      "date": "2026-07-02",
+      "change": -0.06,
       "yoy_pct": null,
       "status": "yellow"
     },

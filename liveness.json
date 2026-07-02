@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-02T15:49:56Z",
+  "last_run_utc": "2026-07-02T16:47:43Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -48,17 +48,12 @@
     },
     "newsweep": {
       "status": "ok",
-      "new": 94,
-      "skipped_already_seen": 62,
+      "new": 14,
+      "skipped_already_seen": 139,
       "by_class": {
-        "NEW": 89,
-        "NEW_WATCH": 3,
-        "DEVELOPMENT": 2
+        "NEW": 14
       },
-      "alerts": [
-        "T-Bill Supply Disagreement Sparks Record Trading in SOFR-Fed Funds Futures Sprea [DEVELOPMENT]",
-        "Bank OZK Raises Quarterly Dividend to $0.48 From $0.47 per Share; Payable July 2 [DEVELOPMENT]"
-      ],
+      "alerts": [],
       "saved": "data/2026-07-02/news.json"
     }
   },
