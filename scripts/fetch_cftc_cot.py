@@ -23,22 +23,23 @@ VIX_CONTRACT_CODE = "1170E1"
 COL = dict(name=0, date=2, code=3, oi=7,
            dealer_l=8, dealer_s=9, am_l=11, am_s=12, lev_l=14, lev_s=15)
 
-# --- alert layer (PROME 2026-06-30) -------------------------------------------
-# TRACK-ONLY for now: returns a uniform `alerts` key (like fetch_fred.py) so the
-# lane emits one significance vocabulary across all feeds and WALTER's gate can
-# treat every feed identically. But the VIX leveraged-money-net BAND is owned by
-# VIOLET/SAM and is not documented anywhere (config.py has no positioning band,
-# and we have a single weekly snapshot — no history to derive an extreme). So no
-# live threshold is set; activating a made-up band would false-fire and erode the
-# significance gate. TODO[VIOLET/SAM] ratify a band, then set VIX_LEV_NET_BAND and
-# emit alerts here. Suggested starting points for VIOLET to confirm/replace:
-#   - net flips POSITIVE (lev funds net-LONG vol) = de-risking/vol-buying regime
-#   - net < ~ -75000 (extreme net-short vol / max complacency)
-VIX_LEV_NET_BAND = None  # (lo, hi) once VIOLET/SAM ratify; None = track-only
+# --- alert layer (PROME 2026-06-30; band ratified by VIOLET 2026-07-01) --------
+# Uniform `alerts` key (like fetch_fred.py) so the lane emits one significance
+# vocabulary across all feeds. Band owner: VIOLET. Ratification + derivation:
+# AGENTS/VIOLET/outbox/2026-07-01_to-PROME_cftc-vix-alert-band-reply.md (main repo)
+# — 182 weekly TFF rows 2023-01-03→2026-06-23: net>=0 fired 11/182 (~6%, p95=+1,014);
+# net<-75k sits between p5 (-81,194) and p10 (-68,059), ~7% fire rate.
+# Semantics per VIOLET: alert when OUTSIDE the band — strictly net < lo, or net >= hi
+# (net-long flip). ABSOLUTE LEVEL ONLY — no persistence/WoW layer (VIOLET: the 3yr
+# distribution is wide and slow-moving; the two absolute lines carry the regime
+# meaning). dealer_net / asset_mgr_net stay track-only (structural, not speculative
+# crowding). If ever re-derived, use >=3yr of history (2024 vol regime shapes the
+# left tail). Latest print at activation: -18,863 [6/23 report] — inside band, quiet.
+VIX_LEV_NET_BAND = (-75_000, 0)  # (lo, hi); alert OUTSIDE — net < lo or net >= hi
 
 
 def _vix_alerts(row: dict) -> list:
-    """Uniform alerts list. Empty until VIX_LEV_NET_BAND is ratified (track-only)."""
+    """Uniform alerts list per the VIOLET-ratified band (empty inside the band)."""
     if VIX_LEV_NET_BAND is None:
         return []
     lo, hi = VIX_LEV_NET_BAND
@@ -46,9 +47,9 @@ def _vix_alerts(row: dict) -> list:
     if net is None:
         return []
     if net >= hi:
-        return [f"cftc_cot VIX lev-money net={net} [orange] (net-long vol / de-risking)"]
-    if net <= lo:
-        return [f"cftc_cot VIX lev-money net={net} [orange] (extreme net-short vol)"]
+        return [f"cftc_cot VIX lev-money net={net} [orange] (net-long vol / de-risking regime)"]
+    if net < lo:
+        return [f"cftc_cot VIX lev-money net={net} [orange] (extreme net-short vol / max complacency)"]
     return []
 
 
