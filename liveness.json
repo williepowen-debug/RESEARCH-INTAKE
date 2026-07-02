@@ -1,67 +1,65 @@
 {
-  "last_run_utc": "2026-07-01T17:11:08Z",
+  "last_run_utc": "2026-07-02T15:49:56Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
       "status": "ok",
       "metrics": {
-        "commercial_crude_mbbl": 412.134,
-        "spr_mbbl": 331.191,
-        "cushing_mbbl": 18.957,
-        "gasoline_mbbl": 216.299,
-        "distillate_mbbl": 106.116
+        "commercial_crude_mbbl": 408.359,
+        "spr_mbbl": 325.655,
+        "cushing_mbbl": 19.666,
+        "gasoline_mbbl": 213.966,
+        "distillate_mbbl": 108.599
       },
       "alerts": [
-        "cushing_mbbl Cushing=18.957M [red] (<20M=Boundary#3 operational floor)"
+        "cushing_mbbl Cushing=19.666M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-01/eia_petroleum.json"
+      "saved": "data/2026-07-02/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
       "count": 2,
       "critical": [],
-      "saved": "data/2026-07-01/edgar_8k.json"
+      "saved": "data/2026-07-02/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 40,
+      "count": 45,
       "weak": [],
-      "saved": "data/2026-07-01/treasury_auctions.json"
+      "saved": "data/2026-07-02/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-23",
       "vix_lev_money_net": -18863,
       "alerts": [],
-      "saved": "data/2026-07-01/cftc_cot.json"
+      "saved": "data/2026-07-02/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
-      "series_count": 15,
+      "series_count": 16,
       "errored": [],
       "alerts": [
         "UMCSENT UMich sentiment=44.8 [red]",
-        "PSAVERT Personal savings rate %=3.0 [orange]"
+        "PSAVERT Personal savings rate %=3.0 [orange]",
+        "BAMLH0A0HYM2 HY OAS bps=274.0 [orange]"
       ],
-      "saved": "data/2026-07-01/fred.json"
+      "saved": "data/2026-07-02/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 91,
-      "skipped_already_seen": 70,
+      "new": 94,
+      "skipped_already_seen": 62,
       "by_class": {
-        "NEW": 87,
-        "NEW_WATCH_HIT": 1,
-        "NEW_ALERT": 2,
-        "DEVELOPMENT": 1
+        "NEW": 89,
+        "NEW_WATCH": 3,
+        "DEVELOPMENT": 2
       },
       "alerts": [
-        "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery - Al Jaz [NEW_WATCH_HIT]",
-        "Japan\u2019s \u2018Mr Yen\u2019 keeps market guessing on currency intervention - Financial Time [NEW_ALERT]",
-        "S.F. office vacancy drops amid record tenant demand from AI companies - The Busi [DEVELOPMENT]",
-        "Power bank failure sparks 11-story Feltham flat fire - Hounslow Herald [NEW_ALERT]"
+        "T-Bill Supply Disagreement Sparks Record Trading in SOFR-Fed Funds Futures Sprea [DEVELOPMENT]",
+        "Bank OZK Raises Quarterly Dividend to $0.48 From $0.47 per Share; Payable July 2 [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-01/news.json"
+      "saved": "data/2026-07-02/news.json"
     }
   },
   "errors": []
