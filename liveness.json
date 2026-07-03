@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-02T16:47:43Z",
+  "last_run_utc": "2026-07-03T16:22:28Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,26 +14,27 @@
       "alerts": [
         "cushing_mbbl Cushing=19.666M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-02/eia_petroleum.json"
+      "saved": "data/2026-07-03/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
       "count": 2,
       "critical": [],
-      "saved": "data/2026-07-02/edgar_8k.json"
+      "saved": "data/2026-07-03/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 45,
+      "count": 44,
       "weak": [],
-      "saved": "data/2026-07-02/treasury_auctions.json"
+      "saved": "data/2026-07-03/treasury_auctions.json",
+      "recovered_after_retry": true
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-23",
       "vix_lev_money_net": -18863,
       "alerts": [],
-      "saved": "data/2026-07-02/cftc_cot.json"
+      "saved": "data/2026-07-03/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -42,19 +43,28 @@
       "alerts": [
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=274.0 [orange]"
+        "BAMLH0A0HYM2 HY OAS bps=275.0 [orange]"
       ],
-      "saved": "data/2026-07-02/fred.json"
+      "saved": "data/2026-07-03/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 14,
-      "skipped_already_seen": 139,
+      "new": 71,
+      "skipped_already_seen": 84,
       "by_class": {
-        "NEW": 14
+        "NEW": 64,
+        "DEVELOPMENT": 1,
+        "NEW_WATCH_HIT": 1,
+        "NEW_ALERT": 2,
+        "NEW_WATCH": 3
       },
-      "alerts": [],
-      "saved": "data/2026-07-02/news.json"
+      "alerts": [
+        "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com [DEVELOPMENT]",
+        "Refinery attacks boost June Russian crude exports, dampen products - S&P Global [NEW_WATCH_HIT]",
+        "Japan keeps yen intervention threat alive, says in close touch with US - Reuters [NEW_ALERT]",
+        "Chicago\u2019s Metropolitan Capital Bank becomes first US bank failure of 2026 - Chic [NEW_ALERT]"
+      ],
+      "saved": "data/2026-07-03/news.json"
     }
   },
   "errors": []
