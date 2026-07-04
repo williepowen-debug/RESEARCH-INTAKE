@@ -1,0 +1,727 @@
+{
+  "by_class": {
+    "NEW": 45,
+    "NEW_WATCH_HIT": 2,
+    "DEVELOPMENT": 1,
+    "NEW_WATCH": 2
+  },
+  "items": [
+    {
+      "title": "Q2 US Private Credit Wrap: Software under scrutiny as market recalibrates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXdkQnZ6NEZoZ0FLUHVJeFBMUklqN0tKZmNaQW9VS3Y5TF9laS1CTjJSV3lqZUJRVmlpRFJDeTZEdEdaNi1VTWpGX19MMFFPMGkwdFRHbXAwQ2Z2VkMtZDlGamdNRTJaRTlCZ3pEV2FOd2w2dTFJOHp4Y3Q3Y0h4RGVHNWVFY01sYzJSSktMMkNOWkpM?oc=5",
+      "date": "Wed, 01 Jul 2026 21:31:15 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "In a warning sign, analysis shows publicly traded credit funds are unprofitable - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX04yYlMzZDVQZXNNUDNyVlRWU3RseWw4cFkyR0hZQ21hZUhrZ2ZDdWVtQVVCSU1RZDBVQjJ3UUZQWHRUTHVHRS1mNjQzT1VlalFGLXgwYjlwZmFKaUllTmhRUEswdmhzYUVWV2ZrTjNQTUZtU1Y1QXZOMVZyYlNXNG1nV2E1UkVfUVhKbGZHQ2NUZmZXMmxJZ2FXZC1GaldCUE84bXlOUnBfLU1KRzRyMGs2c1N5UktZX1N1YkhTZmxwVE1QNmQwSQ?oc=5",
+      "date": "Wed, 01 Jul 2026 09:51:05 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Private Credit Keeps $14 Billion Trapped in Bid to Outlast Storm - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2RDQ254cWo0ai1zZ1NrcjRKc2dOUEJKMENOLUFmako0end0UXR6dk1kTEN1WlZFS2NXSDhmbHI1SGRDTEVuTVNhWjVYNkdQQS1RclBsWHhSM0czT1Jxa3ozOHZmZEl2VGlZemFrSmtMNHFLaGE0WlNCVmZtdGdydHdZQ3JMZUl2Sm51cVVsNURzTGh4OFlUWTdJX0tvaUwyaVBQSmdab0lKRVY3a2UxTlRpNFM?oc=5",
+      "date": "Thu, 02 Jul 2026 17:05:46 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Iran Begins Dayslong Funeral For Khamenei Amid Tight Security - Radio Free Europe/Radio Liberty",
+      "source": "Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
+      "date": "Sat, 04 Jul 2026 07:30:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "oil-energy"
+    },
+    {
+      "title": "Medvedev says Strait of Hormuz gives Iran leverage comparable to \u2018nuclear weapon\u2019 - Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbldqdVdXVGxpeXIyY0xlSW9kQk1ndlJReGRGRGV2cnVqWDJ2SUVBYy1GSmk2Q3VxUjVGSDhmMnZOdEVpZFJJZGt2VVFDRU4wdnI5Y3BQTWltT1hnbkktbWN3Y0ZHcjc1OXR4Z0dROE01bHNYOWFZVkJTQWtRcnhadW1lODVZMkpMMnd2MVR2T3JGQzEzUFJaNjlwWTZfb2FHVkxFQTdQb2h0cTdRTkh0akNGWmRiVDNuR3FlUzdB?oc=5",
+      "date": "Sat, 04 Jul 2026 11:54:05 GMT",
+      "classification": "NEW_WATCH_HIT",
+      "level": "alert",
+      "keyword": "nuclear weapon",
+      "entity": "Apollo",
+      "watch_hits": [
+        [
+          "HENRY",
+          "Iran nuclear"
+        ]
+      ],
+      "agents": [
+        "HENRY",
+        "BROCK"
+      ],
+      "label": "oil-energy"
+    },
+    {
+      "title": "CITGO Lemont Refinery raises $1.1 million for Muscular Dystrophy Association - Shaw Local",
+      "source": "Shaw Local",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMklYLTRyYS01eWhEZlFSMk5ycHcwVnFoeWtEcGMtZktTX1NmZGtUb0FRQVFYejJkNGltUEpubmttRVA1TDFZT3FGVkIwWHlud2J5V21vUDJwVzJnR09CNTBoaDlNdl9Sb21USU9aZTAtako3d1VTYnR1YnlFWE1MY2FYU0V1VUNGcDVmdUgtWHZGVzhvRml1ZW9ZUUYya21LRGhkLUFmNHpxNFNnaG1JY2pkdHkxeXkybHhub3BBOXdqdkVBWEZz?oc=5",
+      "date": "Sat, 04 Jul 2026 19:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXV0LURrQmM3QzlKNkUzbkNhNnI5OFBZMVZ2VDVEbWVUbkh0WHY3aEt1VGtnTVB5TzZ4MEpNeFNqZWZSWEFMd052TGlWS1N6Q01USXUyY1BMWHN5VnlYbGhBSV9iR2I5R3dvYW5qRUJKdU9KOUVpUFJ2ak5wbXlNWEFUc3dWTUxnZkZFLTMzLUJuM3dEMmZrc05Zb1ZiX0dXTGJvLVlDUHZGZHJwUWZaaFJ3VmV6UGtNVXlNYjJOVTg?oc=5",
+      "date": "Tue, 30 Jun 2026 13:14:17 GMT",
+      "classification": "DEVELOPMENT",
+      "level": "normal",
+      "keyword": null,
+      "entity": "OPEC",
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Georgia\u2019s only oil refinery to stop processing Russian crude from August, company says - Euromaidan Press",
+      "source": "Euromaidan Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSl83bGpHV2FsSWcxLXlRTmNuVGVQdEN0OFowajNMVWlsWWdoeURpYWpDLUI5aXljTk9uWnozMEpnb3RMZ0dzTDdWRHpiR2g1bEM0ZkJQa0dDOXI2emxPVE96NjNrU0VrMFN5NlBXREVqSG92VWE4Z1BaSDFuY1Q0QW5RTGpzWXlabTctekxKak41ZzdzN21FYzNyNDNPSllESHFmYmhyUkthdUQ3UFZpZQ?oc=5",
+      "date": "Sat, 04 Jul 2026 10:54:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Georgia\u2019s Only Oil Refinery to Stop Using Russian Crude by September - The Moscow Times",
+      "source": "The Moscow Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTE4cHN6TnFCZHlWbnZXRVlacDdmNklmd2hYTmkzbU9neU5ZdjdYSGxKZnFBVU9xdXp2SGRDUng0S1RuTUt2R0dTOS02cVlQYzg0TFppcnFDWF9oXzBzLWZ0WWNxZ0t6QkdHeXZUcEtXTWI4VlZwS0dndHNTLVBWVzFFdFpubXNLMmFVN0ZMRllLWGJVa3J3dnpyYzFHNHdoZ3g5LTNrNXZEMy1mUUc5UnBnSHN3eWM?oc=5",
+      "date": "Thu, 02 Jul 2026 10:32:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Major Russian oil refinery suspends operations again after Ukrainian drone strike - The Kyiv Independent",
+      "source": "The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZvZXhfVTM1NjZORW9RczlmaVVzS3hrZm16N25HMGI1VjhjVDdLaGEweWtyMzBGaXdxb1NNVFp6Q0I4VENGYWVRS1MwU0ZYTlc0cTFlNHBoVGtnVDR3Q0k4M2cwWktBcl9GNVJiS244ZlN4R0pSM1BSclNGdU50SmpLcjZvb05CRU1Kb3VrSXpHWDRyeUJtdTF4anJqU3ZKTFYtbkU0MlRzMzc1ZlA4?oc=5",
+      "date": "Fri, 03 Jul 2026 20:11:52 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Lukoil's largest oil refinery halts operations after drone attack - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiNkZGdDF6RktYR3JZMTRBazE3V24taDFhR3FtcGZJb0hDMG9SZENnZm40Nm1wQnVaanJZX1JjUWpkdUlPYl9vNDJ6VEFERDAtaWpjMTJPZ05VajFLU0VmcXBXZk_SAXBBVV95cUxPR0w2UlVJY1BJOXdLalViZHVHMldiYzhuTXRWdGhsNDRzSFhSakctcEVnVHRFT0c4U1oxTmdUQnFJYjZ0WlB2bUpzZzVjVXZJM3dFWlVmVVJGYVFYM3hUTWZpMWRqTWc0ME56T2pjUVJF?oc=5",
+      "date": "Fri, 03 Jul 2026 17:10:00 GMT",
+      "classification": "NEW_WATCH_HIT",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [
+        [
+          "HENRY",
+          "refinery attack"
+        ]
+      ],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Another African oil producer turns to Dangote refinery as continent races for fuel security - Business Insider Africa",
+      "source": "Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0xlck9peFZsNWcyTnZtajZLNHAwZ3ItQ2tQd0lTVWNWUGtzWnBCSGxCNjZLb2l3V1luWDVnR3JpMHFFejJQQzZkVHQ3N2xYZjlaT1AzeXRteFVzZmoyYUFobXJmMjVHQWJkYlg5b0pfVFE1c0Vpd1V5SFVWbVVvb3FteDJsVnY0S0UwR2w3V19OTWY1bTZjeVZTajc4UExxZXFad3o2d3N2eS1hUVZlWU1kMDRMc29KaE5sUUdkdzlfbUxudXRKX2FQRm1fYjdqdUpmMVRR?oc=5",
+      "date": "Wed, 01 Jul 2026 08:20:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Yen Press Announces Mobile Suit Zeta Gundam Define and More New Manga, Novel Releases - Crunchyroll",
+      "source": "Crunchyroll",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNF9wMlgyWUkzRmRjeFoxM29TbndzN1NzcTlUZ1ZKZnVjdk0tMzdCOWVXVzhhbHRUZmhZWXo1VVZOby01WUJtZ1JCQkhmbTZVdlRZZmhnYVp4eE95UEI1SFUwVGFNREVFNDB5aW5PQUp3NU9NMXRYeUpTWEVGSzMzdUJ5c2JaLWgxUm94MVQ3VmY5Zw?oc=5",
+      "date": "Sat, 04 Jul 2026 19:04:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "The Yen Carry Trade Could Spark Fireworks for US Markets This July 4. Here\u2019s What Traders Need to Know. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWFaZDVZanNzQ1ZheG9FaklaUDdtVUpLaEdpaWJBOHJlOW9WdWdvYXpVVEJKc3RxekpuSFhvZFZCRFlVVWUwV1NsMVJ3SzVGYjdsMU1JdTRpTm01NmxMcEFkcEY1b1NLWldVR3NTWTQwMUhNZHNGbW9TejVkSlI5LUpTUUUzRWljTkk4UVJjcHYwLXoteTFBMEN4N0Y?oc=5",
+      "date": "Tue, 30 Jun 2026 19:46:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "2 companies planned over 170 Michigan layoffs in June - MLive.com",
+      "source": "MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3dOYThvM2FTY0ZUNGEwa0dabDdrTHN1dWdXME5PU24xa1pDbUFmZlIxRTBzSG9zcTlSRWNqd0N2MDBzblEzdW1MUGFkdE5VTmFUZURhY29WR2hsakxsOXV1RGZYY09FWnZJMmJqRGVjQWdoZ0tNb1VqZ08ybVZtaDYyeGdDRnNNd1JZN0xiX2xBbXVXcE44adIBrAFBVV95cUxQOWgxeGowRmYxRVN4UE4tV1RIQk50Yk1XYWtoLXNoSnNhTDQwX2xYVXAxdTlpSjJUTWo3NXpKMWNMcUJSbGRZakMzLTBMRVdrSnNvSmRZUEpWQUFQVEp1ZVhvOHF6TkRwWlR6M0E0MkktY3VCWlNid01BcUJfa2FrMTNqekFCV3lxWFZYVWdIY1dsRS1aRV84VlRsSktoRkRHc09vdWUtdHk4REZ3?oc=5",
+      "date": "Sat, 04 Jul 2026 13:05:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Weak June hiring and rising layoffs signal a labor market shifting away from rapid expansion - eciks.org",
+      "source": "eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtNlQ4Wnc5dl9MRUtBN1BXX3p1Yzd2OEMwNHFIYUo4dDRaQzRBQnNEWlo1VlAyYW84dHBsYm1QSFRHZVl5V2d1ZE50bTJKLWE5cUVHdDgwd3J3X3FhSl9JaTU0RUxySGVKUEptUU1nMzA?oc=5",
+      "date": "Sat, 04 Jul 2026 09:22:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Cape Fear Valley Health eliminates 200 positions amid financial pressures - ABC11 News",
+      "source": "ABC11 News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXFMNzRfM0RLdm5YbWhXc0ZiUlRsMEx6NS1wM3ZaRTUzM1pZVTZpd3lXc2l3UTd2WGJSTmxZWGxoTVM1ck1MYXFDUVA1UDRPeE93MS1IbURTT2hiLWdCVERXcFN1VGtrSGQ3OFdMNTlqNUZDd3Iwa2NpLUhpSl8tNUhDdjZBQ29lSTZpTUhvX2lkRUNrbXRsNmtVYkdhZE5rd1ZGZzZid0pLd9IBrwFBVV95cUxPemE2andrblZjU3pzUlIyVnVfTXZqektianZNaGRqUUdYb0hWVF9WWTl5MWJHbFdYRUNsaFNYam1hSEN2U0ZDZDVPcnRhMTA4bDc2M1VlWl9UaURfbjgySHRmemtTQTdhTXRraDZYZXJIandRZnJtUVFQQmZNUXlDSVRhaGpyUGRvMUlwYzd6UnRTUEQyQklGZHFKNGNaUG9OMzUtdzFyaTdZeFdMZVVn?oc=5",
+      "date": "Thu, 02 Jul 2026 21:14:13 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Employers who laid off workers citing AI are already starting to regret it - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5",
+      "date": "Wed, 01 Jul 2026 04:37:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Canadian GDP, NFP Recovers - Econbrowser",
+      "source": "Econbrowser",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMkN3YlVmS0ptZlBKOTRIWkxseVJXUjJjTjZnbWIwQU03TXFiZkc2RGNoQ3hXQ0VpSWFqZ28yd3FSQ3VZR3ZsdjBsTVQ4RzFJMk1ZbWw4TF9EZjg3N3pITmNOa0k0WVdySnVfemlTS3BxU0pI?oc=5",
+      "date": "Sat, 04 Jul 2026 20:59:46 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "250th birthday present to markets: Jobs report eases rate hike fears - Detroit Free Press",
+      "source": "Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGV3d21UcFdhRmJzbTJkeFU3dm12XzJiSWxVODJxSnRiVG1kZ1hsRGhqaVM5b1dmYVBEam9QY00zVUZIQTh3LWc2dVRGWm15M0c4Tjd1Qmlja2ZxODZpeWhQX0JoaHpnSklEdHlibTV6T0pDNjZGVG9rRE9DcFIzcjZjb3RpN0Raa0t3NVVDdk5zY1dJM0FJZzRlSjhzaHl4SE9HekhFY1p2dEhHTVNGSFBXUWM?oc=5",
+      "date": "Sat, 04 Jul 2026 11:01:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Reaction roundup: Experts, analysts weigh in on June jobs report - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRC10MkFLa0xqRmNrWEJQcWVkUmtYT0RERDBXTkdYTFZQT3ZvOHJSeUFCZVlQRngyd3RwamVndGtTc3Y1cFpDa243UXlaejlGRlU1UFJTUld3MkRxdXU1RW9QS3BjeV9CM09ubXJrTXFFRUdENzc4SE1OWFlmYURSQmlZTVlYMFExajN4WnBoZjlLYTRKQW5MYXViaWV0a1RVUzFXcUZ6WGJmZ0IzRWg0Ry1sVEc?oc=5",
+      "date": "Sat, 04 Jul 2026 12:39:28 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "BLS Jobs Report: +57K, Half Expectations - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVI0NnRBdVVLQURjVlQ0YXJWN2o0elFHMlUxSEkzMGtuelF6RG9Sd3NvczZ2NHhhdzZXM1pnTUFHb1ppYmQ5WTVoSWZFT0dDR09mUkgxdUZVbXpLTmh0NEhjLS13Wkp3TXdLYnVFTms1M0lSblVWbFlMTFhPT0t1UzkzVU1qbm82QXc?oc=5",
+      "date": "Thu, 02 Jul 2026 16:12:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Latest jobs report shows labor force participation dropped by 720,000 workers in June - World Socialist Web Site",
+      "source": "World Socialist Web Site",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PRF9RNUtKX055VjV4cEFrNW50LWRZVU50UExkcjBORVNaT29yeW1XdklaM2lURzhJbVpqTDVURUJYTGJScEpIaFV0ZnFERGFQa05zS2drOHpVWGxDZFRodFYzZmVCdks4?oc=5",
+      "date": "Sat, 04 Jul 2026 02:46:19 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "June Jobs Report Improves Mortgage Rate Outlook - National Mortgage Professional",
+      "source": "National Mortgage Professional",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3hNb1QzX1VOUnJEaU8xZ3U4MTgzV2s1Y2VGeW9UZHFvUHBTT1JJR1k0b29VT1ZLZlV4UmFnaktqcHlwY0FqN19wMkZmWldOdkw3aEpJRy1sOTl2NHQxM1VUMDNaYVV3TWdwMXBXeW8zOGFZQU1TM04ybkYwZTd2V250d0RjX2ZwdU1HWDZkbTd2ellqa1UzLQ?oc=5",
+      "date": "Thu, 02 Jul 2026 18:00:40 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Five Takeaways From the June Jobs Report - cepr.net",
+      "source": "cepr.net",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YTHBza1M3SmFiM01hTFNNSXNNTDJHc1VjcHJ6WlFkOFA0VnJmVVZiTjk2QjFndkVCVWh2bHpSSDRSWG9Fd01NaEhJMXNqV2RySVlzZ1ZrNWdibGtZbzFMY1FYcFFCeGtwSWhPSE9GZ0RKa1lsQlpFenhQYw?oc=5",
+      "date": "Fri, 03 Jul 2026 13:30:39 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Here's how commercial real estate fared in March in Tomball, Magnolia - Community Impact",
+      "source": "Community Impact",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLW94bmZFVkZGcXM1TGtjMXdnUDFLSU9XTTJXcTllUkRDTDVIZmhLNllCV1RjZ3JNT01Eb2lMVkRuS3RRanFSTXdCeFlfRjEtWkNNZEVDN2hxakFEVGFIaTh2U0ZadHNheFJ6TDl1WnZHVVNzaElRWTlPNjBWTjNyT0lQZk5GTWZuNDZoNnp3cS1mX1VMX0puRXcwU1ZicWhLckhSQndyZmVJNnNqcDV6cQ?oc=5",
+      "date": "Thu, 02 Jul 2026 09:24:15 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD"
+      ],
+      "label": "cre-stress"
+    },
+    {
+      "title": "Subprime auto borrowers face scrutiny amid rising defaults - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY254VGZMR0JjOUZ6UUJGQ3IwaWI0aFU5enpJemthelNfVVpOOTE5OHVIbkhKdkZMeHhRclFhYjlld2pNYklFdWFrSmNmMjhocnp4MmctMG5vQXdrSVZHY1ItTmxkaWhnTlNBdFJfSS14Q3JQeXBxZEVZaDY1MC1PdlpRdlRmNjdlRlNUOUpSNFdGYTJENDR6dWFWSUg4T0xnOXBDajh0Y25obGFjSHNMcUZuUF9KOXlUSlBzV3l0TTFNYVp1bDcxYXlERWhGa3lodmppeWlTNGtfdHFX?oc=5",
+      "date": "Sat, 04 Jul 2026 09:29:37 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
+      "title": "Record Missed Car Payments Fuel Angst Over Subprime Auto Lenders - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUg0UnBPX1RNNmlvT3VhSVE1RGY4eWFJSE1xaXhQaW4tMHhadHdBMDE3YTdUbWM1dDlVVlNpdVVfYm9FWGJycFRMYnpXQS1TWDgtZlhrdFYwcXFsS2ZaelZXSXdmb0V5SmhsWWcyZXQzRjdQdTYtU2hBclN0QTZRLWpiUmk3LUpaR1dpUm5nR0hlRlM0THRVRXJPcS1iU0pxUmhsN0hUd05vLV9DbFR0RjFwWTRDdw?oc=5",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
+      "title": "My fellow American: who should be remembered for the next 250 years?",
+      "source": "FT",
+      "link": "https://www.ft.com/content/3265b413-f8b6-4ee9-a058-5d6689df9100",
+      "date": "Sat, 04 Jul 2026 04:00:34 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Francis Fukuyama: The problem of equality",
+      "source": "FT",
+      "link": "https://www.ft.com/content/4df67e55-e52b-4ee6-be69-0504b787de69",
+      "date": "Sat, 04 Jul 2026 04:00:34 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Yiyun Li: \u2018Moby-Dick\u2019 is the Great American Novel of pursuit and destruction",
+      "source": "FT",
+      "link": "https://www.ft.com/content/6494edfb-300b-43bf-b25a-2821b2852ed5",
+      "date": "Sat, 04 Jul 2026 04:00:21 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Simon Schama: The founding fathers and the battle for America\u2019s future",
+      "source": "FT",
+      "link": "https://www.ft.com/content/34eb59fa-fc22-4b03-b9e6-205443d19dd1",
+      "date": "Sat, 04 Jul 2026 04:00:21 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "The massacre America forgot",
+      "source": "FT",
+      "link": "https://www.ft.com/content/46ba4db6-4133-4db2-ac8f-2936273f402c",
+      "date": "Sat, 04 Jul 2026 04:00:34 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Yankee pyramids: how to build a presidential library",
+      "source": "FT",
+      "link": "https://www.ft.com/content/b640ab8d-4273-43be-8206-be750c004665",
+      "date": "Sat, 04 Jul 2026 04:00:21 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Trump uses Mount Rushmore speech to warn of \u2018communist menace\u2019 in US",
+      "source": "FT",
+      "link": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c",
+      "date": "Sat, 04 Jul 2026 04:23:42 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Iran mourners demand revenge at ayatollah\u2019s funeral",
+      "source": "FT",
+      "link": "https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc",
+      "date": "Sat, 04 Jul 2026 10:04:37 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Security staff strikes averted at Aberdeen Airport",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 03 Jul 2026 20:51:58 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 02:57:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 18:41:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 09:45:55 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 15:45:15 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 17:22:46 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 11:25:57 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Row after Indian state drops eggs from school lunch menu",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 00:55:10 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 02:26:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 07:52:55 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 03 Jul 2026 21:00:53 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 20:19:11 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 17:51:04 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 08:24:17 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    }
+  ]
+}
