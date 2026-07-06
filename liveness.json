@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-04T21:40:19Z",
+  "last_run_utc": "2026-07-06T17:39:50Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,26 +14,28 @@
       "alerts": [
         "cushing_mbbl Cushing=19.666M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-04/eia_petroleum.json"
+      "saved": "data/2026-07-06/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 2,
-      "critical": [],
-      "saved": "data/2026-07-04/edgar_8k.json"
+      "count": 3,
+      "critical": [
+        "EGBN 2026-07-06 ['5.02', '9.01']"
+      ],
+      "saved": "data/2026-07-06/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 43,
+      "count": 41,
       "weak": [],
-      "saved": "data/2026-07-04/treasury_auctions.json"
+      "saved": "data/2026-07-06/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-23",
       "vix_lev_money_net": -18863,
       "alerts": [],
-      "saved": "data/2026-07-04/cftc_cot.json"
+      "saved": "data/2026-07-06/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -44,24 +46,26 @@
         "PSAVERT Personal savings rate %=3.0 [orange]",
         "BAMLH0A0HYM2 HY OAS bps=275.0 [orange]"
       ],
-      "saved": "data/2026-07-04/fred.json"
+      "saved": "data/2026-07-06/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 50,
-      "skipped_already_seen": 115,
+      "new": 110,
+      "skipped_already_seen": 61,
       "by_class": {
-        "NEW": 45,
-        "NEW_WATCH_HIT": 2,
-        "DEVELOPMENT": 1,
-        "NEW_WATCH": 2
+        "NEW": 105,
+        "DEVELOPMENT": 2,
+        "NEW_WATCH_HIT": 1,
+        "NEW_WATCH": 1,
+        "NEW_ALERT": 1
       },
       "alerts": [
-        "Medvedev says Strait of Hormuz gives Iran leverage comparable to \u2018nuclear weapon [NEW_WATCH_HIT]",
-        "UAE exports record oil volumes after OPEC exit, ship-tracking data shows - Reute [DEVELOPMENT]",
-        "Lukoil's largest oil refinery halts operations after drone attack - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f [NEW_WATCH_HIT]"
+        "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say - Reut [DEVELOPMENT]",
+        "Ukraine attacks biggest oil refinery in Russia, located ~1,864 miles from border [NEW_WATCH_HIT]",
+        "Bank of England updates bank failure playbook after US regulator\u2019s nod - Private [NEW_ALERT]",
+        "Man arrested for threatening to shoot up Grove Wal-Mart - FourStatesHomepage.com [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-04/news.json"
+      "saved": "data/2026-07-06/news.json"
     }
   },
   "errors": []
