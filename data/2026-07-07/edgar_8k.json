@@ -1,0 +1,35 @@
+{
+  "window_days": 7,
+  "filings": [
+    {
+      "ticker": "EGBN",
+      "date": "2026-07-06",
+      "items": [
+        "5.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000083/0001050441-26-000083-index.htm"
+    },
+    {
+      "ticker": "EGBN",
+      "date": "2026-06-30",
+      "items": [
+        "8.01",
+        "9.01"
+      ],
+      "severity": "gray",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000081/0001050441-26-000081-index.htm"
+    },
+    {
+      "ticker": "VLY",
+      "date": "2026-07-01",
+      "items": [
+        "7.01",
+        "9.01"
+      ],
+      "severity": "gray",
+      "url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000079/0000074260-26-000079-index.htm"
+    }
+  ]
+}

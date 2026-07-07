@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-06T17:39:50Z",
+  "last_run_utc": "2026-07-07T17:09:36Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,7 +14,7 @@
       "alerts": [
         "cushing_mbbl Cushing=19.666M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-06/eia_petroleum.json"
+      "saved": "data/2026-07-07/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
@@ -22,20 +22,20 @@
       "critical": [
         "EGBN 2026-07-06 ['5.02', '9.01']"
       ],
-      "saved": "data/2026-07-06/edgar_8k.json"
+      "saved": "data/2026-07-07/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 41,
+      "count": 44,
       "weak": [],
-      "saved": "data/2026-07-06/treasury_auctions.json"
+      "saved": "data/2026-07-07/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
-      "vix_report_date": "2026-06-23",
-      "vix_lev_money_net": -18863,
+      "vix_report_date": "2026-06-30",
+      "vix_lev_money_net": -2017,
       "alerts": [],
-      "saved": "data/2026-07-06/cftc_cot.json"
+      "saved": "data/2026-07-07/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -44,28 +44,29 @@
       "alerts": [
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=275.0 [orange]"
+        "BAMLH0A0HYM2 HY OAS bps=272.0 [orange]"
       ],
-      "saved": "data/2026-07-06/fred.json"
+      "saved": "data/2026-07-07/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 110,
-      "skipped_already_seen": 61,
+      "new": 99,
+      "skipped_already_seen": 70,
       "by_class": {
-        "NEW": 105,
-        "DEVELOPMENT": 2,
-        "NEW_WATCH_HIT": 1,
-        "NEW_WATCH": 1,
-        "NEW_ALERT": 1
+        "NEW": 93,
+        "NEW_ALERT": 2,
+        "NEW_WATCH_HIT": 2,
+        "DEVELOPMENT": 2
       },
       "alerts": [
-        "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say - Reut [DEVELOPMENT]",
-        "Ukraine attacks biggest oil refinery in Russia, located ~1,864 miles from border [NEW_WATCH_HIT]",
-        "Bank of England updates bank failure playbook after US regulator\u2019s nod - Private [NEW_ALERT]",
-        "Man arrested for threatening to shoot up Grove Wal-Mart - FourStatesHomepage.com [DEVELOPMENT]"
+        "Navigating disruption in the private credit market - Squire Patton Boggs [NEW_ALERT]",
+        "Strait of Hormuz Disruptions: Beyond reopening - lasting impacts on vulnerable e [NEW_WATCH_HIT]",
+        "Russia's largest oil refinery halts processing after drone attack, sources say - [NEW_WATCH_HIT]",
+        "The SOFR\u2013federal funds rate basis saw strong buying interest following record-br [DEVELOPMENT]",
+        "New Bill: Representative Rashida Tlaib introduces H.R. 9490: Bank Failure Accoun [NEW_ALERT]",
+        "Tricolor executives charged with 'systematic fraud' after subprime auto lender r [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-06/news.json"
+      "saved": "data/2026-07-07/news.json"
     }
   },
   "errors": []

@@ -1,0 +1,10 @@
+{
+  "vix": {
+    "report_date": "2026-06-30",
+    "open_interest": 354497,
+    "dealer_net": 37149,
+    "asset_mgr_net": -32658,
+    "lev_money_net": -2017
+  },
+  "alerts": []
+}
