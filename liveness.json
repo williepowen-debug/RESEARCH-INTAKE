@@ -1,41 +1,41 @@
 {
-  "last_run_utc": "2026-07-08T16:27:42Z",
+  "last_run_utc": "2026-07-09T17:18:37Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
       "status": "ok",
       "metrics": {
-        "commercial_crude_mbbl": 408.359,
-        "spr_mbbl": 325.655,
-        "cushing_mbbl": 19.666,
-        "gasoline_mbbl": 213.966,
-        "distillate_mbbl": 108.599
+        "commercial_crude_mbbl": 411.357,
+        "spr_mbbl": 319.489,
+        "cushing_mbbl": 19.614,
+        "gasoline_mbbl": 212.062,
+        "distillate_mbbl": 103.619
       },
       "alerts": [
-        "cushing_mbbl Cushing=19.666M [red] (<20M=Boundary#3 operational floor)"
+        "cushing_mbbl Cushing=19.614M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-08/eia_petroleum.json"
+      "saved": "data/2026-07-09/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "critical": [
         "EGBN 2026-07-06 ['5.02', '9.01']"
       ],
-      "saved": "data/2026-07-08/edgar_8k.json"
+      "saved": "data/2026-07-09/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 44,
+      "count": 45,
       "weak": [],
-      "saved": "data/2026-07-08/treasury_auctions.json"
+      "saved": "data/2026-07-09/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-30",
       "vix_lev_money_net": -2017,
       "alerts": [],
-      "saved": "data/2026-07-08/cftc_cot.json"
+      "saved": "data/2026-07-09/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -45,25 +45,22 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]"
       ],
-      "saved": "data/2026-07-08/fred.json"
+      "saved": "data/2026-07-09/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 86,
-      "skipped_already_seen": 80,
+      "new": 71,
+      "skipped_already_seen": 82,
       "by_class": {
-        "NEW": 77,
-        "DEVELOPMENT": 2,
+        "NEW": 65,
         "NEW_WATCH_HIT": 2,
-        "NEW_WATCH": 5
+        "NEW_WATCH": 4
       },
       "alerts": [
-        "Singapore's Temasek hits record portfolio value, eyes more investment in AI, inf [DEVELOPMENT]",
-        "Oil prices rise to record level after Iran launches attacks on tankers near stra [DEVELOPMENT]",
-        "Russian Refinery Attacks Are Quietly Pushing Up Diesel Costs - StoneX [NEW_WATCH_HIT]",
-        "Russia Bans Diesel Exports After Ukraine\u2019s Refinery Attacks - Bloomberg.com [NEW_WATCH_HIT]"
+        "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources  [NEW_WATCH_HIT]",
+        "Ukraine war briefing: Russia bans diesel exports as refinery attacks \u2060trigger ga [NEW_WATCH_HIT]"
       ],
-      "saved": "data/2026-07-08/news.json"
+      "saved": "data/2026-07-09/news.json"
     }
   },
   "errors": []
