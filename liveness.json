@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-09T17:18:37Z",
+  "last_run_utc": "2026-07-10T16:52:06Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,7 +14,7 @@
       "alerts": [
         "cushing_mbbl Cushing=19.614M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-09/eia_petroleum.json"
+      "saved": "data/2026-07-10/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
@@ -22,20 +22,20 @@
       "critical": [
         "EGBN 2026-07-06 ['5.02', '9.01']"
       ],
-      "saved": "data/2026-07-09/edgar_8k.json"
+      "saved": "data/2026-07-10/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 45,
+      "count": 42,
       "weak": [],
-      "saved": "data/2026-07-09/treasury_auctions.json"
+      "saved": "data/2026-07-10/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-06-30",
       "vix_lev_money_net": -2017,
       "alerts": [],
-      "saved": "data/2026-07-09/cftc_cot.json"
+      "saved": "data/2026-07-10/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -43,24 +43,30 @@
       "errored": [],
       "alerts": [
         "UMCSENT UMich sentiment=44.8 [red]",
-        "PSAVERT Personal savings rate %=3.0 [orange]"
+        "PSAVERT Personal savings rate %=3.0 [orange]",
+        "BAMLH0A0HYM2 HY OAS bps=270.0 [orange]"
       ],
-      "saved": "data/2026-07-09/fred.json"
+      "saved": "data/2026-07-10/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 71,
-      "skipped_already_seen": 82,
+      "new": 81,
+      "skipped_already_seen": 72,
       "by_class": {
-        "NEW": 65,
+        "NEW": 72,
+        "DEVELOPMENT": 2,
         "NEW_WATCH_HIT": 2,
-        "NEW_WATCH": 4
+        "NEW_WATCH": 4,
+        "NEW_ALERT": 1
       },
       "alerts": [
-        "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources  [NEW_WATCH_HIT]",
-        "Ukraine war briefing: Russia bans diesel exports as refinery attacks \u2060trigger ga [NEW_WATCH_HIT]"
+        "Athene executive warns of Cayman \u2018contagion risk\u2019 - Royal Gazette | Bermuda [DEVELOPMENT]",
+        "Russia's Ilsky oil refinery catches fire, Taganrog evacuates after drone attacks [NEW_WATCH_HIT]",
+        "Moscow Oil Refinery Ignites Again Following Massive Overnight Drone Attack - UNI [NEW_WATCH_HIT]",
+        "BoE and PRA streamline reporting and disclosure requirements for bank failure re [NEW_ALERT]",
+        "Apollo Global Management (APO) Nears Record Acquisitions with $2 - GuruFocus [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-09/news.json"
+      "saved": "data/2026-07-10/news.json"
     }
   },
   "errors": []
