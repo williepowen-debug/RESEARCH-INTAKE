@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-13T17:10:48Z",
+  "last_run_utc": "2026-07-14T16:10:51Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,21 +14,19 @@
       "alerts": [
         "cushing_mbbl Cushing=19.614M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-13/eia_petroleum.json"
+      "saved": "data/2026-07-14/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 1,
-      "critical": [
-        "EGBN 2026-07-06 ['5.02', '9.01']"
-      ],
-      "saved": "data/2026-07-13/edgar_8k.json"
+      "count": 0,
+      "critical": [],
+      "saved": "data/2026-07-14/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 37,
+      "count": 40,
       "weak": [],
-      "saved": "data/2026-07-13/treasury_auctions.json"
+      "saved": "data/2026-07-14/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -37,7 +35,7 @@
       "alerts": [
         "cftc_cot VIX lev-money net=5112 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-13/cftc_cot.json"
+      "saved": "data/2026-07-14/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -47,26 +45,28 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]"
       ],
-      "saved": "data/2026-07-13/fred.json"
+      "saved": "data/2026-07-14/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 89,
-      "skipped_already_seen": 67,
+      "new": 86,
+      "skipped_already_seen": 71,
       "by_class": {
-        "NEW": 84,
-        "NEW_ALERT": 2,
+        "NEW": 77,
         "DEVELOPMENT": 2,
-        "NEW_WATCH_HIT": 1
+        "NEW_WATCH_HIT": 2,
+        "NEW_WATCH": 3,
+        "NEW_ALERT": 2
       },
       "alerts": [
-        "Asfandyar Uppal, Founder of ADS.finance, on Navigating the Private Credit Jungle [NEW_ALERT]",
-        "U.A.E. Crude Output Surged in June After OPEC Exit - WSJ [DEVELOPMENT]",
-        "Georgia bank closed by regulators, 2nd U.S. bank failure this year - BNO News [NEW_ALERT]",
-        "Subprime Auto Loans Just Hit Their Worst Delinquency Rate in 32 Years. Here's Wh [NEW_WATCH_HIT]",
-        "Irish police to engage with Jordanian force in murder investigation [DEVELOPMENT]"
+        "INVESTIGATION NOTICE: Girard Sharp Law Firm Encourages - GlobeNewswire [DEVELOPMENT]",
+        "Japanese Yen Short Covering Raises the Stakes for USD/JPY - FOREX.com [NEW_WATCH_HIT]",
+        "U.S. June Jobs Report Misses Expectations as Payrolls Rise Only 57,000, Unemploy [NEW_WATCH_HIT]",
+        "Banks Push Senate To Tighten Stablecoin Bill, Warn Of Deposit Flight Risk - CUTo [NEW_ALERT]",
+        "User Clip: Clip: Washington Mutual Bank Failure, Panel 2 - C-SPAN [NEW_ALERT]",
+        "APO Joseph Slack retires after 24 years of service - Amityville Record [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-13/news.json"
+      "saved": "data/2026-07-14/news.json"
     }
   },
   "errors": []
