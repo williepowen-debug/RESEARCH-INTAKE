@@ -1,32 +1,32 @@
 {
-  "last_run_utc": "2026-07-15T16:19:22Z",
+  "last_run_utc": "2026-07-16T16:14:13Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
       "status": "ok",
       "metrics": {
-        "commercial_crude_mbbl": 411.357,
-        "spr_mbbl": 319.489,
-        "cushing_mbbl": 19.614,
-        "gasoline_mbbl": 212.062,
-        "distillate_mbbl": 103.619
+        "commercial_crude_mbbl": 409.665,
+        "spr_mbbl": 316.504,
+        "cushing_mbbl": 20.044,
+        "gasoline_mbbl": 210.529,
+        "distillate_mbbl": 108.175
       },
       "alerts": [
-        "cushing_mbbl Cushing=19.614M [red] (<20M=Boundary#3 operational floor)"
+        "cushing_mbbl Cushing=20.044M [orange] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-15/eia_petroleum.json"
+      "saved": "data/2026-07-16/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
       "count": 0,
       "critical": [],
-      "saved": "data/2026-07-15/edgar_8k.json"
+      "saved": "data/2026-07-16/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 40,
+      "count": 43,
       "weak": [],
-      "saved": "data/2026-07-15/treasury_auctions.json"
+      "saved": "data/2026-07-16/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -35,43 +35,40 @@
       "alerts": [
         "cftc_cot VIX lev-money net=5112 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-15/cftc_cot.json"
+      "saved": "data/2026-07-16/cftc_cot.json"
     },
     "fred": {
-      "status": "degraded",
+      "status": "ok",
       "series_count": 16,
-      "errored": [
-        "ICSA",
-        "CCSA",
-        "RSXFS",
-        "MORTGAGE30US"
-      ],
+      "errored": [],
       "alerts": [
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=272.0 [orange]"
+        "MORTGAGE30US 30yr mortgage rate %=6.55 [orange]",
+        "BAMLH0A0HYM2 HY OAS bps=271.0 [orange]"
       ],
-      "saved": "data/2026-07-15/fred.json"
+      "saved": "data/2026-07-16/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 93,
-      "skipped_already_seen": 69,
+      "new": 101,
+      "skipped_already_seen": 64,
       "by_class": {
-        "NEW": 85,
-        "DEVELOPMENT": 1,
-        "NEW_WATCH_HIT": 2,
-        "NEW_WATCH": 3,
+        "NEW": 91,
+        "DEVELOPMENT": 3,
+        "NEW_WATCH_HIT": 1,
+        "NEW_WATCH": 4,
         "NEW_ALERT": 2
       },
       "alerts": [
-        "ATH SEC Filings - Athene Hldg 10-K, 10-Q, 8-K Forms - Stock Titan [DEVELOPMENT]",
-        "Japanese Yen Technical Outlook: USD/JPY Coils Below 2024 High Resistance - FOREX [NEW_WATCH_HIT]",
-        "US Banks Target CLARITY Act Stablecoin Rewards in Fight Over Deposit Flight - Fi [NEW_ALERT]",
-        "Banking Groups Push Senate to Tighten CLARITY Act Stablecoin Yield Rules, Warnin [NEW_ALERT]",
-        "Subprime Auto Loans Just Hit Their Worst Delinquency Rate in 32 Years. Here's Wh [NEW_WATCH_HIT]"
+        "Shareholder Alert: Ademi LLP Investigates Claims of Securities Fraud against Blu [DEVELOPMENT]",
+        "Investigation launched into Blue Owl for possib... - Pluang [DEVELOPMENT]",
+        "Why fully reopening the Strait of Hormuz is such a challenge - The Hill [NEW_WATCH_HIT]",
+        "UAE Tells OPEC Its Oil Production Surged by 80% Last Month - Bloomberg.com [DEVELOPMENT]",
+        "15 most recent bank failures - American Banker [NEW_ALERT]",
+        "Sen. Warren calls for probe into Fed\u2019s outside review of Silicon Valley Bank fai [NEW_ALERT]"
       ],
-      "saved": "data/2026-07-15/news.json"
+      "saved": "data/2026-07-16/news.json"
     }
   },
   "errors": []

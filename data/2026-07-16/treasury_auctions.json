@@ -1,0 +1,392 @@
+{
+  "window_days": 30,
+  "auctions": [
+    {
+      "date": "2026-07-23",
+      "security": "10Y",
+      "btc": null,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": null,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-22",
+      "security": "19Y",
+      "btc": null,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": null,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-21",
+      "security": "6W",
+      "btc": null,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": null,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-20",
+      "security": "26W",
+      "btc": null,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": null,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-20",
+      "security": "13W",
+      "btc": null,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": null,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-16",
+      "security": "4W",
+      "btc": 2.57,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 116.4,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-16",
+      "security": "8W",
+      "btc": 2.84,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 105.9,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-15",
+      "security": "17W",
+      "btc": 3.35,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 76.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-14",
+      "security": "6W",
+      "btc": 2.84,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 98.9,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-13",
+      "security": "26W",
+      "btc": 3.11,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 82.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-13",
+      "security": "13W",
+      "btc": 2.84,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 95.7,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-09",
+      "security": "4W",
+      "btc": 2.64,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 106.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-09",
+      "security": "8W",
+      "btc": 2.95,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 100.9,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-09",
+      "security": "29Y",
+      "btc": 2.44,
+      "high_yield": 5.058,
+      "tail_bp": 217.0,
+      "awarded_b": 24.3,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-08",
+      "security": "17W",
+      "btc": 3.41,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 76.5,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-08",
+      "security": "9Y",
+      "btc": 2.59,
+      "high_yield": 4.58,
+      "tail_bp": 18.0,
+      "awarded_b": 43.1,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-07",
+      "security": "52W",
+      "btc": 3.14,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 54.8,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-07",
+      "security": "6W",
+      "btc": 2.74,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 94.8,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-07",
+      "security": "3Y",
+      "btc": 2.6,
+      "high_yield": 4.179,
+      "tail_bp": 21.4,
+      "awarded_b": 64.0,
+      "status": "avg"
+    },
+    {
+      "date": "2026-07-06",
+      "security": "26W",
+      "btc": 3.05,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 83.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-06",
+      "security": "13W",
+      "btc": 2.58,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 96.9,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-02",
+      "security": "4W",
+      "btc": 2.72,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 88.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-02",
+      "security": "8W",
+      "btc": 2.7,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 88.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-07-01",
+      "security": "17W",
+      "btc": 2.66,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 74.7,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-30",
+      "security": "6W",
+      "btc": 2.71,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 85.2,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-29",
+      "security": "26W",
+      "btc": 2.58,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 84.1,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-29",
+      "security": "13W",
+      "btc": 2.32,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 98.0,
+      "status": "avg"
+    },
+    {
+      "date": "2026-06-25",
+      "security": "7Y",
+      "btc": 2.5,
+      "high_yield": 4.26,
+      "tail_bp": 12.0,
+      "awarded_b": 50.6,
+      "status": "avg"
+    },
+    {
+      "date": "2026-06-25",
+      "security": "8W",
+      "btc": 2.79,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 80.9,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-25",
+      "security": "4W",
+      "btc": 2.74,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 75.5,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-24",
+      "security": "1Y",
+      "btc": 2.99,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 28.0,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-24",
+      "security": "5Y",
+      "btc": 2.35,
+      "high_yield": 4.2,
+      "tail_bp": 11.5,
+      "awarded_b": 80.5,
+      "status": "avg"
+    },
+    {
+      "date": "2026-06-24",
+      "security": "17W",
+      "btc": 2.55,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 74.4,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-23",
+      "security": "6W",
+      "btc": 2.91,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 69.5,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-23",
+      "security": "2Y",
+      "btc": 2.64,
+      "high_yield": 4.189,
+      "tail_bp": 10.9,
+      "awarded_b": 79.3,
+      "status": "avg"
+    },
+    {
+      "date": "2026-06-22",
+      "security": "26W",
+      "btc": 2.51,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 82.3,
+      "status": "avg"
+    },
+    {
+      "date": "2026-06-22",
+      "security": "13W",
+      "btc": 2.68,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 95.1,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-18",
+      "security": "4Y",
+      "btc": 2.61,
+      "high_yield": 1.955,
+      "tail_bp": 11.5,
+      "awarded_b": 27.6,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-18",
+      "security": "4W",
+      "btc": 2.99,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 74.3,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-18",
+      "security": "8W",
+      "btc": 2.57,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 79.6,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-17",
+      "security": "17W",
+      "btc": 2.87,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 73.3,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-16",
+      "security": "6W",
+      "btc": 3.12,
+      "high_yield": null,
+      "tail_bp": null,
+      "awarded_b": 70.4,
+      "status": "strong"
+    },
+    {
+      "date": "2026-06-16",
+      "security": "19Y",
+      "btc": 2.75,
+      "high_yield": 4.927,
+      "tail_bp": 104.7,
+      "awarded_b": 13.0,
+      "status": "strong"
+    }
+  ]
+}

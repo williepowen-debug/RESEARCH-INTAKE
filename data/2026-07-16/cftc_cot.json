@@ -1,0 +1,12 @@
+{
+  "vix": {
+    "report_date": "2026-07-07",
+    "open_interest": 372859,
+    "dealer_net": 36779,
+    "asset_mgr_net": -38838,
+    "lev_money_net": 5112
+  },
+  "alerts": [
+    "cftc_cot VIX lev-money net=5112 [orange] (net-long vol / de-risking regime)"
+  ]
+}
