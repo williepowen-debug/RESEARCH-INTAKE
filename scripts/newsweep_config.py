@@ -116,6 +116,21 @@ GOOGLE_NEWS_QUERIES = [
         "priority": "medium",
         "label": "position-pe",
     },
+    # VULCAN domain — AI capex / semis / memory (added 2026-07-16, WALTER
+    # coverage-gap note: zero AI/semis/memory queries existed; TrendForce = the
+    # canonical memory contract-price source, 0 hits in 764 archive rows)
+    {
+        "query": '"TrendForce" OR "DRAM contract price" OR "NAND pricing" OR "memory shortage" OR "HBM"',
+        "agents": ["VULCAN"],
+        "priority": "high",
+        "label": "memory-cycle",
+    },
+    {
+        "query": '"hyperscaler capex" OR "AI capex" OR "data center capex" OR "capex guidance"',
+        "agents": ["VULCAN", "HENRY"],
+        "priority": "high",
+        "label": "ai-capex",
+    },
 ]
 
 # ---------------------------------------------------------------------------

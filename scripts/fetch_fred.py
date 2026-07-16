@@ -17,6 +17,8 @@ import datetime
 import json
 import os
 import pathlib
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -69,13 +71,41 @@ def _hy_trigger_alerts(val, obs):
     return out
 
 
+# Transient upstream conditions worth a retry. 4xx (bad key / unknown series) is
+# PERMANENT — retrying it wastes the run and risks rate-limiting, so it fails fast.
+_RETRY_HTTP = {429, 500, 502, 503, 504}
+_RETRY_BACKOFF = (2, 5)  # seconds between attempts 1→2 and 2→3
+
+
 def _fred(series_id, key, limit=15):
+    """Pull a FRED series, retrying transient upstream failures.
+
+    Added 2026-07-16 after the 2026-07-15 run lost ICSA/CCSA/RSXFS/MORTGAGE30US to
+    read-timeouts + a 504 while the other 12 series succeeded — i.e. FRED had a slow
+    spell, not a broken key/series. With a single 20s attempt and no retry, one slow
+    response silently drops a series for the whole day. ICSA feeds two registered
+    fleet triggers (RED-FT-05 >250k, REG-T-05 >300k), so a silent one-day hole in it
+    is the real exposure. History: 13 consecutive clean runs before 7/15 → the
+    failure is transient and retry-shaped, not structural.
+    """
     params = {"series_id": series_id, "api_key": key, "file_type": "json",
               "sort_order": "desc", "limit": limit}
     url = f"{FRED_BASE}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "Research-Intake/fred"})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        data = json.loads(r.read())
+    attempts = len(_RETRY_BACKOFF) + 1
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                data = json.loads(r.read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code not in _RETRY_HTTP or attempt == attempts - 1:
+                raise  # permanent (4xx) or out of attempts → caller records it as today
+            time.sleep(_RETRY_BACKOFF[attempt])
+        except (TimeoutError, urllib.error.URLError, json.JSONDecodeError):
+            if attempt == attempts - 1:
+                raise
+            time.sleep(_RETRY_BACKOFF[attempt])
     return [{"date": o["date"], "value": o["value"]}
             for o in data.get("observations", []) if o["value"] != "."]
 

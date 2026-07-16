@@ -18,6 +18,9 @@ TARGETS = {
     "EGBN": {"cik": "1050441", "name": "Eagle Bancorp Inc"},
     "ZION": {"cik": "109380",  "name": "Zions Bancorporation"},
     "VLY":  {"cik": "74260",   "name": "Valley National Bancorp"},
+    # VULCAN domain (added 2026-07-16, WALTER coverage-gap note — the lane's
+    # TARGETS were all regional banks; MU is the memory-cycle input-cost primary)
+    "MU":   {"cik": "723125",  "name": "Micron Technology Inc"},
 }
 
 # 8-K item -> severity. red = material/credit-relevant, orange = notable.
