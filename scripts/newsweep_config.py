@@ -34,13 +34,13 @@ GOOGLE_NEWS_QUERIES = [
     # HENRY domain — energy / oil / geopolitics
     {
         "query": '"Brent crude" OR "oil price" OR "Hormuz" OR "Iran oil"',
-        "agents": ["HENRY"],
+        "agents": ["HENRY", "BRENT"],
         "priority": "high",
         "label": "oil-energy",
     },
     {
         "query": '"gasoline prices" OR "refinery" OR "SPR release" OR "OPEC"',
-        "agents": ["HENRY"],
+        "agents": ["HENRY", "BRENT"],
         "priority": "medium",
         "label": "gas-supply",
     },
@@ -130,6 +130,68 @@ GOOGLE_NEWS_QUERIES = [
         "agents": ["VULCAN", "HENRY"],
         "priority": "high",
         "label": "ai-capex",
+    },
+
+    # Fleet coverage sweep (2026-07-16, Will-approved; WALTER-drafted from
+    # REGISTRY domain strings, PROME-landed). Purpose: autonomous collection for
+    # 8 domains whose discovery previously depended on Will's drops or the
+    # agent's own in-session pulls ("coverage that doesn't route through Will").
+    # NEXUS deliberately has NO query (synthesis-class; convergence is derived).
+    # First-run flood watch: "foreclosure" (housing) and "copper price" (metals)
+    # flagged as possibly too broad — tune narrow if they flood the gate.
+    {
+        "query": '"VIX" OR "volatility spike" OR "VVIX" OR "SKEW index" OR "vol regime"',
+        "agents": ["VIOLET"],
+        "priority": "high",
+        "label": "vol-regime",
+    },
+    {
+        "query": '"grid emergency" OR "PJM" OR "ERCOT" OR "capacity auction" OR "power prices" OR "interconnection queue"',
+        "agents": ["WATT", "VULCAN"],
+        "priority": "high",
+        "label": "power-grid",
+    },
+    {
+        "query": '"central bank gold" OR "gold-silver ratio" OR "LME inventories" OR "copper price" OR "COMEX"',
+        "agents": ["MIDAS"],
+        "priority": "medium",
+        "label": "metals",
+    },
+    {
+        "query": '"El Nino" OR "La Nina" OR "heat dome" OR "hurricane forecast" OR "reinsurance pricing" OR "crop conditions"',
+        "agents": ["AEOLUS"],
+        "priority": "medium",
+        "label": "climate-macro",
+    },
+    {
+        "query": '"existing home sales" OR "housing inventory" OR "foreclosure" OR "homebuilder" OR "mortgage rates"',
+        "agents": ["HOMER", "CARL"],
+        "priority": "high",
+        "label": "housing",
+    },
+    {
+        "query": '"Russia refinery" OR "Ukraine drone strike" OR "Russian oil exports" OR "Novorossiysk" OR "Druzhba"',
+        "agents": ["OSPREY", "BRENT"],
+        "priority": "high",
+        "label": "russia-ukraine-energy",
+    },
+    {
+        "query": '"Strait of Hormuz" OR "Bab al-Mandab" OR "tanker attack" OR "IRGC" OR "Gulf strike" OR "naval blockade"',
+        "agents": ["FALCON", "BRENT"],
+        "priority": "high",
+        "label": "gulf-theater",
+    },
+    {
+        "query": '"Florida condo" OR "Florida insurance" OR "Citizens Property Insurance" OR "Florida housing"',
+        "agents": ["CORAL", "HOMER"],
+        "priority": "medium",
+        "label": "florida",
+    },
+    {
+        "query": '"HIBOR" OR "LGFV" OR "China property" OR "Hong Kong peg" OR "PBOC"',
+        "agents": ["ZHAO"],
+        "priority": "medium",
+        "label": "china-asia",
     },
 ]
 
