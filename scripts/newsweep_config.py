@@ -3,7 +3,7 @@ News Sweep Config — Source of truth for queries, sources, keywords, entities, 
 Pattern: mirrors market-data/config.py
 Updated: 2026-04-03
 
-Schedule: M-F 8:30 AM ET auto + on-demand
+Schedule: M-F via GH Actions cron 15:00 UTC (~11:00 ET; queue delay lands runs ~12:10-12:20 ET in practice) + workflow_dispatch on-demand
 """
 
 # ---------------------------------------------------------------------------
