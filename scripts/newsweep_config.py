@@ -149,7 +149,7 @@ GOOGLE_NEWS_QUERIES = [
     # positioning, weekly). This query is COMPLEMENTARY, not gap-filling →
     # strongest CUT candidate of the nine at the ~7/30 redundancy review.
     {
-        "query": '"VIX spike" OR "VIX collapse" OR "volatility regime" OR "vol compression" OR "VVIX" OR "SKEW index"',
+        "query": '"vol ETP" OR "short-vol unwind" OR "volatility control" OR "vol-targeting" OR "dispersion trade" OR "0DTE" OR "VIX methodology" OR "variance swap" OR "volatility regime" OR "vol compression"',
         "agents": ["VIOLET"],
         "priority": "high",
         "label": "vol-regime",
