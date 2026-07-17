@@ -185,7 +185,7 @@ GOOGLE_NEWS_QUERIES = [
         "label": "russia-ukraine-energy",
     },
     {
-        "query": '"Strait of Hormuz" OR "Bab al-Mandab" OR "tanker attack" OR "IRGC" OR "Gulf strike" OR "naval blockade"',
+        "query": '"Strait of Hormuz" OR Hormuz OR "Bab al-Mandab" OR "Bab el-Mandeb" OR "Bab al-Mandeb" OR Houthi OR "tanker attack" OR "tanker struck" OR IRGC OR "Gulf strike" OR "naval blockade" OR Kharg OR "Basra Oil Terminal" OR "shuttle fleet" OR "ship-to-ship" OR Fujairah OR "Kataib Hezbollah" OR "Green Zone"',
         "agents": ["FALCON", "BRENT"],
         "priority": "high",
         "label": "gulf-theater",
