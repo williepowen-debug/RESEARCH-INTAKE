@@ -43,6 +43,14 @@ SERIES = [
     ("DGS2",         "2Y Treasury yield",         "rising",  None),
     ("T10Y2Y",       "10Y-2Y spread",             "falling", None),
     ("BAMLH0A0HYM2", "HY OAS bps",                "rising",  (240, 260, 270, 280)),
+    # HY decomposition (added 7/17, WALTER lane finding: 4 registered triggers fire
+    # on the blended index but BB/Single-B were collected by nobody — the 807bp
+    # BB->CCC gap was invisible to fleet data). bands=None DELIBERATE: LIQUID owns
+    # threshold-setting (KB-LIQ-069 BB>220 is its registered line).
+    # NB: these sub-indices START 2023-07-17 on FRED (true observation_start, not
+    # truncation) -> any percentile computed off them is 3-YEAR, never 30-year.
+    ("BAMLH0A1HYBB", "BB OAS bps",                 "rising",  None),
+    ("BAMLH0A2HYB",  "Single-B OAS bps",           "rising",  None),
 ]
 
 

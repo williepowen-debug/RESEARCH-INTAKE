@@ -26,7 +26,7 @@ GOOGLE_NEWS_QUERIES = [
     },
     {
         "query": '"Apollo credit" OR "Athene" OR "insurance insolvency" OR "PE insurance"',
-        "agents": ["BROCK"],
+        "agents": ["BROCK", "SHADE"],
         "priority": "medium",
         "label": "pe-insurance",
     },
