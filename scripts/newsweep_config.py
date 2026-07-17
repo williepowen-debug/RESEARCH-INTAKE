@@ -133,14 +133,23 @@ GOOGLE_NEWS_QUERIES = [
     },
 
     # Fleet coverage sweep (2026-07-16, Will-approved; WALTER-drafted from
-    # REGISTRY domain strings, PROME-landed). Purpose: autonomous collection for
-    # 8 domains whose discovery previously depended on Will's drops or the
-    # agent's own in-session pulls ("coverage that doesn't route through Will").
+    # REGISTRY domain strings, PROME-landed; owners ratify/amend at next boot —
+    # owner wins). Purpose: autonomous collection for domains whose discovery
+    # previously depended on Will's drops or the agent's own in-session pulls
+    # ("coverage that doesn't route through Will").
     # NEXUS deliberately has NO query (synthesis-class; convergence is derived).
-    # First-run flood watch: "foreclosure" (housing) and "copper price" (metals)
-    # flagged as possibly too broad — tune narrow if they flood the gate.
+    # First-run flood watch (PROME+WALTER reconciled 7/16 eve): "foreclosure",
+    # "copper price", "mortgage rates" — tune narrow if they flood the gate.
+    #
+    # vol-regime (v2, WALTER-corrected 7/16 eve): bare "VIX" dropped (worst
+    # flood risk of the nine) and the wording kept DIRECTION-NEUTRAL — a
+    # spike-only query would blind the lane to registered LOW-vol triggers
+    # (RED-FT-06 = VIX <16 sustain-5, live). JUSTIFICATION CORRECTION: VIOLET
+    # was never uncovered — the cftc_cot feed is its lane (VIX futures
+    # positioning, weekly). This query is COMPLEMENTARY, not gap-filling →
+    # strongest CUT candidate of the nine at the ~7/30 redundancy review.
     {
-        "query": '"VIX" OR "volatility spike" OR "VVIX" OR "SKEW index" OR "vol regime"',
+        "query": '"VIX spike" OR "VIX collapse" OR "volatility regime" OR "vol compression" OR "VVIX" OR "SKEW index"',
         "agents": ["VIOLET"],
         "priority": "high",
         "label": "vol-regime",
