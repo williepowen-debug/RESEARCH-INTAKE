@@ -21,6 +21,16 @@ TARGETS = {
     # VULCAN domain (added 2026-07-16, WALTER coverage-gap note — the lane's
     # TARGETS were all regional banks; MU is the memory-cycle input-cost primary)
     "MU":   {"cik": "723125",  "name": "Micron Technology Inc"},
+    # VULCAN S1 core names (added 2026-07-16 eve, WALTER hyperscaler ask, Will-
+    # approved; all 4 CIKs live-verified vs data.sec.gov). SCOPE: this fetcher is
+    # 8-K/item-code ONLY — these rows are an EARNINGS-EVENT TRIPWIRE (item 2.02
+    # during the 7/22-7/31 Q2 cluster), NOT the useful-life datum: that lives in
+    # 10-Q PP&E footnotes this fetcher cannot read. The footnote read is tasked
+    # to VULCAN per filing (PROME DOCKET row 7/22-7/31); do not over-read these.
+    "MSFT": {"cik": "789019",  "name": "Microsoft Corporation"},
+    "GOOGL": {"cik": "1652044", "name": "Alphabet Inc"},
+    "AMZN": {"cik": "1018724", "name": "Amazon.com Inc"},
+    "META": {"cik": "1326801", "name": "Meta Platforms Inc"},
 }
 
 # 8-K item -> severity. red = material/credit-relevant, orange = notable.
