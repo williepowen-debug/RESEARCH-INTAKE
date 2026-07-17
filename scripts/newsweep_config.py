@@ -191,7 +191,7 @@ GOOGLE_NEWS_QUERIES = [
         "label": "gulf-theater",
     },
     {
-        "query": '"Florida condo" OR "Florida insurance" OR "Citizens Property Insurance" OR "Florida housing"',
+        "query": '"Florida condo" OR "Florida insurance" OR "Citizens Property Insurance" OR "Florida housing" OR "Florida foreclosure" OR "Florida property tax"',
         "agents": ["CORAL", "HOMER"],
         "priority": "medium",
         "label": "florida",
