@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-16T16:14:13Z",
+  "last_run_utc": "2026-07-17T16:11:30Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,19 +14,19 @@
       "alerts": [
         "cushing_mbbl Cushing=20.044M [orange] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-16/eia_petroleum.json"
+      "saved": "data/2026-07-17/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
       "count": 0,
       "critical": [],
-      "saved": "data/2026-07-16/edgar_8k.json"
+      "saved": "data/2026-07-17/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 43,
+      "count": 41,
       "weak": [],
-      "saved": "data/2026-07-16/treasury_auctions.json"
+      "saved": "data/2026-07-17/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -35,7 +35,7 @@
       "alerts": [
         "cftc_cot VIX lev-money net=5112 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-16/cftc_cot.json"
+      "saved": "data/2026-07-17/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -47,28 +47,26 @@
         "MORTGAGE30US 30yr mortgage rate %=6.55 [orange]",
         "BAMLH0A0HYM2 HY OAS bps=271.0 [orange]"
       ],
-      "saved": "data/2026-07-16/fred.json"
+      "saved": "data/2026-07-17/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 101,
-      "skipped_already_seen": 64,
+      "new": 210,
+      "skipped_already_seen": 83,
       "by_class": {
-        "NEW": 91,
-        "DEVELOPMENT": 3,
-        "NEW_WATCH_HIT": 1,
-        "NEW_WATCH": 4,
-        "NEW_ALERT": 2
+        "NEW": 205,
+        "DEVELOPMENT": 2,
+        "NEW_WATCH_HIT": 2,
+        "NEW_ALERT": 1
       },
       "alerts": [
         "Shareholder Alert: Ademi LLP Investigates Claims of Securities Fraud against Blu [DEVELOPMENT]",
-        "Investigation launched into Blue Owl for possib... - Pluang [DEVELOPMENT]",
-        "Why fully reopening the Strait of Hormuz is such a challenge - The Hill [NEW_WATCH_HIT]",
-        "UAE Tells OPEC Its Oil Production Surged by 80% Last Month - Bloomberg.com [DEVELOPMENT]",
-        "15 most recent bank failures - American Banker [NEW_ALERT]",
-        "Sen. Warren calls for probe into Fed\u2019s outside review of Silicon Valley Bank fai [NEW_ALERT]"
+        "Japanese Yen Short-term Outlook: USD/JPY Defends the Uptrend as the Range Tighte [NEW_WATCH_HIT]",
+        "USD/JPY Rally Shows Why Intervention May Fail to Stop Yen Weakness - Investing.c [NEW_WATCH_HIT]",
+        "Tlaib Introduces Bank Failure Accountability Act - House.gov [NEW_ALERT]",
+        "A deadly collapse at a Florida condo happened slowly over several weeks, probe f [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-16/news.json"
+      "saved": "data/2026-07-17/news.json"
     }
   },
   "errors": []
