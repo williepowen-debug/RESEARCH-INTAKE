@@ -1,0 +1,2756 @@
+{
+  "by_class": {
+    "NEW": 170,
+    "NEW_ALERT": 4,
+    "DEVELOPMENT": 2,
+    "NEW_WATCH_HIT": 2,
+    "NEW_WATCH": 6
+  },
+  "items": [
+    {
+      "title": "Scenario and Sensitivity Analysis: U.K. Bulk Annuity Insurers' Private Credit Exposure Set To Remain Manageable - S&P Global",
+      "source": "S&P Global",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRnVOMUthUHNpdzJsMC0yTmdBS1RydERGZl9ycEJOd3dTSEUzd3lIYmJoR2E5UmM3eTI4WU5KRFpoOFAzOGFKS1dCWkpiTE5tcU9DMDVIM1pRN2tUbkNPTmZEZlZTSVdSaUpoNkhfREN2WXlOUjFYQzExS0lRNy1hVWlPZjM1cV83MU90OFhZUTBLN2JjYjB0VTRjcVRQSGlNc2c4aEFrT1pnNUxaLTRHVWljbTFlc2dtQ1YxU0YxYll4YXN4STY1LTJJVGVQc3FESDZGU2IxVTRDUVRGdm5GUlBabVFsQ1d6dFlVelpwSkpaczBiZGIwYkpsN3R1bjU1b2g0?oc=5",
+      "date": "Mon, 20 Jul 2026 03:58:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Allvue Systems launches private credit benchmarks based on deal data - Alternative Credit Investor",
+      "source": "Alternative Credit Investor",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXpGQmYtR05yZnZxMTY0NkRoUzhUeTU3TnJhQkwtUUJDQnVDWmRSQXI5c3JnNFNPV1hoOHZJcnZHUG96Y2pENlFrMnladlZnNkFqTWFiZkJiY1pDTkJZb0hiV05MWDZzU0otVEMxc1pwUDRYR21BSWNVaUhFU3V3bHdlVGk4Rl9PWExIb0pueDhhQUdOVE03Y2lUb051N3ZRMnI2WFgwczVtRlZ6SS1vbXkyZmY3OWkyMFE?oc=5",
+      "date": "Mon, 20 Jul 2026 14:10:37 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "GoldenTree Announces Closing of Oversubscribed Private Credit Fund II - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnprenVON2dsajFmVVZEQWQwNGNaOFlHa21mWHh1dERGRml4bVNSejhkMG1jbkNvYVhJYi1yZWZYdDAxMmNBUXFXWXhPYllSRlpxTE05Y0JBOXJaQnZZajEzcGlMWUY1Q1JUWi1sQVJNbWtQZk03aEV3UXlrUUs3cS1XMzFDaVF0NW4wS1JfcmNOd0lBT1NEMll0aFZGMGpVbEFSUjNpWDNZSlBaYTlPak04cUdxQVVpQVgxajFOTno5R0Jx?oc=5",
+      "date": "Mon, 20 Jul 2026 12:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Gramercy targets rising private credit demand in Mexico's power sector - BNamericas",
+      "source": "BNamericas",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUtvbWY4VF9sYUMzQ3d3SldSbVdyLVdNQUNVeU9MLXJMS200LV9ueUMyLXdEdHdobXVQMGxfV2Jrclo3UThKaDhDc1EzQ1VLMlFNcXBiaXFUSS1kd2N5Q1N1dUFCQlhLUjEwaGJkSEVvb2JoWmIwX0QydGI2OElZV1pMTEN1cXB6cGtqRHFoX2tGWEdadTBXODQzanBhVFRPZ2pESDRRQkFPTDczVmZ3?oc=5",
+      "date": "Mon, 20 Jul 2026 13:37:39 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Private Debt Forum 2026: Navigating opportunity in an evolving market - Natixis Corporate & Investment Banking - Natixis CIB",
+      "source": "Natixis Corporate & Investment Banking - Natixis CIB",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzNQeDFCWUNWRnZCMW1IZzEwdEV2d0s1WEZvT2toVWVSRmMzTDN5SXJQbXl6bGNiRG5jUlRvdE96LWJuR1czUk1ZaTBsQXhSekNlNmdnNDAwYlY0eWkxRU8wc2dDaDU3SnQ4bktrVE9uVzhzelB6aWlJbnNadEMzd3UzQzd3ZXBUeTlYVjJKdGRNejlROG5ILUQ2U05lOGx6LUJVOGhLV0QwUQ?oc=5",
+      "date": "Sun, 19 Jul 2026 22:00:00 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "gating",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "UK pension insurers raise exposure to opaque private credit - Financial Times",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29zajh4R2pLRUh5TXFPVlpOc0JjYmFjaFhGTGFlY1VIbE5ndTdXRFc0T1M2RmtiYmc5QmlJcmJDbF9tLXdHQzJPQmdQNUQ4UHE2NGNwUGJhVWw4RVlVZVpyT2Y0ODFyWHJaWGpHNHZMUTRfck43dmFMejR2LVFhRUEyNXg?oc=5",
+      "date": "Mon, 20 Jul 2026 04:02:10 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Canal Road Group Secures Equity Commitment from SMBC - ABF Journal",
+      "source": "ABF Journal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDhoSUQ3UUVZajJNRWI4RVBHX1k5cENDaXBEemdxdTlKaUF3YjhGOWx1dGh2TDdSRVdoYkRJY2wwQmpHRkZZY2tjS2wxN1Aya0hJMmN3WEVYYy0xY2RhREZhcTVrOTBRM01aQ19EQWxiY21ZdVhNZ1VrM0Q1RkdTanREZ0dWd28?oc=5",
+      "date": "Mon, 20 Jul 2026 05:55:52 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Private credit vs. public bonds: What are insurers seeing that\u2019s prompting a portfolio pivot? - Wealth Professional",
+      "source": "Wealth Professional",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON1pUMjhOSGVGUGV4Nkh3VjRDZEZ6UUpQTEhxVmE5alVucm5ZcjZjTFBNLW5KdHAtSEdWTFhENmpfa19SZWM0TnFoMDZNM2MtM1FmOUN5MXdTNDR3cVB0OVNzT1hFU0JrdXBiY2lnUkhrWnFONWZHa3A0ckowZWlwZ2Uyd3VzNUU4M1hBenlGM2p5a1JYekUtei1OcEtFeFlCdDBCSVZ1d19OR3VmbmlvTEFob0VQWnpwREhiNi1Pb3AzdkN6ODY3RGpQcjdzQmpMQ3YyNU5XamtXNFFEZ05TZk9jQ3BUcldybks3azNmbVRLY1NNMllHbkFB?oc=5",
+      "date": "Mon, 20 Jul 2026 10:57:58 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Private Credit: Alternative Lending - American Investment Council",
+      "source": "American Investment Council",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1falZLWjc5VGozdDFCNmFhNlNvck1EZ1ZMMG15WXhPSllzMVpRbmRvWnN0SURORWVMTngzNGw5Q0NBcE9EOGo2enNrVERTMTU4d3NoT29NMjllTklyY0NzWWhKcXlNS2VoR05lcjZYSzRHUkVEX21xVA?oc=5",
+      "date": "Mon, 29 Jun 2026 18:51:05 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "private-credit"
+    },
+    {
+      "title": "Blue Owl Technology Finance Corp. (OTF) Investigation: Johnson Fistel Encourages Investors to Contact the Firm - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOd2lYbWpuYmJZVG1XV0lzVVZXYlV5XzAtNjd5bTZ3SVVmZGhzdjZZcVU0RDlCRDJoS1duUVlhUFByeS15N016Q19fSDVkUGhWWVFIZ3haN25iazQtS0hxeUFTODhFY25UOWxQQzRERVVZMW83bGFCcC16NXhXcHI5Sl9lT0xicnduQlZNZ01DeGI2STBnZDVpMEc5RDYxbElBdFBvSUgzMVlMa2dHMVRFdTBzN1hXZGY4SFZCRVlzNVVhX2pvQm5BSzFxRzEtWU1aRVFJREJmMUh6QjM4VzFlV3R0ZVRDcFFINm5pcjVRS3RYeGt5ZEVOQTY0VmVhd3BVY09BZlZVWmFGUQ?oc=5",
+      "date": "Mon, 20 Jul 2026 13:04:45 GMT",
+      "classification": "DEVELOPMENT",
+      "level": "normal",
+      "keyword": null,
+      "entity": "Blue Owl",
+      "watch_hits": [],
+      "agents": [
+        "BROCK",
+        "LIQUID"
+      ],
+      "label": "bdc-names"
+    },
+    {
+      "title": "The best annuity companies of 2026 - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xc3hKWDlRQ3RPc2Nuak51VkZ3SWMySzFuLVJrQzBDY25DbUhzbnlYQXp6RV9GbGJTQ3I5eVQ5ZTF4MUhCUWdXOGc5OWRYQWR3T0d6NG81X2ZQeXlZb0hDU9IBZkFVX3lxTFBkZzdKSXdHM2FnRzMxWktBQmtjWWw0ekJZN1dQOG1KNWZNNUE2THQybzJMaXBEdllaekt2cThTVk5lZ1V3U2VBYVV5SjQzbExSc2pmUjhNd3FwT3lIelgxX19IV20zUQ?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK",
+        "SHADE"
+      ],
+      "label": "pe-insurance"
+    },
+    {
+      "title": "Iran\u2019s president says country is in \u2018full-scale war\u2019 after expansion of US attacks - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5",
+      "date": "Mon, 20 Jul 2026 02:01:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "oil-energy"
+    },
+    {
+      "title": "Forget crude. War pushes refiners to the brink - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTdqTE9KRlVTVDlGTWlvRzd6Tml3aXU3ZVdMejV3Z1dsLVNfcVFKMWh5MTJ0THhSdXV3TjIybjVXT3hHYXQ1M29Yc2xFMVg0SnNmOEluU2FrdUNlTG56dTE1ZEVfZnI5NHdvbWQtSzZOZGNRbUtja1NBX1paSmh2Qmk1TGJCOVVjOVc4YVBfdlpIRHM5MWlzaG1rbjZ4dmpkNlNkRkpFeFdXcjQ?oc=5",
+      "date": "Mon, 20 Jul 2026 06:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "NACS Asks Federal Court to Reverse EPA Small Refinery Exemptions - NACS",
+      "source": "NACS",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlpnd1EwaW9FeDVZMGctc3hZaXBRQkdjcV9Mek10aV9LVUVERVhTWnkzVnFhZW5CeENuQml6RTJWeVpPRE9XSlA5VzllY1VIamxSaFJtTS14UF9FZmhfOWloN2t6dnVtbkNGNC1STHZaaDNiNHB0el9ENEstOG9MVXM3SlpxeDNHVXNLeXo3bDd5SjU2dUhhYzdDbzNlNnIySWJZMmV2Qms2ajZ1RzVLSVQ0cVJFMEhGY0NQb3ItalU?oc=5",
+      "date": "Mon, 20 Jul 2026 14:45:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Alcoa cuts production outlook, citing refinery issues - Manufacturing Dive",
+      "source": "Manufacturing Dive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWxWVFJ5RVpDZGs3OUt6dnNNMTFMWkRxcnBZZS1DMm83eUdnNW9GSXNGdGNVMThFaG9hN05TckVZNm9oVzBHVE43dzdxNzhDeFZpRjhSNzBFMjV1bms2bktQZ1FaS3BNTzhnVDd1YzRuelNwbjk2TFBZdzc2YUZ1YlpoY3VQWVJaM0RCQmZWWmgwbm9vb1p1aGpjY1hxcUI3LWpxVWFSdTAxLTU3ejBJV293SHNOaWxaX1BqclE3RQ?oc=5",
+      "date": "Mon, 20 Jul 2026 16:15:16 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Irving Oil's refinery in New Brunswick to begin fall turnaround in September - Mining Weekly",
+      "source": "Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjdQTmhxMzBTTXFIcEk0eGtWUktURUhiQVlqYWMxNWM0M3lTZHM0aXNMd3I5bVVocWY0NkVvRTNVNjVsMVd1OWsyd1Z1VmhzN1dJakZSY1lrZjMweEo4c3hEcDdaTkdmeThLelNNcFgtTnVGQ3AxOVVqb25VODdTWTBDcHg0WEdtaHVnQlJVTGpTOFRaS254VWJ1dEdrUXhXLUFfOTNRWng3X3VTNWlEY1VEaHhUVFNvUDRzTnV2bTc?oc=5",
+      "date": "Mon, 20 Jul 2026 07:10:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Russian Car Sales Plunge 16% as Refinery Disruptions Trigger Domestic Fuel Crisis - UNITED24 Media",
+      "source": "UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXA3QlR2NUpXUFRpWGM0cS0tb05fRTFVcXdmTk8yc054RU9RU2p4N2pxVFpsTGMzT0JQd1FpMmxWaGlySHpnYUJtUUhFVENPLXJINURwWjg4Sm1YZVJCeDlyOVhmZ3NOYVpEaTFUWFZpWDJmTnNRNE1uWGNfeWlfVDE3ZVhLWEJEN0R2QnBVTFcwYkRqSnNCZkdpaE03ZUcyUkthcnVZNVA0QnZNNm1jRTJ2R3pLcklMekE?oc=5",
+      "date": "Mon, 20 Jul 2026 15:38:26 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Canadian Oil Refinery Shutdown Could Crimp Northeast US Supply - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGpfV0xPSlZ4R0RhakNLakNCeWR1NmdzZmVHTkR0UlFPUW5BbWFOQmM5bXd2cVJzZkFFZlhnMFp0ZEhONGZaelhQSGxSRnczN1NDNDZuSjZudVlzX1VjNDBBTDNwTEdmVlVLMDVXR0J0TVlvOGpvNU9LWWdDT2JHNW1vd0dYM1NabjJpbUNERi1HTUpkeUtZRVZEejNZcTdGcmpnVE05YW1kN3NfclRZWndiTEY?oc=5",
+      "date": "Fri, 17 Jul 2026 16:51:38 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HENRY",
+        "BRENT"
+      ],
+      "label": "gas-supply"
+    },
+    {
+      "title": "Japan\u2019s monetary conundrum \u2014 why the yen hit a 40-year low as interest rates hit a 31-year high - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlg3THJWd0t5VEh3WnZLRk1tbkRjZEt1RVRUWU1DYmo1dnNid2JmbWdtTzRObUVpRUMtQ2YxdC1ZTXpPNUNQRVVQSzY3YUVVTkVmWUtfVllYRkJNelIyVGJQNF9SNWdtV0FXWHRLc0tHTmxBb2gwaGMwQWxUdE0yYmZn?oc=5",
+      "date": "Mon, 20 Jul 2026 12:30:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "Deputies locate missing 17-year-old in 4S Ranch - fox5sandiego.com",
+      "source": "fox5sandiego.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWktoZHdtMmlMZFBRdTBFV3lTbmpDSExhaDk3OUR1dGllN3poaDBhN0pNc2JSYlk1aHlxWW9rUUpUejV0dEVWQWFDOEZsSzJXQWhuaGtVRFEwa09XcXFWeS1ZZ2pPYzlMVmcwdlRKbmQ0UWd3ZWlhak1yU3FvdnpqVFVMY9IBiAFBVV95cUxPU09uV3o3RWZFWWMyRTBwYzJ5OU56ckZValZicnB2ODNsYkZrSzFJVUhXcGRuNmdhSWJ4eWtUSG5tSVY1eGNuZ0tMLVNzLUZJZ083YnNVbzU3OUJNMEJtZ0dzZGtTcWRSRmFBMlkteVd4TF93eURydHNIVnd3azdreGprWVFnak1i?oc=5",
+      "date": "Mon, 20 Jul 2026 03:54:10 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "Yen likely to weaken past 170 before Japan's growth bet pays off, RSM's Brusuelas says - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnR2S2pTdjZha0dnSkZlbEM3b3FiMzVTc05lUUJfWDdXdTNjVVFLalI2R05qMHp5TFE0dU5maE9DdkRWNzh1bDhRM0tKUzNyRFIyX3pwX1p1ZGcwUzFZOTBpYldqMUdQQ3N6VGkzVVVtY3plUk5xOEJTOVFpNHNSRFA1TEVvVVVFYnpVMWlOcDFUd3FaZllrMU1FckdqNS12Q3pQRDFjNTNFUnd0SnBjc3NnWDNWeXhMM29wR3ZtQy1DU2xoNS14QS14Q1FmT3No?oc=5",
+      "date": "Fri, 17 Jul 2026 03:37:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments - CoinDesk",
+      "source": "CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVhfalItMW1QTXNlZ1FoMkdIbHFwNmFVRlcyUXdwX3M3emQxaXlLeWg0ZG5IdjZ1V1hPc3AtMXVyeDdoQ2VLQUxTb0JWanFEUDNOVWNqUlYtNkxJQ0tKZ3B2cVBwSkY1NXZURVRKY2dkdVBoODA5enhuQ2g2QzNmUUlUSGdjLWlRXzA0MUgwN3BZanZyQzdOVWZVNzR2aGx0anRVblN1MWdvUm1LVUlKV0FJVkNTMWR2dl9SUXBoYw?oc=5",
+      "date": "Mon, 20 Jul 2026 08:13:57 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "USD/JPY Poised to Continue Gains as Expensive Oil and Lack of Support Weigh on Yen - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdldUQXh4cm9TX2dVM1dhRUpBU01MaUtOWVNZY0VTMGJpMmtiblFNQVp4TDhVV29Ub0RteG9DVkw5dlZwZ0NZaHVPU3FKUEM2MWtyN2tNV0tnelNScThEZjdiR1NZSDNWVGhwRVJYeEFEcktoRWpFRU92UGkyVXdHdlVFS3NvR3lmcDNoeHJjc2hNZHRwQ3haX0VvNGFGaE1kcWtFYVRfZDBmUjFsQ3hyb0V6MkRxTW93ZU1fWWpia1NDdi1j?oc=5",
+      "date": "Mon, 20 Jul 2026 13:11:27 GMT",
+      "classification": "NEW_WATCH_HIT",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [
+        [
+          "SAM",
+          "USD/JPY above 162"
+        ]
+      ],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "Top Bloomberg Forecaster Sees Yen Sliding to 170 Per Dollar - GuruFocus",
+      "source": "GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGgxSkczNWVtZ2FnVlhESkI4SlA2elZtTDdweVdzVl9nZVVVamVzYXprNmtJY0xKODAxdlNOZDhfelRkMmtzY3dncnpJNms1VWk5dldKTGJsRGM0dlRoSDFaM0t5TjFPckU0MkN6YzNWdG1DajZMMDRsb2h3V2JaTV94clh6azhnZXhyMFZ6VEJ4bnB4SzlzaXZObEo2OWM?oc=5",
+      "date": "Mon, 20 Jul 2026 16:02:17 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "A weak yen made Tokyo into a steal. A strong shekel helped make Tel Aviv have expensive McMeals - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zTHBuVENpc1h1RkZiNGl2TWlsdFJpb2xXT21Td2hLZ3JGeFlkU0NXS3B5V2h2NVlNRVM3SDgzOUo5MHNhdjc1MWU1R1VsQzE3OGRBekpRMDQ2Zkg2UU9HdGJUeC13b04yRXFqR21QcVdiSW9Eanc?oc=5",
+      "date": "Sun, 19 Jul 2026 10:05:36 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "SAM"
+      ],
+      "label": "japan-boj"
+    },
+    {
+      "title": "FAS Starts Staff Cuts With Limited First Round of Layoffs - The Harvard Crimson",
+      "source": "The Harvard Crimson",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpc3Q3SVM5YXJtRW1NdG5kbllZekFXZ3lROHk4MlFwbmJYaEdQMUp5WE5lTUxQYVdEelprdG5oWFN1MWdKRFk1UVB5YkVIUUpwWG00VnN6cklSZVJaV0pfckJpWHllUWlGbjdmbWUtaXdpcmxPMy1GNA?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Florida sees huge jump in new unemployment claims - Florida Politics",
+      "source": "Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3hKVktCX1laRldIT0VhaDBzd2RDdE43LUhRYlZtUURSN2h4M2dRaFI5WldwSGtlZWRWWTdBR3JLSzFSc01MaGlMbzJ0bF95bFZYRWpZSWdjOW9GVjROMVZoRWJONHl4R3lzdGp6NXM4YVgwX2ZvdmZGd20zWnBLZDBJY1Q0WkluYVN1djVkYkhBMWtiWVBlNTZR?oc=5",
+      "date": "Mon, 20 Jul 2026 15:39:20 GMT",
+      "classification": "NEW_WATCH_HIT",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [
+        [
+          "LABOR",
+          "Florida unemployment claims"
+        ]
+      ],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Week in review: Meta\u2019s AI systems \u2018disproportionately\u2019 selected certain workers for layoffs - HR Dive",
+      "source": "HR Dive",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1ZWeWVWZy1oNmY3Ulh6RGdjcjdZczZYV3pqVEc0dEZ3ZDJqU05kNVJwYUtoSkZfOW14NzQzUlFwbm5nSlRORUVVcFJRV2UzVmsyQnJlYTVlZ0tQRHp3dGFPNGNyR2RxUnJ6V3ZhbE94Nm9wSGU3clg0ZW9kd0FkY0dJcUs5MFAxV0FtS1dGaFAzaHc?oc=5",
+      "date": "Mon, 20 Jul 2026 15:06:24 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Rural El Paso districts close schools, lay off employees as enrollment declines - El Paso Matters",
+      "source": "El Paso Matters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3ZuVHhadExubzZXWHBXTkdGakFiWlVoQ0p1WlNNUTZJY09PUDZIem9hbmFJUEIweVA3ekdaYnpBUXU5alNtUDFrX3NjVTA4aHZyR1d4M3h6SXZXY1VaM1hYUkNmQk1ySVVFbVZ4TE9uazdHZ1BaU181VjVzY0h2b2J4REdZVE1hdUpvR2VQMzhmTXBw?oc=5",
+      "date": "Mon, 20 Jul 2026 13:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "4,500 Google Employees Demand Job Security Amid Big Tech Layoffs - KQED",
+      "source": "KQED",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVBVZm5oeEdFMHExYW04TkRBY1ZWQ3Nocnc5RU5ZcGZJSm5HTUVFdTQ2TGlUZzdTMWZqVjNtUTJwS0VWVVNfQVJNekhEbzREQkdpOWJ3WGpwdVNMMW01d25iZjdvdTRzc3dHVGtxWEJkSWU5NUNRRXRCWEJDZ2pCMElyV1BMQzZMcGpNN0FwUmpLRTJLMmFHelVndGZlejg?oc=5",
+      "date": "Fri, 17 Jul 2026 18:02:27 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Judge won't block Meta layoffs over AI discrimination claims, but flags 'serious questions\u2019 - hcamag.com",
+      "source": "hcamag.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUW1sVUFiYjFPN3JZMXBKWDIyRjRxdGMwM1ZGaFRYWk5XdUFFRDZXUndlR19qSnBoblhmeVZYR1l1YzFEemRUbUJfYUtaY2V0ZGJXanl2X0ROaUxGNE5mcjIxU0pMUXVIR3ZXMjFuWkpfRjRFTld1dnZ4OE90Mm1TajZxVkNVbl9pQWI1bXRkRzRpMk9DQUZVQndmTVB0TVpOUkU3YWtlMDdpWmR4ZmpBYmtLTVpLUTFuQjRYSTNrYUNIc3R1RVowaHUxUjhxM25KLUpYYlJ1SEo0S0l6UFF6eGU4cUw?oc=5",
+      "date": "Mon, 20 Jul 2026 13:22:51 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Thousands of Google employees demand fair layoffs - The Jerusalem Post",
+      "source": "The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRnhENG91cEVXMUlJa2h3RTk2Q2NHeUFIdWFNWnBVVVdRSkxnUmY5cGJDeWdQT2sycWx1S3dvNHhXaWJmX3ZHM3NmSFZrNHhNbXZnRUNtSlNhWGF4WERRS1dKOEFEZnFoSEpqTGtBZ2xaY2lOX2lOS2NQSlJQeDFFN3lGU2ZFZw?oc=5",
+      "date": "Mon, 20 Jul 2026 09:50:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Butler County commissioners may lift hiring freeze - Journal-News.com",
+      "source": "Journal-News.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVG1nV1FDbm4wcFR5WnQxSkJzRElyY0NnN3NQNVdxdHRLNFBLaVlHa05zeTBHbDBRZHJzaXZLd3Y2ZDZ4ZjZlN1dBbVZZS2ZnZkQ5MHhQdFl2RVJfWmxaeF8yYTIyVGhWenpJVzRkZEFtcFZKRmtiV0lMdkF5Y01KR2F0aTFrM2cyWUhxcHhLdkE3WGVqTGlrWEY2cDdqT3NBQkM1QklEc3ByWEw4dkVIR1FfYnd1bE9YODhNTUVTdjNJZWxxRGJrZ0t2MEFnYjlm?oc=5",
+      "date": "Mon, 20 Jul 2026 09:05:00 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "hiring freeze",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Chicago Public Schools to hold public hearings on budget proposal involving hundreds of layoffs - CBS News",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTB5eUZEOTUxREhhdmV5cnZ1YlB1ckdlTmNOS2MwTFZWb0FrTUk4TDg1VEYzVVByU2hHTHIxemtOOXNPdUZJMkZBSmhzMGpZUlV0Q0hVMVppdWRCX2VIb0dkZDdLMWF5anloNGRPUnRsVDFBR2NzNVVub09nSXF6QmhlNi1iZDBocVJwMDY0azJQcS1oZ1A0dGpQTE9kQQ?oc=5",
+      "date": "Mon, 20 Jul 2026 14:10:01 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Israel\u2019s High-Tech Sector Grows Through War, Layoffs and AI Disruption - The Media Line",
+      "source": "The Media Line",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXBGRnk3dFo5VWdlX2NLNVhrV2xvZEI5SGh1Z2FRbWd6ZTc0RGR1MnhkTTUyTElnRWNJUGRMYzlZZzh0V2NZTTU2UzNpNlMzZG9UQV9SeXU3OTJKeWgxWTYzRGVDRUdERmFBbXlPaU1lQzgzc0VYZmVQQXJ4WVhoT2xuNzhUcTVISzFpSlVqUjBWcHdNSVkyNElKOFZ2NnVwMzdDcGtRMFlnYjZkSWNiZERfbw?oc=5",
+      "date": "Mon, 20 Jul 2026 08:17:42 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Tennessee enters 'low hire, low fire' job market with 5,000 layoffs - The Tennessean",
+      "source": "The Tennessean",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjJab2dCR0FPUk1UTzAyclBKaVQzRHdyTjhkYXgxTHZ3Q1NHTWhoajdXUVhnc3g2MWlkTjVRYWJwdG1XcXlTNnRCLUNxQjZYMEVoS3JMeGdzMGNoVEQyTEp6RXl2ZDJzX1Z5UDBlQTVUM2hLMzJzeTF0czhsLXJlVTdLeEVMN1dteGFmSDR6eWtXQ1JmbDdMblJwZ1RadVhZVGFvSERDVVg?oc=5",
+      "date": "Mon, 20 Jul 2026 10:02:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "City of Dallas Sets Mandatory Furloughs to Avoid Layoffs - Dallas Weekly",
+      "source": "Dallas Weekly",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlBjbHVzOWJJM0NDMzA1cmRCZjQ0ZS00ZUREcEFsOE9PaXg4QXIwdzB1MURuV1pqdUp1eko0dW5HeTNDa2owZkstWXpjVjJNR0VFakhPbWd1S203ZTZ2aUtFNU8zM3RxWk5LSTRWVHlDTnRHMi1Nb2FFUUVqemhHZw?oc=5",
+      "date": "Mon, 20 Jul 2026 14:20:55 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Can Employers Legally Use AI in Layoffs? Meta Lawsuit Explained - The Legal Examiner",
+      "source": "The Legal Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGtjSnlYWDIwNVNZd3dEMW96WUFkbEFJX1liWkl6NW9wNHItOXcyQVJPVkFwb1JOSzV2NzhoZ3plU1QxdlBqTmtkZURhQkxpUG9KLVIxamlGbWllQ2JkRVpfenowZUNlQ3lINk15V0lTZUt3clpSS0lwSlVXWHd6TzFoSU9xa1R4elc4UzY0VDF1LVRzazZYdTZQV3U3aXN5MHNsUkxzYUZfU2NxQnlEcWhNclc1a096b0sxUm5Na0JTWGNHWDN2cThiOURYVmo4REVWTFRsMnhsYW9CMlE?oc=5",
+      "date": "Mon, 20 Jul 2026 13:48:06 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-layoffs"
+    },
+    {
+      "title": "Natural family planning transforms marriages - The Catholic Sun",
+      "source": "The Catholic Sun",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcW5EbkVUM3BLN3ZlUzlVSkp0T1FKLWVIVXU3dy15UkhZSjNab3dRR3lBSEVNT0kzVDJ0c3JGdXhTUEhxWDJmZGdLVG9NMkN1RXAxMzluWWJWbEt5SmhVeFhTaGxMSW5ENUVJQ2hsV1Q4WHZYcUpSRVA5YUY0R3dSY0RCWkJKVXItS0ZIWQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:21:01 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "VW sets August staff meetings amid fears over 140,000 jobs \u2013 report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWVzM2I0Rm1WRUR5U3ZoWmNoOEtoT1F5andZeVNPZlY4V1JLU0hkcE0zajJzUEF3ZXVkdGFtcVJsNGdBTWxpWWhZc1N6bFZ3YlFFZ1ZGR1dKNnBmYkZ3ZWxsUG1yek1aeTlaNGlOZkdocnNwWkYwNjRIcUdYM1BLQUlKMktibVRuWXlZQ0ZlNGpsZW1MZXRJTVJB?oc=5",
+      "date": "Mon, 20 Jul 2026 09:54:12 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "NFP PROPERTY & CASUALTY - 88257 - Caledonian Record",
+      "source": "Caledonian Record",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOanNtOE1NLVA4dENSbURZd1B6T3pJOXFZN2t1NHpnVUt3OHRJTXpZbXNTZFFVdWtSakNWUDYxWWVETDlydnBOM21HUVJXMnRGZXdwRnhfOTByQlRPU3RqZFJZODhjVDNrTEc3M0kwS0lTUF8yVDFCRW5qUS02Mlo0bTVoLTRmNlpxajBrTHU3d0dta2I2S3ZzTTBLRmF6ZzVwaGNOQ0U3M1UyeVdGZjFyTl9RanZWcUtsU0R0WWxFWWk4Vjg3U1ZXM1lDbXlfZXBlQjRKTTR3?oc=5",
+      "date": "Mon, 20 Jul 2026 04:08:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Employees Trust Workplace Financial Advisors, but Most Aren\u2019t Using Them - 401k Specialist",
+      "source": "401k Specialist",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUVPODRCRkUzWUxBNEF0X0dtbm9yRzFsYTU2bkdfenloU2tndkdONWFKaXlLTUxGYlREYjgzeFJVM2d2ZnJrNmdEVW4xdmt5ak8zY3Q4a1FBYVV4RHNsRTgzOHQzS1FBVDBZWTJSRWNYeGdjTWVBNWhwZDhFTXM2MTc2azE2NU4zVmJCcjNUSlhUekZkNC1maVU5VTE0TWsySHJJ?oc=5",
+      "date": "Fri, 17 Jul 2026 16:59:24 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "DETR releases June jobs report - KOLO | 8 News Now",
+      "source": "KOLO | 8 News Now",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xZ0p0WlNfNGJkeEpmY2xaeXY4OUtMeV82cTQ1SkF0S3p5RVM2aGZLdU9jS2lJZ3JVcS1yN2hRa3FzM2k3UTVUeTAxM3JVWURYSGtGZjNVTGNvaVdUdXdzRWM2eVE3bjR2QnFxbVFJZVR0NEU?oc=5",
+      "date": "Thu, 16 Jul 2026 17:49:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "June 2026 Jobs Report: An Unmoving Tide - Indeed Hiring Lab",
+      "source": "Indeed Hiring Lab",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWhZYV9wNHU4a28wVE5heHpOWWlmR3BjeWh1NEN2bXVadVhmRk5FWjBaMWg3dFJKRmcxNUlWSktOZVdSdUduTWNTMEU3ZHExcWk1SThVUTNtWno5NFpodFNHUnZ5aHJQcnFkM2ZtOUhBa2lUUXdzeWJXYVpkYmxmMXRR?oc=5",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LABOR"
+      ],
+      "label": "labor-nfp"
+    },
+    {
+      "title": "Short Sellers Target SpaceX Stock While Its Investment-Grade Debt Trades Like Junk Bonds - International Business Times",
+      "source": "International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNURhMlI5MmU1SFVBdjB2SkYyUzRrT0tPWG9hQ2R3Vm9ncWhZWHpIa3J2T2g2UVVUdGhCMUwzT2FyUDNoVXNmYW9zWUZfeGhVMVBJbHZJbXFnZFhSUFB6ZjZadTF4OWVFanBEZm55QnlwdHNLcW9ETzFySHJEVzVYcUlaWkg?oc=5",
+      "date": "Fri, 17 Jul 2026 20:33:45 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "junk bond",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "credit-spreads"
+    },
+    {
+      "title": "Infosys Earns FICO Recognition for Credit Stress and Collections Framework on FICO Platform - FICO",
+      "source": "FICO",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXZfVjNqSXQ1aEgtSlVrMTR2eVJNR0I3Y2pTWEN1NEM5aDZqUDU0UVBlS1U2SzJpRmZnVlJRbmdGcXZlMndYa1FDWWwtaDllcU4yY2l3aXozZUxrdzV3MHc5YXdNWnY1RlZYNUp2T1ZhSXB6Z3JscTRKSVMweFpneFRSWU5KRWNBaFY2U2FqeGM0Mi1rbU9hdTlvU3V5SW90Q2hVWkRVaHdoUlB4WTJXUGJXQUMxbGxE?oc=5",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "credit-spreads"
+    },
+    {
+      "title": "Private Credit Stress Test: What Breaks And What Holds - Global Finance Magazine",
+      "source": "Global Finance Magazine",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CS0lQY1VXMFFuNk5zQXN5Umw2UmFrcGgyaWdyLUtYaEVlQzAxczF2RHRzTXk0WHdmNXFpcGtTd25ENWxyVkFLeWZGTnlIMXd0T3hrQVc1bmw4OEVCMHNBMlhfVF9icUN6d0ZsWUprcTdjQ00?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "credit-spreads"
+    },
+    {
+      "title": "Current ARM mortgage rates report for July 20, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xUlBpOU55bFUwVGFCdVFLRFpxNTA5Q0VObFZ6blRreDg4SDZNZGcySHhlV1pySnVrSkVoQl9yQ1RLcWNzTXVBRFZ5QU5HcHFoRGV4ZDRHY2l5QVE5T2wyUzdGTVozQTNWQnJCeGV3b0t1Skdo?oc=5",
+      "date": "Mon, 20 Jul 2026 07:01:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "funding-stress"
+    },
+    {
+      "title": "U.S. T-Bill Overview - CME Group",
+      "source": "CME Group",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GSGZlQWJQMHNqWG1ER3JhX29aRlR4VmoyZDIzeWd1UlFaZmhGNENaSVJxa19xckZQbmJiM0xLOGxEZmNZU183eXd4Z1Yyejh3ckFBaGIycDJqZkVHZ3VmRTVGMmY4MWQtcjVOcm1idHcteTBJaWg4?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "LIQUID"
+      ],
+      "label": "funding-stress"
+    },
+    {
+      "title": "Economist Snapshot: Navigating Commercial Real Estate Valuation Blind Spots - Urban Land Magazine",
+      "source": "Urban Land Magazine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObFRFNFV0eG9iaUctOVkxd0gzenMwNTFwRzlVcTF2N0h6aGtQUjlSeVc2RDAwM2ZzZXpxamdCMHNicG05M1FubHg0emhuVGFCdDBTeXBHREpDUnA3eVVYR3ZLN09FdUVXeFFsZTk4dzFNNkN4V3U3Mk9ta0pDUk40cTBQSFQ2ajJJbS0wYTNEUDQ1ZGpPSUFtd2JhdnpQOEFpNHo0azRYX0tZbTlxN1BVeWJGMzZvRUNTUFJ0ZXFwRHFqM2VNZjk4?oc=5",
+      "date": "Mon, 20 Jul 2026 15:47:07 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "gating",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD"
+      ],
+      "label": "cre-stress"
+    },
+    {
+      "title": "Commercial Real Estate Market Performs Well in 2nd Quarter - Grow Omaha",
+      "source": "Grow Omaha",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbi1PckhLT1MxT2dNX3JNOVNhdjJ2QWFfQnVkNUh5emFRdTI2ejZKQTJuakxjd3VSR29YYXdKRkw5NnMxYW9veGVvVnl3ZnpHVWRSbm80aUw3RXJtRjF0dFl2dnJfNlhGeGlrT0lOd2M1THdxT2FiWG9aZ0czaHNiNHhvMW9DcjAy?oc=5",
+      "date": "Mon, 20 Jul 2026 01:56:05 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD"
+      ],
+      "label": "cre-stress"
+    },
+    {
+      "title": "Banks Push Senate To Tighten Stablecoin Bill, Warn Of Deposit Flight Risk - CU Today",
+      "source": "CU Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3ktb3NtbmhlYzNnd2VBakZmVXktbWVWZDQxZDFLcklzV2pIcEkwOENPcEtnWnNHYjNHZ1NjYklmcTBTLWZIdVplREpjdXhwVW54b2doT3RFYUpUNkcwUGNBcllpQzl4cV9QOFVmZE45STY2eDNQMjFBd3NSdHpDdGljWXpfX19nQk0tREt3SlIyTHFUZm91czRHam1PSk9yNFVPQXpqSjI4SUt5Umc?oc=5",
+      "date": "Tue, 14 Jul 2026 17:11:50 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "deposit flight",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "LIQUID"
+      ],
+      "label": "bank-stress"
+    },
+    {
+      "title": "Backup Power Bank Failure Blamed for Montville Camp Fire - The Maine Wire",
+      "source": "The Maine Wire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQkZMRURmNmp4ODJweVB0VUR0Z0NJM1cwSEtFSGhlZmtqbklwQXNQbWR5ckphaDFHdDVoX3ZCQXpDT3NQTUxmMmhlaWkzWEpjTGMyZGMyVy1XVDlKX2lzVTVoWmpoUWdyZWJZX1hxMUl0MTU4X1pWQ3EyWEphSGdlMTF0OXJwSWhMbWlsaVVKTnkydlo2WXNNLVhB?oc=5",
+      "date": "Sat, 18 Jul 2026 14:24:38 GMT",
+      "classification": "NEW_ALERT",
+      "level": "alert",
+      "keyword": "bank failure",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "REGINALD",
+        "LIQUID"
+      ],
+      "label": "bank-stress"
+    },
+    {
+      "title": "\u2018Garbage in, garbage out\u2019: Weak dealer data threatens subprime auto funding - Auto Finance News",
+      "source": "Auto Finance News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmV6aVFkT1A2eUpIS2lWamExVkxGRHFCQ28tVE1uMzVlUGJEeHlkTGF0UUx2T0Y5Rm41U1EyVExfMmFSeUNXaHJXN1Z1aUZmcnBpN1JSRE5iSHQzdTVjTUJ5UWdxQWZ2c2NUQm5sRHpHdFZMYjQyZDBBaWxFTGJDZE5ISHlOMWxFdEhra285dFdZU0w0eVRBQXlSYzl4NGpTbHQtRDl1d0Y4REZQVmFnZXB6X0ZfVTV0bElYNmRDZWNMWVIzaTRWQQ?oc=5",
+      "date": "Tue, 31 Mar 2026 21:43:18 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
+      "title": "Subprime auto borrowers reach highest share in years as lenders loosen standards - Automotive News",
+      "source": "Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJwaHFTQTVWdTl6WkRWZzJkRDB6TloxTk42S045bWhaRW5RTVpRU0lkaXE5dHFZNkRXVS01OUpmRi1odXpOaEN5MGl6SkYwTUhmaXNLU0ZOZlAxQjNVYWRpQkpXTndJdDlCYlk5QjdIZDkydy0yc1RRazRLc1JnZ1ZmQVA?oc=5",
+      "date": "Mon, 18 May 2026 07:00:00 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
+      "title": "Record Missed Car Payments Fuel Angst Over Subprime Auto Lenders - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUg0UnBPX1RNNmlvT3VhSVE1RGY4eWFJSE1xaXhQaW4tMHhadHdBMDE3YTdUbWM1dDlVVlNpdVVfYm9FWGJycFRMYnpXQS1TWDgtZlhrdFYwcXFsS2ZaelZXSXdmb0V5SmhsWWcyZXQzRjdQdTYtU2hBclN0QTZRLWpiUmk3LUpaR1dpUm5nR0hlRlM0THRVRXJPcS1iU0pxUmhsN0hUd05vLV9DbFR0RjFwWTRDdw?oc=5",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "subprime",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CARL"
+      ],
+      "label": "consumer-stress"
+    },
+    {
+      "title": "Altius Expects to Lift Great Bay Renewables Stake From 29% to 50% - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlJTcHdHdXFRbTBSempwbzlKUXNkZE5kb2JmdGpUQzNDc19sME9nRTRSdGFWbDgzUG5fMm9IeDcyN2Y2QVVfWUgxX2d1eGxzOUJZblJsX3VkVVJuWE10S2s2Q1NDak1WTF9rY2VoNjIxNkEtcDc4bmkyNEFIUTRpS0RCdnBSTHdtdHhORVNtV0l4OTdHa0xtQnl0MmRWRUI0WjJsS3JYV0RtaXE5bFdlYTE1dw?oc=5",
+      "date": "Mon, 20 Jul 2026 11:45:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "position-pe"
+    },
+    {
+      "title": "This Crane Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYnNZVUpBR3Q0ZWRBX19lTk96NnRxcUdZbDJnOVl3dlBxRHAwc2hhWGViSW45T0VEVENiRVdXN2ViVU5nTVZVek1JUG54MFhmOElZbXQ0OW1nQXBYWDViM3puOHVPR25KSW1KbnFoQzlaQzh2TEpWQzRpSHN2M1hROElxSGJUeklUZVdmaWRfWWd6NWVjRldJNGFxM1Rncjl6TDV0TXNHNDF0R3Nfc2VZLV9YXzRSSTZaNTQtQUxvNEkzQmJxSTFPNFplTnRPSkNNNXdwaWRKSjZmRjBQbS05WnVIeEZ2YV85WnlNV21CSlVHVDRpdlE?oc=5",
+      "date": "Mon, 20 Jul 2026 11:20:19 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "BROCK"
+      ],
+      "label": "position-pe"
+    },
+    {
+      "title": "AI memory shortage puts pressure on governments to act - Semafor",
+      "source": "Semafor",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ19PUVo1QUNuVGQzTFpfTEpET09UN2VXSTJfS0FyOVlnNm1keGNSNFZucEMxWk5OUXNIVmZVOWxiZUxLVGU0SmlmVmlwYkJib05PQWNHTXAxbjFycmxJUWpzWGJaSmdIR3hoSkNRT0t4WUhyemIxRW5kVHFyNnl1NFdNdTZudUkxYkdWLVUxNTVKSGxkb1BVa3lVdWY2UQ?oc=5",
+      "date": "Sun, 19 Jul 2026 22:27:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmlQbVllVDBaaXd3YWpaQkwzVElDWjc3c3hmSWhscXNRNDJ3aUNUT3BsSE5xalU2Q1RoTC1FN281Qk9VUVJOOThfdjYxSHZzMnNfQy1BV05ZWFMxblIzTHVIZTNELWNhcjZXZFVRMnloTTYxVnpfVHZnYXdfMS1DVnRIeEJvblYzYXVtTnJuTWNKZHZ4UGY2ZEZVTGVaQQ?oc=5",
+      "date": "Mon, 20 Jul 2026 01:59:05 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Samsung, SK hynix push new memory layer as AI outgrows HBM alone - The Korea Herald",
+      "source": "The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fczlfaTlNenlORHd6Y0VYbU9LMnFTdDdjbW1mUG4yX1UwcnRDVEZGMWJ5RW9vWndFNzkyaHBESXBqOGJCWmJjVGV5QXJWV0RSd0xtMU0yYw?oc=5",
+      "date": "Mon, 20 Jul 2026 06:19:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Humanoid Robots: The US-China Divide and Who Controls the - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPajdjejE3NlI4a0JqNTV6aFA3ZFJHX0hHdEtVbVg0UklXSnVLdUl1U1dHMDZBX3lIeWdvTDhoQ2dURVRjMXU2ZHhRSjhwaFlHV0E4SThJdmd6M2YtbHhXRjRabk95MG15SVJ0MllOU3dpVFMyZmFKTnRVclloY3prWGlxMkxxN0ppdVdyY3puQkl6ZzlKTG9MbTg1MFdDMkN3ZmxDYTg5eGZSZWtvWkoyRG8ybTVISWQ1cFZ1dXYtWV9hby0xNDlUTEF5ZWl0ZWNhLVhCLXpGbG5IS1YzWWNvVjAtcE9EOVFaUGRmaDUtbjkyN3NIbnFHY05yZGtscWwxZklnZDJiVEticlZHSTZB?oc=5",
+      "date": "Mon, 20 Jul 2026 09:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Weekly news roundup: AI chip race widens across silicon photonics, HBM, memory fabs, and frontier models - digitimes",
+      "source": "digitimes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTVYV1FGU3BSdzhENWpvRDNNcUZja2FvZXZvMF9CdG9pZVkybTU1cWxtVGRKTDZJdXVuWVlncldBaG9uRzl1TEt6RWs4U2tkOW1CNWYwQ09xTWxZM1VsZklzOWd3RFFEaWk0d1RlUFhBSExkZjB4b19CdHY0elpuSENUMkdiTmR4UXlXaHk4Wk9wMXB4?oc=5",
+      "date": "Mon, 20 Jul 2026 03:55:12 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "SK Group chair warns AI memory shortage could become geopolitical - Telecompaper",
+      "source": "Telecompaper",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkdKM1RUT1RMUFg2MlRPSDlQbUtTUGNpSU9jaFFTMjM0cGJFV3pMOER4ZHR4Wmx1TmJhWXdQd3haZlBzd2M0bXpPZVZtbWEtN0pTblBsZ0ExSUJ4VmRHU2RfUEJRZkN6UmU1aDY1SkgxbENWSzhTQWdxbjA1cHkxajEyOTBhVXMzMVZGaVRpZkpyWUh2cGRDWjMxa254eEt5eFBocUVIa3hHVnBJ?oc=5",
+      "date": "Mon, 20 Jul 2026 05:33:04 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "AI memory shortage threatens to trigger geopolitical strain, warns SK Group chief - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcnFqc1R4Y3hVNjZPUnR1VjUyS1NMSFNaTklhczdwVmpTaDRaTHlWRjR3QXhyQzAyOTdmZC0yZS16UGxUa2IwaXBNYy03UHBWem5kWEVEallDUjhKSzdCN213S29xRFRNNjcyTkx5R0FQM2tvUkI2TV9sR2xqSXRkSDNNQVIxZXo4QVRkUk5hSlNadWQtbGExdmJ1bGRwODZZM3BwMDhRaEJvR0cwRU9hT0pNMGN4bElFV0VDX1psOHluTVlZMWF2XzBpX29zNERNcUN4UURYck5oS3RQb2ZFRllXWnA0MHJOTXNXMko2amZHVVRzV0HSAfsBQVVfeXFMT2d0Q09JQXFsTkYyUnNYSVVNaF9saFJuM2w3RVE3Z1JpQ1plNEhYemxsX3dYVzVtOUx1Nm5LYWJuQndXVmJMVnFReXRJYThZRlRXQ0hJOHFpZTAtR1JXVlJyU0x3WTBqR0VtRzh3SGRMM25ZVzZJUXMwa05IYk9pY0FFNEZlVTEwWkl3UkhvZ24xYXJHVHNjdnV0aVRETDJfNTd1YS1WSFl0aWJoVHdhSlcyZlEya0Q3YUpRaHI1ZS12VkpmNDJxSXdxQTNGajlDbzhuYnYzNDU5ak5XU2JmZWFXTTYyeUJmSlp1SldYOGszaVotQ3ZkeXdYUmM?oc=5",
+      "date": "Mon, 20 Jul 2026 09:58:32 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over - ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1Y0ZmlpNUlKNU9sX19ZRElPZm5qTWwwYnFBd01CdEtFeDR0LXQ5cDBiMDN6d2xQVzRaY0VnYWkwajYwTzIxd3JOYjRodFd2REpMeDB2LWI2Y21NbTNuUHJuS3J2a3l1YTZvTUNoVWhOV1llWTVIdjlYYWFmR0VwMC1ZYXlYcVJuMDl1SlNSdmhncmY5aDF1eWN5cW50Z2l2aFR3Zg?oc=5",
+      "date": "Fri, 17 Jul 2026 17:00:59 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "A memory shortage should scare a brand Lava's size, but MD Sunil Raina says it's an opening - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUmw4Mmw5V1k0X3BsN1lrLUkydk5TYjZJMktPWkNkNVBHRmxWWkV5VU1GMF9mUU1GTlhYMVU4cGZ2S0l0bTM0T1FiTXZMcE9lNXZuc0QzUmRrYTA0dnVnQ01jZHNCUkdmbzc2cG04RkJfU0NMc0pYX0UwMzhqQlV3WDFQYlMxVHJxQmwwZDJNMElxcGlXa2Y3MHd3YjlZNDUyT29pdy1WczZTMW5zb1JXOWx6di16ekJVcFNlbUNrWDBqV2hCeUE4MEtxeEdTbE5MdEd0bGc0ek8tVGRzSlNzSXlvejc1MkZnU2k3U0NLYVlIZUhUek9KZ0VRT3B3cURN0gGGAkFVX3lxTE8yNHlYQ2VSOHZGQmk3c2k5ZElVNEc4eUVNWXNEY3FQdUpqaFlCRHVUY2hsZHlpaHJCekV5N3hSOFdSVlVYYW5HMTNUbUE2NDZSS09PMllPTl9tSUpLNndLVGZmYXg3YzR0Mm1CZ2p1ZlQ0MllzeHpLVXQ2aTNBR1BqUHI5Wmw1MG9nTmQtOHBjM0ZCOHNlUWNQQ19MUjdocUJadkpkQjVteUdYUWZvRk9SSTFMNU1ta3BtQllzT0VfR1NwTHd0LXF6QldPNy1TQmdvYi1lYjl2ZTJ3d2lxeE9hc0Zxc0cwRmwxYkRWT0dlVUtyRHl4OTZTT1JmRkpLMkFXcGF2M1E?oc=5",
+      "date": "Mon, 20 Jul 2026 06:05:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Micron: The Dangerous Disconnect Between Physical Wafer Volume And HBM Hype (NASDAQ:MU) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVW11T2pPQk9jM1pFZkFoU1NGNlp2QTRZdDcxczE2enVyWWcwOFp6RlhzcDV5V1FCVjhIR3dvYVB6ZHo1SF9TNnhQOHZocFJ5cFVQT1E0cWlLUzJsYlFuZmtvQnhZX0hNOEl2TFFjZTcyVktKQU9PMXFGTWZ3ZVo5MklXaURWZldpNkFkMEZTWmo4RGxmQ25XNWRITnEtVGhubnVBTk80ZXRNVjZEeW1xd1l2dDhTdw?oc=5",
+      "date": "Wed, 15 Jul 2026 11:44:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Hanmi Semiconductor speeds up HBM tool output and plants US flag as equipment shortage looms - digitimes",
+      "source": "digitimes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX25kMlVzanBJR1NDMHhLWEFhUXRfU0l1Ty1qbDhnNXZvZE9mNHJLaWZYbGFqNEI0WHlSMXZaU1JtOXQzcmZtdjNXZlVOTFdheUwwNGk0TjdLOEJYRFpQOV9oYVJ3M3VadXNsTTEwVWVGMVBIR21kQjNmTWdlOHhSNmhkTDVvcXlZ?oc=5",
+      "date": "Mon, 20 Jul 2026 00:01:41 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN"
+      ],
+      "label": "memory-cycle"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Jumped as Market Favored AI Capex Winners - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2hPYUxic3hHd21TbVhDRDdNZjdmSUNsak45MWVOVU5ZU3dyd1g2NVJ6eEF3ZjE5Y0N6NzhvcEtBOHczNVhCRjM2Mm1SUm5IMm5lUFN6VXdBNzFlYmt0d1hkV0dRUlVQM0M5S2Z1enV2SVdMNzlHUV80bTFtdnRISUN4TVFLNURIYkZyVGlQU0dROHREY2pzVTI1RnRWbno0NmdEWWJ6QUlnMXJGQ3Bzel8zWmloQQ?oc=5",
+      "date": "Mon, 20 Jul 2026 13:47:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "JPMorgan Chase Insights: AI CapEx Nearing $870 Billion, Power and ROI Emerging as Next Challenges - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVNqbEhmaDAyWC15SGZpQTJpcnBTZDAxRDhkR2dEeERJSGdmbTdVak1YbkFtT3J5Q0ZNdlFYVDZSVUdyQzhNZFQ4QktZQXlBZVRibXdEckNJempVRFNWNlIzdVVrUDIwdVNrQ1h0dmhYaW9zaWtKeVVXUGh1TGpsTklDdFpKWFl1SFJmMVZFUXlfVlZzWFd4VGQ4dW0tcWtfTEIwbHozWQ?oc=5",
+      "date": "Mon, 20 Jul 2026 11:51:04 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "AI Capex and Accounting for US GDP Growth - Econbrowser",
+      "source": "Econbrowser",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVRlNGNBRm9GREpVN01qeTFTcXlSZEE0V1UzV1lSWFNOTEt1dlJaZDlld09zSEdBUmFGUnVncmJOMmlGcnIydUUwVmo5QVJYYnpNNTBVdWQ2Ti1pRlpaeFNUSklIUkhjX01FSE9MbzkydVhnT0pUcVA4d0JYaVgzQ0FXY0Q3QzZaZ0E?oc=5",
+      "date": "Sat, 18 Jul 2026 20:25:21 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - AOL.com",
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kV0dka1V0Q1pzd0R1UWVvTTRxVGVOclNyam43ckhXczlqb0o3UC0wTnc5V284NjNpQ19qTVRyaExVQmFPdUN0T0c2UFA3WUdyVW02c3Z0MUNBa3I1WjNSTjFOQlRxallZQmZNUFZCS281bGxlSjJj?oc=5",
+      "date": "Mon, 20 Jul 2026 12:00:02 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "How Earnings, Volatility, and AI Capex Are Affecting US Markets - Goldman Sachs",
+      "source": "Goldman Sachs",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWNwNjNmNzNOcE95QWoyTmY2YUdwdE92azNTczVxTDVRM3llT3RVek5oeGdEOUsxd1JxU0pSRm4xb09BdFlyXzBlY21pZlRiWFhqWnl3cnlpZVRhSFoxVDk3cUYwOXJ2RndfQmVBOE9pdDF3NjNFMDNUSE9HR003VURuUFBWTWEtc0o5amRUWHhuWHZrRVlXYTNzZEJiZGFfQTA4T2Y1a3daYmlZSHBocg?oc=5",
+      "date": "Fri, 17 Jul 2026 19:01:05 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "AI CapEx, Hyperscalers, And The Next Earnings Wave (NYSEARCA:SPY) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWY0MVBlUGg0Nnhla29hV2tudXRCeDV2WlRTRERxUmNQUnFDaXBSYTJHUjRPZExXNFBrSDNIVTZYSGUxOGpjVEtWVzhlRExKVTQxMzlVYVZFcUkxZ2hQZ284X3U3S243NlpxUU5YY2tUaXRJUzl2b0pSWDRwa3ROSEN1ZUVHVXF2S0NmT2oyWTNGclk?oc=5",
+      "date": "Sun, 19 Jul 2026 13:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "JPMorgan Analysis: AI CapEx Nears $870 Billion, with Power Supply and Returns Emerging as the Next Key Challenges - \u5bcc\u9014\u725b\u725b",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2l1ZUVQdUZQMkhUWXJaa1ZleTJYeFVZTHJpalpOMWVDRkl5dEI4Tnk5N0k5M0ptVW1mS1VnMm1fTExWaW5kRDZpNEJBWjVVTnRLNDhSV2RmaUZ4TExGU2lzV1VNZkRlVEtkeE9zM19IZlg0aXBreWo3ZHQ0ZFExMXR4RFpjckhtTEZucWFNOS1KNlhVSklHaFBuRFBtVGpJaXgtdHV3?oc=5",
+      "date": "Mon, 20 Jul 2026 11:52:38 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "Apple Avoided the AI CapEx Trap \u2014 It Could Create the Biggest iPhone Upgrade Cycle Ever - AOL.com",
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LMjhLbGtPbnplbWJRT0lFd3pPV3lhVW9WQ0dqVWZUMDVYOHFFeXlBMV92bkVuclZ0eGIyWEJJV0M1SF9HbC1PN0NTNW93aHJmejFqMy1TeWJaVWV6SVlzSHM4SG9RLXBFS3pKQmlIMUNpMERkalpqYThMMA?oc=5",
+      "date": "Mon, 20 Jul 2026 09:59:43 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VULCAN",
+        "HENRY"
+      ],
+      "label": "ai-capex"
+    },
+    {
+      "title": "Extreme Stock Swings Tempt Funds Into Reverse Dispersion Trade - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlMtUXZmYWgtTnV3LXE0WnRVZkVGakVxd1BlYk9KTTlDRGNTRTJ4WVp6RDdWSXFQTlNfYUlneEZ1UWNBTy1Kek5jQjZhWFY3WHJSXzE0SkR1YWNzLW5fNVpGdlhGREFmRVo5UFlOWnh0aWxtalNSdVdmN1hnUEl0TmZIajRvbEJUcWtCM1g3ckViTDlFOERfWHc5bjJtNmhvZW1RbGZKeVpCeDhvemR1NHNxdw?oc=5",
+      "date": "Sun, 19 Jul 2026 14:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "Here\u2019s what intraday volatility control means for annuity investors - InvestmentNews",
+      "source": "InvestmentNews",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbG5wekN6OHVJZTNQbWJjaXJKMHgwRjN2a3FfdUJoQnR0VmhIR3Q3Tm94WmFzYm1HRkRoZ2lka3drNGVPc2NyQS1maUN0aEUxdFh0NXBCZ29VdUhXbTN1Q0JCVkFOYVNqNERSbGJVZkw4djlaZVZGcjVFMmluS3o2cjc0YVp4ckpuWkUyYTF1cm5tc0oybGNfZk1vMVBtM0hiYWM4cmx4NUhaaGtoSGxpUy04T1RCZVczdG1BSXJZeU10b1E?oc=5",
+      "date": "Tue, 14 Jul 2026 18:12:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "So You Want To Sell 0DTE Options: 3 ETFs That Make It Possible - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVlRalF6djVIZXlCelNqMXlGMDl3bDVYSGpJWTg4QmtlN2Z1TDFwUjlhVGpleFc4TV8yZmRSdXFyRDZPU2puZFZRcEE3UjZ4Sm1xRGs3OWV5by1EUXVweHhtR3RQZHBfVXE2QVlKN3V2M3VYZG5WaV9fLUhxQW9ySG16Y0dCeE80UEpYZTllZVFHN2JV?oc=5",
+      "date": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "What Are 0DTE Options? Learn the Basics - Charles Schwab International",
+      "source": "Charles Schwab International",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOV9Ba0F2cHkyUXpOQ252YWFTenRDR0I0MlZVZGJUMGZZeUViZHZ2OEU2ampLd2RGQkFDTFkya0xqUzQ1M3M4S21kakJTd05XOFVfa0J1a2ppWXlKQ0RKaExhdm5WSEFmbFlxa0cyTXdwRWk3RVJoY0VuSlpTMTJVNA?oc=5",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "VOL REPORT: 0DTE, FLEX Options Are 2025 Heroes - Traders Magazine",
+      "source": "Traders Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTFzOUpLdDF4YlloVTk3bm9tem5HeWZZSzBQQkJWeU5VaVdUS0hSSW5NUFZSdklCY1I4WHRpd05iZHdxempxTnFMS0phTTZ3YjF6ZkNtN2pQNndWMWo1Z21MS0xkWnRoOW8yZGZHa2pVVVFCRWM3czZPSTUxaklMbG5aYWxJby1xTjd4MlRpeEFUdw?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "The Rise of Short-Dated Options - CME Group",
+      "source": "CME Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajZUR19FUlB0bDlLMEgwV3oyS1ZldTBOUm9FR1Nna0IyRlI3NEFsblMtaWl6UmVNS01JMVJzRjRrMkdGWDFPUjZaWkZ3NFk4OEQwNGpsQ3VvNkxnZ1Q4eFB6VVp2RktKUm9wNlVyaC1Va1NXRDNkeW43WjI1ZDB0V2VnRFJvOWVvNnNYQkxoMlQ?oc=5",
+      "date": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "How I Trade SPX & ES 0DTE Options | $200/Day Strategy 911 (K5q9zd83UH) - Fathom Journal",
+      "source": "Fathom Journal",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96cGlTTHRqODA1OVljaEdWLUxQWWswaWJxbGtGeGJxTmxYVEg3UzN1MDU3dXAwN1lSNWJGWV9qRXZsN3RsWnRYczFHX3hhQ2tMZGFOS1lPeXZ6OVlpWHVWdUlVdzI?oc=5",
+      "date": "Mon, 22 Jun 2026 05:20:47 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "Russia\u2019s volatility regime has shifted. Between 2022 and 202 - KuCoin",
+      "source": "KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RSVdMdS16d3lxdEhud3lLY3dQTkhkWTNxMkFzX1ZFTlhFV3hPSDlrcUt5U2htOWdTd0w5NGdUUTBJLW43VWRzTWV4aHN1bTFvZkdNRnBnVC1rM29iM2lRSFFfSVF3T0RPTG5ERFpvRWxaQQ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:03:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "SPX and SPY Market Structure Tool for 0DTE Traders Goes Live by Coffee With Q - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFZFVHZPSC1yVUdybTZoUUdleW1LTlVPUkd0Yk1POWV4UThHVEZ3WkljZWtReDFLRW9qQTlZTnMzVUxQR1Fkb3hwaXVZYUtvaUdHZWF5bDlJU0MwVjlZS19fck5CZFNNN29kcDg3VjBLQWF6bU5qU1g5a0FteGF6NVp3OVpieDRzcDJHQ21vakhZXzNiemVQY2NLYw?oc=5",
+      "date": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "VOL REPORT: Crossed Wires: Separating Perception From Reality - Traders Magazine",
+      "source": "Traders Magazine",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1c5Y3FNSGpsMDVoTUNIZFpNb2hRMG5HMlg3ak9HQ0VTakF6dWhzVFNHWlZsMlBudXZfdER1SFc2UkU0bWFESnhtRkdYVHhoc2JWYkFQTUlXQjE2NGtXYlNPMXFxRUVfTmJXalVoYXpMR3V3d2xtTDBhdUhISEd0dnRwODhobTQyOElGbGxCeGstdjFMYlRZcTV0dUpjZw?oc=5",
+      "date": "Wed, 15 Jul 2026 14:49:11 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "0DTE Options: The Fastest Game in the Market - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDI3ejRiRlRJcVZ1ZXk0R0xjUVZKdEh6NV9tWm9ucUpjWk5PR01TOUhmRmxNWWl5WWQxZUNiS3AwLWJCTmM1RVlWZVpnQlNMaXBYeUNteUVQbEdXbHZhZk1qOTkxQkxrdFk3NzZmUnMwVmxGY00ydmpCekVYWGtkS3FmbGhSSWhqUzJQOWFzNFFzVDJqM3oxVThLbEc0QQ?oc=5",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "VIOLET"
+      ],
+      "label": "vol-regime"
+    },
+    {
+      "title": "Data centers drove $6.3B in PJM capacity auction costs: market monitor - Utility Dive",
+      "source": "Utility Dive",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZFRudjdYdlZkZk1Kc0tPc01xY2JXNHltS3AwcVh5Tk0zTWxPanpSQmNQTGp1Qkk4ZFgxVHFCd3JOWFAzdHZ0d1ItRzRxV05Tb0tPcS10OWMteUxBeXpUTVRoUHg0WnZ3emMxUXdvRjlpSzhrSXVqQnZJNFFHRkNsU2RDSW11bnNvTzdRUVlSTQ?oc=5",
+      "date": "Mon, 20 Jul 2026 14:43:15 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "WATT",
+        "VULCAN"
+      ],
+      "label": "power-grid"
+    },
+    {
+      "title": "New Era Energy & Digital (NUAI) On PJM Tariff Review And A Fair Value Debate - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXZuRDFYMXVmUjBZbV9SWnk3N085Z2ZjUnBqNzd2TTdscmtmeDdqb0t1ckpTXzVtNWY2QkZHWVFrb3VQUkZpYl9kN1p2Mk9LVGlIbjRZUnQ1MVNPTkRwWlZWM3dRMW5INktNVFo5d0xacVZHMVI2R0VjSEZURUFhTFg2NWJuRlQ4bklQRQ?oc=5",
+      "date": "Mon, 20 Jul 2026 09:09:36 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "WATT",
+        "VULCAN"
+      ],
+      "label": "power-grid"
+    },
+    {
+      "title": "PJM capacity auction results compound \u2018alarm bells\u2019: FERC Chairman Swett - Utility Dive",
+      "source": "Utility Dive",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEpxTkZ2SlJVVUk0T1RhRDIyTDBJX091bmc5Y19kclpvS2FxX1FyV25oZUFtelFHVzNHSEdkdVhQTU5TYkVlT3FMZlY3RHpKeUxacWRKaGg4MTFUZ1QzTHV6SjhOR2pkODc4ZlZTUzRPaktXUFhkcjBIclJaMEM4UXdZellQQ3ItdEtv?oc=5",
+      "date": "Fri, 17 Jul 2026 14:17:28 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "WATT",
+        "VULCAN"
+      ],
+      "label": "power-grid"
+    },
+    {
+      "title": "PJM Hot Weather Operations Update \u2013 July 14, 2026 - PJM Inside Lines",
+      "source": "PJM Inside Lines",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEJ6eThnaTZoZTQ0Sl91TkVnQUZiRkZjN0djd1E3T2RhdVVKSDltLUJ5OThyRm1wVGlPNmhucUI5WVFxMVplTDBYUFJFOHhnN0piWVpjcjE2R0F5cTJIX0l0cG1FRmh4UFUybGhQNWtmRkNzN0NuMmtweTgzTXdJZQ?oc=5",
+      "date": "Tue, 14 Jul 2026 19:29:46 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "WATT",
+        "VULCAN"
+      ],
+      "label": "power-grid"
+    },
+    {
+      "title": "Crude Oil Hits Gold, But Comex Trading Most Bullish Since Record Price Peak - BullionVault",
+      "source": "BullionVault",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTctbUlmSHB1WFV4TFhNUHk3WUhVb0xVcnhEaUNRejFmV3hUenVJQ1ZOYTh4eFBNRjdxdVFiWlBFMzd4R3NIMWtFa2JCLU8zRkVTTHRjUGFXRkYtaFl1RzJkTVU5SHB0VERNV01jNXh4NjMwRkdjZkREMFFyM2pLenNjVFhSSnI3QmFv?oc=5",
+      "date": "Mon, 20 Jul 2026 13:59:35 GMT",
+      "classification": "DEVELOPMENT",
+      "level": "normal",
+      "keyword": null,
+      "entity": "ICE",
+      "watch_hits": [],
+      "agents": [
+        "MIDAS",
+        "MARCO"
+      ],
+      "label": "metals"
+    },
+    {
+      "title": "Gold slips on COMEX, while silver extends gains - AzerNews",
+      "source": "AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJT1FqT2lWUWo2NmFzVk1JWEF5X2RMOFNUeG9YLUYyU21BOVB6Tm8yQlgzVkwtWmlFMm9oT0d5NkExUExiclBWanBjMUJlX08wcHhPU18zdw?oc=5",
+      "date": "Mon, 20 Jul 2026 07:43:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "MIDAS"
+      ],
+      "label": "metals"
+    },
+    {
+      "title": "Stop Overpaying For Gold: Decode Your Jeweller's Bill With This Quick COMEX Formula - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy02ZFp2OWMtRnFETlBTVmxPemt3OHpwRnM0WlhSMU1DWWtvWnV2a21HTHJNeW1CZGt1VldvZTZFZVNPdjNhbGFrSzM5ZzdQUk9QeWplXzkyT1ZlWVMwUmUwcmtzSmhLdkdFQTZvZ2FzYWFJZDJjREFyN2xVb1F6VGg5VFB0LU01enp2VWk5aWpxVXFCdEplR0RyZTVjV2U1b19Jby1teDdkYUdhSXZKaGZva3F3aVI0bnBKN3I5bVpoNHVMUzhEeExn0gHSAUFVX3lxTE9pTFo3eEU4cVRGTWkzRjBUcVYwbkNSRW1paHJYUVYxSDlRUGExVW1IaUtJY0g3c3NGMnhFY0g1SFVtMkNlSzFSeXc2UWluN1hCd09lelU5ckRzSU1PdHdWMGY3TzliWTZ3UmNwVTJXeUFib0N4TGY1b3JhV3RfUUxVdk5KTEhqRUlkV0lEMDZuNHk4VklrRkZjMTNhWWN2SGx3Sm5oY3J2b2xmU3hqZXJTV2tlSzN6ckl1ZmUyOWt6bG43bzVYZFJJT1QwX25ULTNLdw?oc=5",
+      "date": "Mon, 20 Jul 2026 11:56:06 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "MIDAS"
+      ],
+      "label": "metals"
+    },
+    {
+      "title": "Buying gold? This simple COMEX calculation can tell if you are being overcharged - livemint.com",
+      "source": "livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbTQyX1c0RjhhZ2p5cGpGSkFDSnRhS3JySko0eTljMnRxT3BNeWhQUy1LVlVObVc4bERXSHNBSGx3VmRCRGh5T2tBZFZ0UVdQcVFUWXVsNko5bG9Fcmk4RUJiSzRUWno5bzcwMFdtTkJ2OE0wVmpyTWxIRjZ3b2xLNFNLcHJtbElHZ1BoRjFoTlp3MjNTUTlpall2QWNfR2ZrdUp4OWZtajZiMUM0MzROTDk1dGtCS2EtS2J4MUU0bVRhRFlGUEwwU2hLdmZuamNBb0FFMkpzVFJHUTA3OTNyUNIB5gFBVV95cUxOZC1RWGd1OURPelVFa0VzdDNrRzRwZlVlcFUxNTNybGZwNFB2cXNQVjNEV2N3c09BVF9yd3FqbmtCNjFLVHhUazZmaWMwRzNPZWtOMzJQcU9TTGp0ZEZKbWJ3TGFPWTVXNWFVd3RodWJCdE1lUEMtUWlZN3RNeDJPaUkxdWk5Vno4MzZlS3I2Z01sN2l2NVZ3R1RqRGl5WDB6MzJXU2NsaERWNmFPRFhWVWxZLW9XUFNZQlpoMld3OHl0WldiWEloUlN0ZDJuUzRyMXl1RXM4UHQ5MHZmOEs5T0tzbVB1QQ?oc=5",
+      "date": "Mon, 20 Jul 2026 10:11:11 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "MIDAS"
+      ],
+      "label": "metals"
+    },
+    {
+      "title": "Central Bank Gold Reserves Survey 2026 - World Gold Council",
+      "source": "World Gold Council",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkI4UmNFV245NHdZeHJnbngyWmo5Q1loYVdFQzdqNlFzQ1M0MEYxTmlpX3dOM2plY2huTkR3UTZfQWZDTUF4U1Q3MDJJdGlSZjV4UkZFc2Z3cC1FMWQ0TGpka19NVzZIUzdwbWxlcXZqclZPbzFDV004OGxLVWlLOFZR?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "MIDAS"
+      ],
+      "label": "metals"
+    },
+    {
+      "title": "Weather experts say this year\u2019s El Nino is growing to be strongest ever. Here\u2019s what it means for CT - Hartford Courant",
+      "source": "Hartford Courant",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0FZeklwUWtVVzdmZ3ZzaTJQcEFQQlpSa0wwVVRWTlVraG5pM21JZFpaTThGS3BsaE8yc0U2RkVZVzNFV25KZ3B6NFhpY2xteXhhdmZFZmZ0cF9LOWYyQXRWSlFIU2dVQk9BR3JvV2dkckxqVVBjcXg0Y1ZoRy14N3VOZ1luZldUU0l5VmM1Nm81OThqWlluaUIyTjZmdGRRYWY1Mkw1Snlad2xxczVfNWRFMWpwN0pWS09zdEgySmhQekFrMktZd3VvREd5Zw?oc=5",
+      "date": "Mon, 20 Jul 2026 09:01:25 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Iowa climatologist: El Nino could cause warmest year ever - thegazette.com",
+      "source": "thegazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTUVOcTNweVh5N0gwQXVIcmxzQUc3NDdJUDJOdXhSZFdmYkVud3BiUHZta3NKckpvbC1aRno0bUdnemVxaUVwSXY4UDFicGJ0STlDMFZZbGl2T0NVby1IZnY2THRzdVI5eExvWnc1Z0hlQWZkVlZaalZXYlZFek16QmhNV1FCRDczYkhKdVZKUF8yamhpemNXNzRRVERJcy1QMXV3cWQwZHBKRjhHWnY1M083UkNrcXdGUmthckJmNDVsQmR0dE14S1hVakpRTHk3dUMwWC1SMmNzSTQ?oc=5",
+      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Storm Track 3 Forecast: Triple digit heat starts the week, heat dome builds - KSN-TV",
+      "source": "KSN-TV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWFEMHlHQm1Kc0xqV0JncXVoQl9XdHJEdkpLTFVTS2dsQWdVV21MaGRuRzZ5Z29ZOUYtanZLTzItcWVaS1p1a2dBRlNiZjBjakZfQm53WUxiN091RDU1b1ZJbXNJdzNSNE00M3F6dU85YlJ1M3djTTJ5alpZdTVzb0E2MnVxUG9IVFVmQi1NYV9NQWFnYUdoOTJPc0lHTWVBMDBEWVFIUW9lVmZrc1VvaDRrdnpYZ9IBuwFBVV95cUxOUkZKck8wdVgyRnRrZkVZcExVWTBBaWhVRVQyQlZETUNaSkROVUFxX3lHVnBGUjd5NTJhT3dwME5ZanpNNFZuVUxhamxudXhMUnVuVTB0ZGZyOTlTT1pQNTJOZ3ZzWW1qc2JkMzN2Z2ozeDZ4MUotcGJoUkRUb21fWVhCUmQ0bFRNQUFBejhaZk83RC1zbmRFWWEtMUxQUWlFV3Juajc3YWxQN09VWVJib3JleGQtNnAwMm1r?oc=5",
+      "date": "Sun, 19 Jul 2026 22:35:03 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "'Super' El Nino to bring record temperatures in Malaysia next year, weather agency says - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXNLQUlCMkV0Tms3dU9YX3VLOC1uSk1qeDc2bVI1TXJzSG9YNGdfSExyQkZJbHB0Y25SYk1rbGJHLV8xQXNjajhfeUJZYTY1OVRjNFVwN2pjejYxVjdXVm9aYk4zOVNPVFZRUUxraktaUkJTazZ1RTcxYnNPVkM5QUtRQVZ6dDE1SHE4Y0R2azV4SS11dldBYk0tbzI4aGcyd0hMc2ZXN0ZES1Zfd0t6T21JSjV0YjRhdjhENUdncjkxbEJ1d2x1bUtsQUdKVndj?oc=5",
+      "date": "Mon, 20 Jul 2026 04:07:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Wildfires and El Nino - Coeur d'Alene Press",
+      "source": "Coeur d'Alene Press",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5id0hfak1rMUJaTkQ1U0RWQ015eE1aaWNZQTAxb3dxTXhxNFBGWkNPRzNOQWhKTWdNOFVFNDR2clNUWU1tY1htQ2JwcFhNR21WT2FuUXE2OFB5ZGhVS0g1Q0ZQbWFMOWd5WnhjZQ?oc=5",
+      "date": "Mon, 20 Jul 2026 08:05:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Ongoing El Nino-Inspired Positive Phase of Global Atmospheric Angular Momentum - Climate Impact Company",
+      "source": "Climate Impact Company",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNdVFlQmlYVFNzeEpXQ3ZndVJtTjc4a2E3V19kMzdKU0g0bzJHTnE3RFlBVTllUFlGZm9Xam5nclVELUVzdFA1SUVrNFNRVkZKZlljaGxiNm92dndSNjduSEEzNndQMnFrMm93eVJ1Tm9uNkVfNUFqUmh3QlpPRGhYQjduV3lHV2hTTm0xTWRiZEVuSWpRM2FackJ0OGpJYkNBSEpUSTBwMWwtdkNqWjNSWndJb0dNSnZweW9kQ0hiLTdwazN3V2YwUUNyQjVQbkgxRVktQnROaldRUkJGTEZTMHBMWEM2MVRJZUxEemQ1T3d3al9CVXl5SXh1V1VSUFoyOWlHLXB3blBiaXV3S3lqRFEwYWNFeWd3Z0V0OHF4NGNvRFNmbEpKTG5sUWc1cDhLbFdyUjNpWm4xZGFQVFdyYU15VWtYNFZwUm1j?oc=5",
+      "date": "Mon, 20 Jul 2026 08:35:10 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Where is Tropical Storm Bertha headed? Latest NOAA forecast path and tracker - Delawareonline.com",
+      "source": "Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmtPSHRnOS1zUTZ6WGRvMHZHenY2MFpaNU5IOEdrNUZjZklSUmpRNE1mM0JIMGRNZk5kT2M1TmJzYnpfRXdtU29xUzhVZnhfTzBVak5WVENrcGJ0cnZiMEpGS0pQNkk1ZWFWTFVUQ0k3eURTQVgxUUp0QXNjS1d6bW85MmJHazgwUTVPVTRlcVRONWhQREpGTC02X0FUYUpPeExNXzdBaFZCUTFINTRXRHVLVXRkOUFjTUxpNm05X0lsZ2ZzeTFaTVRPOVByZTYxbndTR1NETWVqMVk?oc=5",
+      "date": "Mon, 20 Jul 2026 13:18:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Widespread heat dome, extreme fire threat expected in the U.S. next week - Scripps News",
+      "source": "Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lldWxLUkFma0ZlWUlFX1pJMG9jOHJwWlE1SlVyX0VtM3BweThEZk9iZy1FX2d5SHRPMEt6WmpzXzdkVDlUenVLTzRzZ1VXZ09UUlh5NFF4a2xUaGdLM1A1dXhtLTZIa01jUTd6ZFAxN1RqSnhsbVNubjh3TFZaaHhlbmJPNjVqb3dteS1aclRzRlBreThSLUFLMG5mNDB3cW12WGhFZGVQZw?oc=5",
+      "date": "Sun, 19 Jul 2026 12:03:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Malaysia braces for record high temperatures under \u2018super\u2019 El Nino - South China Morning Post",
+      "source": "South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3pURVZGNVMtUVVrSkYxc0c1cU94VXRtcEd1cmczMm5fNTNMc0g3Nk1HVDIzYUF2cXN4TF9DN003RHVvaDZLM1FuRTdLWGN4NTJ2eWFMTjJVSlE2OVFOZ3dEQ0lYTS1YdHBmY1diSnZnWnpDZjZaak45MGR4aGFJMk41RWtyeGRYNE9ENFNzYnpRQ2tOMlpCWXhMTHRYSWlTT1ZuVjNfeURMakpwc010RzN6Zk1lck50QWp3clo4RdIBvwFBVV95cUxQWnFoaXdvN3A1OUpoVWxncERVczlLS01DTW1NcjdteHJWMno1cDVLTmFPTmJENHdHZUJQam1XMlZwUjJSeks2U285bUNNal9GVEwtMFBGZVVJOHFXSnh5dWxraFBDaVJ2d1JjLVBkdlg0d3RLVy1yNGVuYXFpS2VRS0k4Z010Yjhla0c4cnQwd0NKUUtKUTFQcDZ4QWZBVTRhTmFZTGtaNzJYNTFkam9QRGdscFNReVJZNzhSOVVIdw?oc=5",
+      "date": "Mon, 20 Jul 2026 04:27:41 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Iowa climatologist: El Nino could mean warmest year ever - Waterloo-Cedar Falls Courier",
+      "source": "Waterloo-Cedar Falls Courier",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlBSamRhc3VySm93bTl6ZG1KXzF1ZlFrSGZUVXAxS1BISEQxYkpSRkNZUFRWdUVWaHA3d21SSXJrVzY5ZTRaXzJ2Q1NBUkYtRllPTlpNV3ZYWnkza1otNXFyOVdwTnZObXVldEZPVXkxWkhUUHh1SFpTbndlNUJrYlB2X0NLeGpRbXJUNFUwMW9DdWlqMVJ6MnR6RUVSLU90Z2c?oc=5",
+      "date": "Mon, 20 Jul 2026 15:10:37 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "This July 4th could be hottest ever in parts of U.S. Maps show the forecast expected to break records. - CBS News",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUJMT29ZODBjLXZ2LW9lbDVLQXZmT2FvcV9EZ01zanVRQkRacU1NdWFESnc0X3pybjRxM0N6MnpSUVFXb1dZTDZzNWlDdzZabjFXUVdwMWZ5MWtqRmF3NzM4NDdZNE1sWEd3ZzJ3MWEtVU1XMkpaaTZTSkNHeDQ3cHZn?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "AEOLUS"
+      ],
+      "label": "climate-macro"
+    },
+    {
+      "title": "Higher Mortgage Rates Push Pending Home Sales Lower In June - National Mortgage Professional",
+      "source": "National Mortgage Professional",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1owWDZKLTFrOW9hbmlxSkZnX3NsWnRhZFRoQm50VktUb1dHMlY0Tlc4OUtxWkhrOFppXzRTdC0tYVNIN2VTa01FZlBtUy1KU19ERkhiMlhIY3lERDlSMnJmU0c1U2VFWGJzQ1N2WURkN3Y1ZmxoM0MzOUxMMjVzdjNBSkJEa0dVMWJPd1luZEpmSllLX3VsTGVDXzhEd2ZXNmJLZQ?oc=5",
+      "date": "Mon, 20 Jul 2026 13:11:38 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Mortgage rates today, July 20, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUHUwQUYzaGh2VTcyVjdKc2hRUURoVzdnNkNZWXMwWGNCcDRJazdNcUEyVVNPQ1RSYXdRdW02enFDaGRBZG8xYkxud0syR05UVTc2MVd5Qm1YSGtydGJDakdXMTk2OXVmVWE0b3B4Yw?oc=5",
+      "date": "Mon, 20 Jul 2026 07:01:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Housing Inventory: Single Family Inventory Up Slightly Year-over-year - Substack",
+      "source": "Substack",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHQzYW1NNjV3VmUtZEZsZDBGMTdfVWtBQWI3eXJJdWxlaF8xUHQ3Ry1NajlkWkpIU0ZfTG1OMnRyWUF3dFM2R0MwMkNOYjdtS0pBRk4yeHhpajFfTkV3bWV1SVFLcWsxTzdQMXEwYlJpRklha054V0E0ekpabnRubHhVVTloQQ?oc=5",
+      "date": "Mon, 20 Jul 2026 13:53:35 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Light Data Week Means Mortgage Rates Will Be Dictated by Middle East - The Truth About Mortgage",
+      "source": "The Truth About Mortgage",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeW55ajMwdFh4UTZvWFUydmRuR3E5cGJEZDR0cmRqNzRVdlhLY0FDeU1TZmlxeXdLdndSODdCZVBsd0YzTEJFc1NLQXZXWkxOZlBPMWxKNEl2TUZwbVFKc202ZV9ibWtnREplUXF4alp6bFFUZS1vSUZIcUJRbzJaYUhUZ3pkcjBfQlV1MHFRYmNtMjI3bHEzU1JadTdpaTI0WlhhM0Z3UTgtUkU?oc=5",
+      "date": "Mon, 20 Jul 2026 15:01:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Mortgage Rates Today: July 20, 2026 \u2013 Rates Stand Still - Forbes",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ia0Q1dEoyRHN6RHU1SHpvMzJmcV85RHlHTHQ1YjV1UDdObWdHdS1YWW5kVXRWcjZiclNoM3dyUHNaWU9TUVBSUEQ1OVlfYUtFQTVpQmVRQ2xpMEFQRUxqa2tTQWR0aE9wZV95dEluZmxCU0ROVGFUUU11cjN1Rm8?oc=5",
+      "date": "Mon, 20 Jul 2026 10:00:20 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Foreclosures climb 21% in first half of 2026, pushed by higher stress in FHA, VA mortgages - HousingWire",
+      "source": "HousingWire",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQai14TGJ0X3ZGYzJWYjQyQkZMTlRTOFM0ZW4tc0p5LXl0ZDloOXJEQVhxZWg1WDZVbVZXMjVCblRock9DUGJjeHo4NWhLVG5fR1JXa3dTZmRXdVIwcHdkSS13azVCM0JBbFgzMklOODRURmYxSXlvLTNVZDVGRldvU2lMcThXV0dBcHdxNQ?oc=5",
+      "date": "Thu, 16 Jul 2026 19:25:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Major lenders raise mortgage rates again - mpamag.com",
+      "source": "mpamag.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmxlcTBxTmUzcHRYeG05b2k2MXNRSm1xNU13cGRGaUszNlI5RV9LWWpQemtIRG5nNHFrRUpMeXdSVnBUaVJHUGQ0Qm00dUVVMDIxd2s3dG1JUFRtV0VNVExSejVleUl0cmtXOHFoUjVsT3pwRDNkMElja3FhVExVcVF1N3NqNGRQVGktVHJYVQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:27:28 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "What Happens to Housing if Mortgage Rates Fall? - Texas Real Estate Research Center",
+      "source": "Texas Real Estate Research Center",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUZhMUs1VXF2T21HYUpZeVRESHVhQWNGRHhfdXhWUG5uYlhra3hQNWVRYVVpM1ZYdjhJNnFxRThlR3pGbzYwOXpNbWhJLWZsSGdVSUtzWEMxRlJDTzhRcmg5d0R0aFByWXdQaUdyNDFsN2g2YzBhTUthTWxpYXJ6bw?oc=5",
+      "date": "Thu, 16 Jul 2026 15:16:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Today's Mortgage Rates, July 20: VA Loans Provide Relief Below 6%, Refinance Rates Edge Higher - Norada Real Estate Investments",
+      "source": "Norada Real Estate Investments",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGlOdUlzVWFTRk1xNjYwdlU4V0dSNElvRXd3Snh1MkhhUnBra19vOXE2YU9EelNHM2lKbWdwQ3Fhbktud3JUV2xvNWFUVWI4M2h2ZkJvM1NvSDRIZlM4M09ZMWp4dGhYcWRIaFVpb3l4LXF5VmRCMmx5SGp1amt0dU1xUUhpU3c?oc=5",
+      "date": "Mon, 20 Jul 2026 16:09:47 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "HOMER",
+        "CARL"
+      ],
+      "label": "housing"
+    },
+    {
+      "title": "Ukrainian Drones are Striking Tankers and Torching Trucks in Crimea - Kyiv Post",
+      "source": "Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IcnAzZ1Z6UlljZndsRm5sNVJsT2lLcFYwS2djb2txTFk2TEZMTFpxVjQwQWFTbC02UWZPY2xadXZiSUY0Z3p1NHFFdw?oc=5",
+      "date": "Mon, 20 Jul 2026 13:09:35 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Tankers Carrying Kazakh Crude Targeted Off Russia\u2019s Novorossiysk Port - UNITED24 Media",
+      "source": "UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFNYNFJQek5SVjFOWFpKMkhSN2pHdENmenlvc0tnWXRaOFpOTWJIaVJITkRFb1V1RWdGNHU2QTl0LXVkYnR1N005cXNIWTBfTURoTjFsd0RBeGFFX1JDUzRuY2pndmhCSjltX3pvQ3c1NTljTktkbzlrX1hmUzNhMnhwZUVrQ0tGNS1iaFhpVkRjOUF5S3NGYzVSMXZNZDZVdHdaVGRXZFROQQ?oc=5",
+      "date": "Mon, 20 Jul 2026 13:57:24 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Drone attacks tanker near Russia's Novorossiysk, oil loading suspended - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyXzZmLTE2aGlLcUhhZzBYMGM3V3dnSGJteWVHajl6S1NRTHBDcGNpTHdCRVZuaFVXdldraWg4d3pYOXVZYkpJeVAzQll0dW9JRERXUk9zeGZxWldWblNLd2RIZmPSAXBBVV95cUxQWU5vRTZwUWxwMnFQQ0R1cDc5MUlCbTBsVzFWQndXZjBpbDNMeExSV3U4SGhseVdHTl9lLWZnUHJpT0E1RlJqMUNzS3dLYTNEUmQ5R0Vnb2JWYUtDdGFuLVBvdWpPN3Jibjg5MlJiVXlS?oc=5",
+      "date": "Mon, 20 Jul 2026 11:27:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Caspian Pipeline Consortium Oil Loadings Suspended After Drone Attacks On Tankers - gCaptain",
+      "source": "gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnZQQjg5a2psQlJ3VTJsYXZvckIxRWt4VUxhOE1yUDM0NW9ueXVkZERUeXJCUS1tTmkyZjFvMXN5bVUzMFBzX3F6SHRhZmVnSlN5VEpLdG5jaE9IWU5lcVhjajFQU1VrMVR5aWJJLU1HUEJZQ1hMdlhtV2ZLaGJ5d043MXh6QnVfRHNBSlpSd2h5eUpCaWYwbW9Nb1FhQVJ4emcyZnNB?oc=5",
+      "date": "Sun, 19 Jul 2026 18:02:52 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Drones attack tanker chartered by American ExxonMobil near Novorossiysk - ukranews.com",
+      "source": "ukranews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3Z5LS1YUGJfUDRCc1VxQmhLb3NDRS1tYnBkbVJmQjlJdHF4b2NBV3J4LXphV1ItM0kxWGVMOTEtMGEwRWVhQVl6RDhFdzlkRkpWRGNnQml4S2N2ZzJRc1NJb0VUTWltVEdpVl9NNmtCaFYzZjZtT0Z6bWp0UTh2RzhhQVZ4OExqZ2NJV0RRZ2FIZE5zN0QzX0xaOGd0eWxaNlg3cHhqSk5ENENn0gGyAUFVX3lxTE5ENzJ5Zjh6dnZ3djNXVmNISXVILUhoQmNCOEtwdU1VNF9pSHBrWnVYYWw1Z2dkdk5LNTR4S1p6ZXlVSzB3UmJZMUtTaFNkMm1WZ1BDcUFnSUJiOFBTQ0FyRjJDVVFZRC1qUU53ZTd1MFkxOWtPMVhpQS1GeTY5clR6YlRpUEplUWNDQUVxXzhhQW1Zc2pNX2NnVG9kQkc3Z005WWZUeDJxcXpyczJqNTVVLXc?oc=5",
+      "date": "Fri, 17 Jul 2026 17:25:39 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Ukraine drone strike on Russia\u2019s largest online retailer leaves 9 dead - The Independent",
+      "source": "The Independent",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDZ2dnVXTUwtTUN2SzJjU1RuNHVNV1JsdW1CMFRFVVRuMjAxVnhhRTNvQXpzaVduS3V1dndLMm9JM1ZBM3R4anlPNnZFb1BwSmRjTG1TSEh6UEEwdllsV3dtRHZlWHBsUzVlR3VJbFFrdTFiRy15V2gwYXFRaVM1bHFERENvYk1VTzdBMGZFN2p6V0FUcW91VEt6Y04tYU9B?oc=5",
+      "date": "Sat, 18 Jul 2026 15:05:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Russian Oil Exports Reach New Highs as Ukraine Hits Refineries - Energy Intelligence",
+      "source": "Energy Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iR3JoZFlWMWtzQ2VUOC1nWE1aUGhjR0s4M015dUpXeV9wclFOSVpIQU51NVZFSjZVMUpfUEtIMWNwTmlVRFhsamxjNHprVVJYX0xHM0xfemhOdV9US2NWT1lnUFNKTzg1NzdsUlFkLXQ0UQ?oc=5",
+      "date": "Wed, 08 Jul 2026 20:37:42 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Ukrainian Navy destroys Russian patrol ship Izumrud near Novorossiysk - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iN1JHallmYzlNMzY0eXM0R3ZlbGhLV3BPUWtpMjdud2JYWXYxMzJnVTk0U1Q5UVNIR2FGY0Z0M1NQYkpSbDgzYWZmRXBXeW1oYkRPOGo2dlUwNFdiRVd2bnNPcXVMWWRkWFdHcDQ0ZXZ0c1dkbW52Vw?oc=5",
+      "date": "Tue, 14 Jul 2026 11:35:41 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Russia\u2019s Druzhba oil exports to Hungary, Slovakia back to normal levels in May, sources say - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0pENUd3UmJQRnpWeXItRnR4cWRudG5UWUktSnl5eFVVTHdyWUItV25sM2VpZ0ZtbUg1TWY2OVpBZ19NZGx3T2Z0anQ0Q3FiM1lfb0FlcHh1NkdiRmlfOVZ4aE1lejh4Uy1IUUd0M0lDSmJNU2xVNm5keUJ3bVhOQUZkdGNwcEt6MmZPVl9xVFc1ekFFZWFjeXlrU0Zzcmo0X2tYRF8zbE1pMkt2UlJoUmtXQzlPN0JBb1BRUl9YVHhoRlRnaWRGMEV1cw?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "OSPREY",
+        "BRENT"
+      ],
+      "label": "russia-ukraine-energy"
+    },
+    {
+      "title": "Florida property tax proposal could leave counties with $420 million in Medicaid costs, says economists - Creative Loafing Tampa",
+      "source": "Creative Loafing Tampa",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1phQmlTY284WmhYaWkwQTZzTU1GMll5NmxuaG1FNFp4NmtGNU9SY0JhTU5SX1BXUktQcU1ESTh0NmNqNjRsZnhKbC05Y3Qzam9EZEpFdU9zS1hRMFEycEhXcmgzWkxOWVB0eVNUTmpiYnFkT1ZzNVJrRk9XWTVJRk13dWduWm93Q1phVjlLV3ZzcUtYUWFJQTZBa2R4ODFXQlpwS0ZGdUlTVjhzd3JTazMzZ3lUNk1xX1ZMUDBvai1PTFJQQnpXUEdDNA?oc=5",
+      "date": "Mon, 20 Jul 2026 12:53:35 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "How Florida's property tax cut would affect renters - Axios",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTlNOFZBcU1HdENNYVIwQUpHdVBPN0ZtcGJxWWtnU1pvWjM0cjRFZXFrVl8xLVF3NDhlUVkwR3U2OGFEUkNTS0JTZTVCRE1LQzMwWk5JTkhqanFZU09iZjQ3ei1nNTEzdXp0S0I3R0Z4a0twbGFjXzBtekdrUEozZGxXZFlYb2RyMGgwellaOFp3Z0Nmcjh1eU1CNTUzYWtE?oc=5",
+      "date": "Thu, 16 Jul 2026 11:20:59 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Corrections chief warns \u2018increased risk\u2019 to public safety if Florida property tax amendment passes - Orlando Weekly",
+      "source": "Orlando Weekly",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDBCUllYa0FoQnJEQ1M0Y0FlckdmdnAxcEE2UEw2OUV1cmM4c1NzQXF5WUM0VXlDR24yOENKTDllWEJ1S25Qc0ZpOUR4YzJRWHRHLU9wejQ2dFFKSWZRaWxUeEFNT0RfUDBkU2k2MFU3UXc2b2xUeWIxOEEzaWlxNmxJQU9YbXNZcDJzQVlGanJiSFQ0bVQ4eVd1NG8ydEsxVlU2VVJSWDVfeGliSTItYk84QzY3Qzh4TjRCVUdxRV9yNm92ME9TLWlpZ2I?oc=5",
+      "date": "Fri, 17 Jul 2026 18:00:04 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "How will Florida's property tax reduction plan affect renters across the state? - WUSF",
+      "source": "WUSF",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0RubkxBelJqelE4UmpnM211c2JudDVIb1ExSjJ0ZlItNzM5dGFkNjdRVEFldktObVF5YnpXdUFXejRCNVdGQXV4TG1ZOVpwa050T0Z5VHY4dGdyQ2RXQ3NLdGk5b19YMmxmS0VUN3JCU0k2cUR0cmlFRUZaaUxXWjludlVVNktxMjBkMW52WXNKdkRXc1FweGJvSXBWRFpfUXRhdFBTcU9DY2pvc21TNGVSa3lXZW1iOTNJTmxlamp6Zw?oc=5",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Orlando warns of hiring freezes, budget cuts if Florida property tax overhaul passes - WKMG",
+      "source": "WKMG",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWW43OGdfQ3VScnlDZWxTb2hDRHFtbUxJbmNHVHRQeHhIZ3IzUHRkOHpWM3ZXLU9UTGFXLVVfR20wZU40QlZ5ZEMzRzdacXdua3ViT2pjNmN4M3lmemV2NVpnU08ybGJoLUxmVmdWTm5QMWswc3lEZjdTQktrbWFGei1PTk12aC1DSTdSZm9hZ0VjZF8tY19vQ2pSTkllR3pOOEVqekhwQUNldnZmZ0tsclo2NzVnakJBR1F0NzJrMVF6eFRBQVpzS3JtVEptTnU1?oc=5",
+      "date": "Tue, 14 Jul 2026 03:44:08 GMT",
+      "classification": "NEW_WATCH",
+      "level": "watch",
+      "keyword": "hiring freeze",
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Lessons as Florida\u2019s Property Tax Reform Amendment Heads to the Ballot - Americans for Tax Reform",
+      "source": "Americans for Tax Reform",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1JvZFFGTkNXRTAzU0drXzZRRzEtenlYMURoV0lIMjA3STlVZVhfYmVkMTFPallOdUozNV8zNmYtenZoUTJfYnI3U1JzSWRYaGVjaHJSdjhjUm1zd0taOWNuNUpMTW1HNW5YeW5EQmtqZHZhZ1lBREVrTkVEajM2WklOSHdySjN5TlF3QUQxWQ?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Florida Property Tax Cuts Would Help Homeowners But Hurt Revenue - news.bloombergtax.com",
+      "source": "news.bloombergtax.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3FKMFlfRVMwT3BrelpXcVlkWnQwREwwTEZvTlhVSmQ4T3BDd0VHWkFOX3dTMEtQekk1X2ZjdVZncEJ1aXdCT3lMMWl3eE5TNXBnMlhKTjl3MDdMaW5aeV9GSFc0bEt6QllIYTRxR192dVYxYWl5MGx3S3dBUk5WYkE3RGFuTjV1Z05xQjJGM3Z6SEFHeDk3ZzdGbm5WVVBLMXUzSVBNZDJVWHcwVVlSOGhMNXR3NW5yRGo1TWpINA?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Florida property tax amendment draws organized opposition ahead of November vote - WINK News - Southwest Florida",
+      "source": "WINK News - Southwest Florida",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPT3ZGWkxOMVlRTi1KX0RJcFZRSktGeTZZSzZ6alpRTV82aktCRUhia2doT0RKbThyd2VTSUVOUzd2N0xsbFpXZE14QnNuUHNZVGMtRlVodE5tU3djel83alhNUWVrSHg5WXZkVUZFX0hXMDhZWXdKYzQ1OTdyaHJRV09uZjg2TDQ0ZlItSkVmOFBaM1pmbEZBWC1FNHpxVWRlMkpCRUY2SU05OUxQWHBPcERxLXlIR1psYVgta2tONlRTbTJLcUpEUlVJN0k5aVpjNTdMdUpPXzBsR1lEVFVISEVvUE9pS19IWFZ4MUczM202aGtpWUdVd3B1VFFhRDJwcU44VkhzU1dWQQ?oc=5",
+      "date": "Fri, 17 Jul 2026 19:27:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Most readers oppose Florida's property tax plan, poll finds - Florida Today",
+      "source": "Florida Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0QzbXY5OEZXQzh4TlppY2dwQjJIOUNRcnFkaFE2VzJNQXhFWmczcGdqYkU4dlFjYktPOGhoTWtfdjk0dU85d2twMllVU3dhR1RjRGQ5dTJRRjh6YW1qaWdlblBlVXFLM3BiSThZYmlCYkFVc2k1NUJCREhPenduNmcyM050TTA5SHpmUXFhTHZoM0dkN3JUeGE4MDR3dzhrRFpwTmYxSFE3d0lsbzdkVlU4cXI5dV9EUGhPZTV0Y2UwM0lTQ1YxZlJ3LWNVWUk2WFA5b2N6anBibVpRTWhkSFhQRVE?oc=5",
+      "date": "Mon, 13 Jul 2026 09:10:22 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "CORAL",
+        "HOMER"
+      ],
+      "label": "florida"
+    },
+    {
+      "title": "Australian Dollar holds as PBOC stands firm - FXStreet",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVVDbkRzV0o1aDVXWHhhLWl0STNOMHlubGhRbXBpRm84akJZOEVLZVB4eHVaa1FEZERsZWs4dUduLTFFdG14Nk5QV0lYZG5ZQ3A2bXdBSW5rc3dlajEzYi0xRklHMDN0OHl0TVBjOWFYVV9idWpNVmtVb1NGVEVFdTFlamtfWFJGbmxUQzB4aw?oc=5",
+      "date": "Mon, 20 Jul 2026 16:01:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "PBOC Slightly Lifts Yuan Fix as New Trading Session Begins - TradingPedia",
+      "source": "TradingPedia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0NtblNLQmFqUlZJX19OSWJBLUNlUVlBZ3ZSRjBUbFdUYkhoX04xcUlxQ3dPT3JQY3AtWEFfUDRTRHlRVDlTeDBSdFBQZkhiRHlBQk44NjZpNENEV3ROdDJlX3RUcTE0ZDNBZE5JcGZaaFBLZVcwYVhKUjlEdzN3UzFJUVZKNGtoamVEVHBsMUNvUmUydnh3VXM0MnEyWUJ2?oc=5",
+      "date": "Mon, 20 Jul 2026 05:45:37 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7948 (vs. estimate at 6.7821) - investingLive",
+      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTE1ldjJjbFpYR3FBZG1oTkhTbWxRZi1KUWVqSGoxbVllaFY4TTFNWHNqb1V0SFJuRGxxVWF2Zm4yczlvRUlUTGF5Yjh3UlhYemQ2aWJpc0xnMHlKQVV5TW5OeG5LVVNuZVNkVVduUHpyWXNJSGNMX2RGMGI2OVJMakZWMk1BcDk1ZkctTXd3OWp0MEhHTlR2b214QjVyWlU3MzVDSlVWVDVNTmRCdnZlMQ?oc=5",
+      "date": "Mon, 20 Jul 2026 01:14:51 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "China 10Y Yield Rises After PBoC Decision - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaThWTnk5Qzc4NUN6N2ptVjY2RHZqY1Y2S19xaEd3bU1ybWNPTFlfSHZ3aGxtNHBTbndNcGRFZ0xGYkRyWjhrZ0k0YUxjZ1dYc2E3RVVMZzBHZGlweUsyZ2pQUXB6VXNRUklPcTA2VEVBd0tLdnF5VktZX2xYTFFCVHdHSkpnUjlZa0h2Q2wtNWhnZ1dkSTZJ?oc=5",
+      "date": "Mon, 20 Jul 2026 02:25:00 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "Empty skyscrapers: China's property slump still throttling growth - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb082SHltbWxHTkkxWnczU0RaQllSMEJhYUtqdktiQXJsU2QwM2cxWlNiaGtDeUEzazMzNFRkU1JmNWh4NXY1dks5WExqSGVNWm91bHIzT2tmZklSTmVDd0x3bGxUYy1La21zYTFiTXc3TEZGdzVGZkFaNE84cU1ncFBXc0xmQl9VSUF6VF81XzZhVWpuV0ZsU21NbUtEZnFYQUVn?oc=5",
+      "date": "Wed, 15 Jul 2026 07:07:30 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "China PBoC Interest Rate Decision meets expectations (3%) - TMGM trading",
+      "source": "TMGM trading",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWRxb2NCTkEyX1F1ZVdGNlZzYjZvNXB4U055M0hzLXVSWTREYVAtaFFsMERZSm5jRjMxTjd6RC0yc3docHRaTUJxZGROUy11U0RLOS1rc3BrcV9FRHhwZ3o3c2dCdW1TZlJ1OEIxMUlrNTY2bnJOd1BmYzc0RVpyUEhwMEJ6aEJ5SEEzNHhxazBseEVuREo3TVlva2dwN0ZPcmVleE95YWxHRTNOeXEzMXduRlR5bnhDaHVvWg?oc=5",
+      "date": "Mon, 20 Jul 2026 01:11:14 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "China set to leave benchmark lending rates unchanged for 14th month in July - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDJTMFZRYXQta19ONG5lN2J3Q1NWbmFaWF9zakE1UUhTZWdZd0tRcDBrd3F5T216MlN2R0MtdW9RdVVEQ2ZiSG94dFBDTWdUb1VKZHREcnNYWUJpRVMyQWFxUmI5TWc0akdJX2RKZTJyQjhkdXdGRzlTWlhMbm8yLXRTaS1UT1VvVklTNzBDd25oRXlXVEQ1UU5TaC1KZWtsVEpRODlWb1RaM0hjbDZDSFJrTGYzOF9YNm1zSw?oc=5",
+      "date": "Fri, 17 Jul 2026 18:49:43 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "PBOC to Set July Loan Prime Rate; LayerZero to Unlock 2.36% of ZRO Supply - bloomingbit",
+      "source": "bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFUlBlY3FSS1JjRGdBb2dUWGpVUlVsQlJMcTM1T3FtRTBaUk1BeDVSc2lDRHU3c3BNRzZnNk1lbmZEYV9aLTIxZTZGOU5NRmFKZDIzSA?oc=5",
+      "date": "Mon, 20 Jul 2026 00:00:31 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "China\u2019s central bank pumps 398.5 billion yuan into markets via reverse repos - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FaDFtWmJvSmVTdEZ2Zkc3bThmMGNoZk0xelpoUUZTYXd5aGxWaHRENmxYeTJtSk10QWh0amp1dHFKSUk0eEpPOEJjak5zNFRheU5hdzVncjNYbWpha1hnTzdYcUxhOF82Sm9uSE95SVNOX2pfMTZCY2NieGFsT3M?oc=5",
+      "date": "Mon, 20 Jul 2026 01:43:49 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "PBOC sets USD/CNY reference rate at 6.7948 vs. 6.7934 previous - FXStreet",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEFQU2FjYnhOdFJwVVo2eXBRRjZIYzlMTWtjYmVWWEpJUjU5WHFjWTBuMGt4VDlNSWhqVkcxOW41WU1lR1FIYXZoWWEtMUtqOXJvVmJsZmVyemUzS2VXQlF4TWxPc1p0b2oyX19yb3VpUDh2eWZqVDZERVFuMEpZYnZPdElxakI1NDY3NWdiS19qbktCSTZXTXhacVFSdm5RNlJjdw?oc=5",
+      "date": "Mon, 20 Jul 2026 01:16:01 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "Economic and event calendar in Asia 20 July 2026 - PBOC rate setting day, unchanged expected - investingLive",
+      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHFIb050aURKYVUxWDdsNVdkSElBc3gyc3BDaVRIWEJIb2dsekRpX09uMjdkWktxbkVLOV9pSWxhVmpiNHVUaks5MXozTU1vVGYwRUtmbV9HWURCd3NsdmlKQVBsMkxfaEd6enE5SG15UmdwcVpGTExMT21fMEQ4dE1fbkhUR2MtemFGZTByQl9OeFhfb01OcVFpOGVjclNSXzZMZWRydDA5cFExLTUtdDluay1fV0JrczZNd05UbFNfeWpVNmEwWg?oc=5",
+      "date": "Sun, 19 Jul 2026 21:19:46 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [
+        "ZHAO"
+      ],
+      "label": "china-asia"
+    },
+    {
+      "title": "Yemen\u2019s Houthi rebels threaten blockade against Saudi Arabia",
+      "source": "FT",
+      "link": "https://www.ft.com/content/97389cc7-7c83-496e-a2d2-72a1eb574281?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 13:50:49 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "The Middle East needs its own Helsinki Act",
+      "source": "FT",
+      "link": "https://www.ft.com/content/348530f8-994f-49ce-ae77-3e5d520c7794",
+      "date": "Mon, 20 Jul 2026 14:43:40 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Andy Burnham opens door to using \u2018flexibility\u2019 within fiscal rules",
+      "source": "FT",
+      "link": "https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 10:25:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Trump is slipping into an Iran quagmire",
+      "source": "FT",
+      "link": "https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 11:17:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "How I got into Berghain, Berlin\u2019s notoriously selective club",
+      "source": "FT",
+      "link": "https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 12:44:43 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Morgan Stanley cashes in on AI boom with debt deals",
+      "source": "FT",
+      "link": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 04:00:10 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Portfolio construction in the shadow of the AI bubble",
+      "source": "FT",
+      "link": "https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 05:30:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Regulator fired by Trump warns Fed independence still at risk",
+      "source": "FT",
+      "link": "https://www.ft.com/content/1197682a-c72d-4ae2-a8f2-f0fd3f867439?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 11:00:01 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Zelenskyy\u2019s crisis deepens as ex-defence minister rejects offer to return",
+      "source": "FT",
+      "link": "https://www.ft.com/content/51dad580-487a-43d4-8427-cdd764cbe8f5?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 12:37:37 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Sinaloa cartel founder set for $15bn forfeiture order and life sentence",
+      "source": "FT",
+      "link": "https://www.ft.com/content/a803297d-ddd1-40a7-8bdb-c0bd50c3b546?syn-25a6b1a6=1",
+      "date": "Mon, 20 Jul 2026 04:00:28 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "FT"
+    },
+    {
+      "title": "Burnham promises help with your money. How could it affect you?",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 15:10:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 10:12:36 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Jobs, borrowing and taxes: Andy Burnham's economic challenges",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 09:03:48 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 15:22:54 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Are you a parent missing out on \u00a327 a week? Here's how to check",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 23:16:47 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 23:18:03 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "West Africa signs off $25bn mega gas-pipeline plan",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 15:52:55 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "South East Water hosepipe ban to affect 2.4 million people",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/c7vg3geg3qmo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 13:24:32 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "My fitness tracker knew I was pregnant before I did",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 23:09:18 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 18:35:16 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 01:47:59 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Chinese firm seeks compensation over British Steel nationalisation",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 10:59:07 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "'My buyers dropped their offer by \u00a315,000 the day before exchange': Gazundering and how to avoid it",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 18 Jul 2026 01:14:53 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 14:27:15 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "The hidden cost of the night shift and how to sleep it off",
+      "source": "BBC Business",
+      "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 00:01:55 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC Business"
+    },
+    {
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 11:18:40 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 16:10:38 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Boy, 13, dies during World Cup celebrations in Spain",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 10:02:44 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 14:02:31 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 11:37:32 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Rare identical quadruplets born in Australia",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 12:57:32 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Newcastle, Liverpool and England legend Keegan dies",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 14:38:28 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 11:28:30 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 13:13:29 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Utah firefighter and four family members killed in flash flooding",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 12:13:58 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 01:11:08 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "Food delivery rider wins China's top literary prize",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 03:53:07 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    },
+    {
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 19:45:12 GMT",
+      "classification": "NEW",
+      "level": "normal",
+      "keyword": null,
+      "entity": null,
+      "watch_hits": [],
+      "agents": [],
+      "label": "BBC World"
+    }
+  ]
+}
