@@ -1,0 +1,25 @@
+{
+  "window_days": 7,
+  "filings": [
+    {
+      "ticker": "WAL",
+      "date": "2026-07-21",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026049001/0001628280-26-049001-index.htm"
+    },
+    {
+      "ticker": "ZION",
+      "date": "2026-07-20",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/109380/000010938026000103/0000109380-26-000103-index.htm"
+    }
+  ]
+}

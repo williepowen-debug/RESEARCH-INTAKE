@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-21T16:21:18Z",
+  "last_run_utc": "2026-07-22T16:18:10Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,21 +14,22 @@
       "alerts": [
         "cushing_mbbl Cushing=20.044M [orange] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-21/eia_petroleum.json"
+      "saved": "data/2026-07-22/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "critical": [
+        "WAL 2026-07-21 ['2.02', '9.01']",
         "ZION 2026-07-20 ['2.02', '9.01']"
       ],
-      "saved": "data/2026-07-21/edgar_8k.json"
+      "saved": "data/2026-07-22/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
       "count": 40,
       "weak": [],
-      "saved": "data/2026-07-21/treasury_auctions.json"
+      "saved": "data/2026-07-22/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -37,7 +38,7 @@
       "alerts": [
         "cftc_cot VIX lev-money net=10189 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-21/cftc_cot.json"
+      "saved": "data/2026-07-22/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -48,27 +49,25 @@
         "PSAVERT Personal savings rate %=3.0 [orange]",
         "MORTGAGE30US 30yr mortgage rate %=6.55 [orange]"
       ],
-      "saved": "data/2026-07-21/fred.json"
+      "saved": "data/2026-07-22/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 141,
-      "skipped_already_seen": 136,
+      "new": 142,
+      "skipped_already_seen": 142,
       "by_class": {
         "NEW": 135,
-        "DEVELOPMENT": 4,
+        "NEW_WATCH": 4,
+        "NEW_ALERT": 1,
         "NEW_WATCH_HIT": 1,
-        "NEW_ALERT": 1
+        "DEVELOPMENT": 1
       },
       "alerts": [
-        "Blue Owl Capital Corp Ii - Declares Q3 Return Of Capital Distribution Of $0.62 P [DEVELOPMENT]",
-        "Blue Owl Real Estate Net Lease Trust - Sells 2.1 Million Class I Shares For $22. [DEVELOPMENT]",
-        "Gas prices aren't just rising because of the Strait of Hormuz \u2014 refinery attacks [NEW_WATCH_HIT]",
-        "A Kansas Community Bank Is the Fourth Bank Failure of 2026 - KBRA [NEW_ALERT]",
-        "New York Home Prices Set Record as Housing Inventory Continues to Grow - Yahoo F [DEVELOPMENT]",
-        "Police officers arrested for allegedly seeking roadside bribe from Nigeria's ant [DEVELOPMENT]"
+        "First Bank Failure of 2026 is Largest in Almost Two Years - KBRA [NEW_ALERT]",
+        "Western Alliance (WAL) Q2 Earnings Miss Estimates - Yahoo Finance [NEW_WATCH_HIT]",
+        "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%  [DEVELOPMENT]"
       ],
-      "saved": "data/2026-07-21/news.json"
+      "saved": "data/2026-07-22/news.json"
     }
   },
   "errors": []
