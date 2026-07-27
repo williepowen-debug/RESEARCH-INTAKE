@@ -1,0 +1,56 @@
+{
+  "window_days": 7,
+  "filings": [
+    {
+      "ticker": "WAL",
+      "date": "2026-07-21",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026049001/0001628280-26-049001-index.htm"
+    },
+    {
+      "ticker": "EGBN",
+      "date": "2026-07-22",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000088/0001050441-26-000088-index.htm"
+    },
+    {
+      "ticker": "ZION",
+      "date": "2026-07-20",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/109380/000010938026000103/0000109380-26-000103-index.htm"
+    },
+    {
+      "ticker": "VLY",
+      "date": "2026-07-23",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000087/0000074260-26-000087-index.htm"
+    },
+    {
+      "ticker": "GOOGL",
+      "date": "2026-07-22",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm"
+    }
+  ]
+}
