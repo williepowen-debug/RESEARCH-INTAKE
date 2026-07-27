@@ -53,6 +53,18 @@ SERIES = [
     ("BAMLH0A2HYB",  "Single-B OAS bps",           "rising",  None),
 ]
 
+# Series FRED serves in PERCENT that we publish in BPS. All three OAS series are
+# labelled "OAS bps" above, so all three must be converted or the label lies.
+# BUG FIX 2026-07-27 (PROME, off WALTER SIG-W-20260727-016): only the blended
+# index was being converted, so BB published as 1.68 and Single-B as 2.96 against
+# an index of 279.0 — at face value Single-B appeared to trade INSIDE the HY
+# index, wrong by two orders of magnitude and plausible enough to propagate.
+# NB for consumers: BB/Single-B values step ~100x at this commit. That is the
+# unit correction, NOT a market move — do not read the 7/17..7/27 stored files
+# and post-fix files as one continuous series. Both carry bands=None (LIQUID owns
+# their thresholds), so no alert logic changes.
+_PCT_TO_BPS = {"BAMLH0A0HYM2", "BAMLH0A1HYBB", "BAMLH0A2HYB"}
+
 
 # --- HY OAS canonical trigger lines (PROME 2026-07-01, Will-approved) ----------
 def _hy_trigger_alerts(val, obs):
@@ -163,8 +175,8 @@ def fetch(data_dir: pathlib.Path) -> dict:
     for sid, label, dirbad, thr in SERIES:
         try:
             obs = _fred(sid, key)
-            if sid == "BAMLH0A0HYM2":
-                # FRED serves this series in PERCENT (2.75 = 275bps); the fleet
+            if sid in _PCT_TO_BPS:
+                # FRED serves these series in PERCENT (2.75 = 275bps); the fleet
                 # speaks bps — convert the whole series once so value/prior/
                 # change/alerts stay unit-consistent (thresholds above are bps).
                 obs = [{**o, "value": str(float(o["value"]) * 100)} for o in obs]
