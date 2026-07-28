@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-27T16:54:50Z",
+  "last_run_utc": "2026-07-28T16:33:46Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,25 +14,24 @@
       "alerts": [
         "cushing_mbbl Cushing=19.37M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-27/eia_petroleum.json"
+      "saved": "data/2026-07-28/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "critical": [
         "WAL 2026-07-21 ['2.02', '9.01']",
         "EGBN 2026-07-22 ['2.02', '7.01', '9.01']",
-        "ZION 2026-07-20 ['2.02', '9.01']",
         "VLY 2026-07-23 ['2.02', '9.01']",
         "GOOGL 2026-07-22 ['2.02', '9.01']"
       ],
-      "saved": "data/2026-07-27/edgar_8k.json"
+      "saved": "data/2026-07-28/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 37,
+      "count": 40,
       "weak": [],
-      "saved": "data/2026-07-27/treasury_auctions.json"
+      "saved": "data/2026-07-28/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -41,7 +40,7 @@
       "alerts": [
         "cftc_cot VIX lev-money net=3098 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-27/cftc_cot.json"
+      "saved": "data/2026-07-28/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -51,31 +50,20 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]",
         "MORTGAGE30US 30yr mortgage rate %=6.58 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=279.0 [orange]"
+        "BAMLH0A0HYM2 HY OAS bps=281.0 [red]",
+        "BAMLH0A0HYM2 HY OAS=281bps [red] >=280 X1-trigger breach (LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)"
       ],
-      "saved": "data/2026-07-27/fred.json"
+      "saved": "data/2026-07-28/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 159,
-      "skipped_already_seen": 114,
+      "new": 31,
+      "skipped_already_seen": 4,
       "by_class": {
-        "NEW": 148,
-        "DEVELOPMENT": 2,
-        "NEW_WATCH_HIT": 4,
-        "NEW_WATCH": 4,
-        "NEW_ALERT": 1
+        "NEW": 31
       },
-      "alerts": [
-        "How $400,000 in BDC ETFs Can Pay $36,000 a Year and What the Default Risk Really [DEVELOPMENT]",
-        "Ares Capital: Red Flags I See Heading Into The Report (Rating Downgrade) - Seeki [DEVELOPMENT]",
-        "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea - The W [NEW_WATCH_HIT]",
-        "Russian Tyumen Oil Refinery Catches Fire Following Drone Attack - Kyiv Post [NEW_WATCH_HIT]",
-        "BofA says yen defense needs hawkish BoJ as USD/JPY tops 163 - Investing.com [NEW_WATCH_HIT]",
-        "New Bill: Representative Rashida Tlaib introduces H.R. 9490: Bank Failure Accoun [NEW_ALERT]",
-        "Subprime Auto Loans Just Hit Their Worst Delinquency Rate in 32 Years. Here's Wh [NEW_WATCH_HIT]"
-      ],
-      "saved": "data/2026-07-27/news.json"
+      "alerts": [],
+      "saved": "data/2026-07-28/news.json"
     }
   },
   "errors": []
