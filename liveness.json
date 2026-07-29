@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-28T16:33:46Z",
+  "last_run_utc": "2026-07-29T16:18:22Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,24 +14,22 @@
       "alerts": [
         "cushing_mbbl Cushing=19.37M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-28/eia_petroleum.json"
+      "saved": "data/2026-07-29/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "critical": [
-        "WAL 2026-07-21 ['2.02', '9.01']",
         "EGBN 2026-07-22 ['2.02', '7.01', '9.01']",
-        "VLY 2026-07-23 ['2.02', '9.01']",
-        "GOOGL 2026-07-22 ['2.02', '9.01']"
+        "VLY 2026-07-23 ['2.02', '9.01']"
       ],
-      "saved": "data/2026-07-28/edgar_8k.json"
+      "saved": "data/2026-07-29/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
       "count": 40,
       "weak": [],
-      "saved": "data/2026-07-28/treasury_auctions.json"
+      "saved": "data/2026-07-29/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
@@ -40,7 +38,7 @@
       "alerts": [
         "cftc_cot VIX lev-money net=3098 [orange] (net-long vol / de-risking regime)"
       ],
-      "saved": "data/2026-07-28/cftc_cot.json"
+      "saved": "data/2026-07-29/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -50,20 +48,34 @@
         "UMCSENT UMich sentiment=44.8 [red]",
         "PSAVERT Personal savings rate %=3.0 [orange]",
         "MORTGAGE30US 30yr mortgage rate %=6.58 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=281.0 [red]",
-        "BAMLH0A0HYM2 HY OAS=281bps [red] >=280 X1-trigger breach (LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)"
+        "BAMLH0A0HYM2 HY OAS bps=284.0 [red]",
+        "BAMLH0A0HYM2 HY OAS=284bps [red] >=280 X1-trigger breach (LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)"
       ],
-      "saved": "data/2026-07-28/fred.json"
+      "saved": "data/2026-07-29/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 31,
-      "skipped_already_seen": 4,
+      "new": 207,
+      "skipped_already_seen": 80,
       "by_class": {
-        "NEW": 31
+        "NEW": 194,
+        "NEW_WATCH_HIT": 4,
+        "NEW_ALERT": 2,
+        "NEW_WATCH": 4,
+        "DEVELOPMENT": 3
       },
-      "alerts": [],
-      "saved": "data/2026-07-28/news.json"
+      "alerts": [
+        "Ukrainian drones attack oil refinery in Russia\u2019s Perm - Gwara Media [NEW_WATCH_HIT]",
+        "Japanese Yen Technical Outlook: USD/JPY Poised for Breakout Ahead of Fed, BOJ -  [NEW_WATCH_HIT]",
+        "Tlaib Introduces Bank Failure Accountability Act - tlaib.house.gov [NEW_ALERT]",
+        "FIRST BANK FAILURE OF 2026: This Is How It Starts Burnley Vs Aston Villa (RCMGZZ [NEW_ALERT]",
+        "Subprime Auto Loans Just Hit Their Worst Delinquency Rate in 32 Years. Here's Wh [NEW_WATCH_HIT]",
+        "Arkansas Diamonds waive admission for conference final at Bank OZK Arena - Hot S [DEVELOPMENT]",
+        "HudBay Minerals (HBM) Misses Q2 Earnings and Revenue Estimates - Yahoo Finance [NEW_WATCH_HIT]",
+        "PJM Interconnection Proposes One-Time Backstop General Capacity Auction In Septe [DEVELOPMENT]",
+        "Copper price back on course for record high - EUWID Recycling and Waste Manageme [DEVELOPMENT]"
+      ],
+      "saved": "data/2026-07-29/news.json"
     }
   },
   "errors": []
