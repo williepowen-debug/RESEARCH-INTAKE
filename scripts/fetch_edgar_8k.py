@@ -33,6 +33,36 @@ TARGETS = {
     "META": {"cik": "1326801", "name": "Meta Platforms Inc"},
 }
 
+# ---------------------------------------------------------------------------
+# Entity-class taxonomy v1 — owner: PROME (3 classes exactly, ruled 2026-07-28;
+# do NOT add classes until a demonstrated routing miss argues for one).
+#
+# Phase A contract (ruled 2026-07-28 — zero seen-key churn): entity_class and
+# route_to ride the DATA ROWS of edgar_8k.json ONLY. The critical[] strings are
+# UNCHANGED — the consumer's seen-keys derive from the full critical string
+# (intake_scan.py:153), so adding anything there rotates every key and re-fires
+# every seen row as a false onset. Renderer-side use of these fields = Phase B
+# (WALTER's scanner, WALTER's commit).
+#
+# route_to = f(entity_class) with per-ticker overrides — the lane-side half of
+# the hardcoded-recipient defect (WALTER 2026-07-30: MSFT/META critical 8-Ks
+# routed to REGINALD, the bank owner; hyperscaler owners are VULCAN/HENRY).
+ENTITY_CLASS = {
+    "WAL": "regional_bank", "OZK": "regional_bank", "EGBN": "regional_bank",
+    "ZION": "regional_bank", "VLY": "regional_bank",
+    "MSFT": "hyperscaler_ai", "GOOGL": "hyperscaler_ai",
+    "AMZN": "hyperscaler_ai", "META": "hyperscaler_ai",
+    # everything unlisted (incl. MU) classes as "other"
+}
+CLASS_ROUTE = {
+    "regional_bank": ["REGINALD"],
+    "hyperscaler_ai": ["VULCAN", "HENRY"],
+    "other": [],  # no auto-recipient — consumer judgment
+}
+TICKER_ROUTE_OVERRIDE = {
+    "MU": ["VULCAN"],  # memory-cycle input-cost primary (class stays "other")
+}
+
 # 8-K item -> severity. red = material/credit-relevant, orange = notable.
 ITEM_FLAGS = {
     "1.01": "red", "1.02": "red", "1.03": "orange", "2.01": "orange",
@@ -94,8 +124,11 @@ def fetch(data_dir: pathlib.Path) -> dict:
                         sev = "red"
                     elif flag == "orange" and sev != "red":
                         sev = "orange"
+                ec = ENTITY_CLASS.get(tkr, "other")
                 rec = {"ticker": tkr, "date": f["date"], "items": items,
-                       "severity": sev, "url": f["index_url"]}
+                       "severity": sev, "url": f["index_url"],
+                       "entity_class": ec,
+                       "route_to": TICKER_ROUTE_OVERRIDE.get(tkr, CLASS_ROUTE[ec])}
                 filings.append(rec)
                 if sev in ("red", "orange"):
                     critical.append(rec)

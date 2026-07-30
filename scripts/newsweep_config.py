@@ -202,6 +202,20 @@ GOOGLE_NEWS_QUERIES = [
         "priority": "medium",
         "label": "china-asia",
     },
+
+    # VULCAN domain — memory pricing (option-3 keyword lane, ruled 2026-07-28;
+    # shipped 2026-07-30 after the endpoint time-box failed: DRAMeXchange
+    # DXI/contract data is paywalled — live DXI value literally commented out
+    # of the homepage HTML. The DRAM SPOT table there IS server-rendered and
+    # parseable; a dedicated spot collector w/ the ±10%/±20% MoM delta alerts
+    # is the registered follow-up. Until then this lane is weak-but-honest:
+    # headlines only, no numeric series, no delta alerts.)
+    {
+        "query": '"DRAM contract price" OR "NAND price" OR "TrendForce" OR "memory pricing" OR "DRAM price"',
+        "agents": ["VULCAN"],
+        "priority": "high",
+        "label": "memory-pricing",
+    },
 ]
 
 # ---------------------------------------------------------------------------
@@ -496,6 +510,9 @@ WATCH_KEYWORDS = [
     # Consumer
     "subprime", "delinquency rate", "charge-off",
     "credit card default",
+    # Memory pricing (VULCAN option-3 keyword lane, 2026-07-30 — the four
+    # ruled keywords; delta-based alerts arrive with the follow-up collector)
+    "TrendForce", "DRAM contract price", "NAND price", "memory pricing",
 ]
 
 # ---------------------------------------------------------------------------
@@ -560,13 +577,29 @@ def match_entity(title):
     """
     Match a headline against the entity index.
     Returns: (entity_name, entity_info) or (None, None)
+
+    Entity-binding fix (2026-07-30, same class as the match_watch_for fix,
+    found live during its testing): bare substring matching made short
+    entities fire inside ordinary words — "ICE" matched "price"/"office",
+    "WAL" matched "Wall Street" — and a KNOWN classification SUPPRESSES the
+    headline, so the failure mode was silent signal loss, not noise.
+    Ticker-like keys/aliases ([A-Z][A-Z0-9-]{1,4}) now require a
+    CASE-SENSITIVE word-boundary match; longer names keep the original
+    case-insensitive substring behavior.
     """
+    import re
     title_lower = title.lower()
+
+    def _hit(needle):
+        if re.fullmatch(r"[A-Z][A-Z0-9-]{1,4}", needle):
+            return re.search(r"\b" + re.escape(needle) + r"\b", title) is not None
+        return needle.lower() in title_lower
+
     for entity, info in ENTITY_INDEX.items():
-        if entity.lower() in title_lower:
+        if _hit(entity):
             return (entity, info)
         for alias in info.get("aliases", []):
-            if alias and alias.lower() in title_lower:
+            if alias and _hit(alias):
                 return (entity, info)
     return (None, None)
 
@@ -586,20 +619,52 @@ def has_escalation_qualifier(title):
 def match_watch_for(title):
     """
     Check if headline matches any WATCH_FOR item.
-    STRICT matching: requires ALL significant words (>3 chars) to appear.
+    STRICT matching: requires ALL significant words (>3 chars) to appear,
+    AND every ticker-like token to match on its own.
+
+    Entity-binding fix (2026-07-30, WALTER lane-router defect #1): short
+    all-caps tokens (WAL, BOJ, SPR, ...) fell through the >3-char filter, so
+    "WAL earnings miss" degraded to its event phrase and fired on a HudBay
+    Minerals earnings-miss headline. Now any token matching [A-Z][A-Z0-9-]{1,4}
+    is a REQUIRED entity token: it must appear CASE-SENSITIVELY on a word
+    boundary (headlines print tickers/acronyms uppercase; case-sensitivity
+    keeps \\bWAL\\b off "Wal-Mart" and \\bICE\\b off weather), or — when the
+    token is an ENTITY_INDEX key — one of its aliases must appear
+    (case-insensitive), so "Western Alliance misses" still binds to WAL.
+    Side effect, intended: rules whose words were ALL short ("HY OAS above
+    350", "BDC NAV cut >5%") were previously DEAD (empty word list) or fired
+    on generic remainders ("SPR release >50M bbl" fired on any "release");
+    they now fire on their bound entity tokens.
     Returns: list of (agent, watch_item) tuples
     """
+    import re
     title_lower = title.lower()
     matches = []
     for agent, items in WATCH_FOR.items():
         for item in items:
-            # Extract significant words (>3 chars, skip articles/prepositions)
+            tokens = item.split()
+            entity_tokens = [t for t in tokens if re.fullmatch(r"[A-Z][A-Z0-9-]{1,4}", t)]
+            # Significant words (>3 chars, skip articles/prepositions), minus entity tokens
             skip = {"above", "below", "from", "with", "that", "this", "than", "into"}
-            words = [w.lower() for w in item.split() if len(w) > 3 and w.lower() not in skip]
-            if not words:
+            words = [w.lower() for w in tokens
+                     if len(w) > 3 and w.lower() not in skip and w not in entity_tokens]
+            if not words and not entity_tokens:
                 continue
             # ALL significant words must appear (strict)
-            if all(w in title_lower for w in words):
+            if not all(w in title_lower for w in words):
+                continue
+
+            def _entity_ok(tok):
+                if re.search(r"\b" + re.escape(tok) + r"\b", title):
+                    return True
+                info = ENTITY_INDEX.get(tok)
+                if info:
+                    for alias in info.get("aliases", []):
+                        if alias and alias.lower() in title_lower:
+                            return True
+                return False
+
+            if all(_entity_ok(t) for t in entity_tokens):
                 matches.append((agent, item))
     return matches
 
