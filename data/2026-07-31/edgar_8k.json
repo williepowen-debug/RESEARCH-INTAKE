@@ -1,0 +1,64 @@
+{
+  "window_days": 7,
+  "filings": [
+    {
+      "ticker": "WAL",
+      "date": "2026-07-30",
+      "items": [
+        "8.01",
+        "9.01"
+      ],
+      "severity": "gray",
+      "url": "https://www.sec.gov/Archives/edgar/data/1212545/000162828026051146/0001628280-26-051146-index.htm",
+      "entity_class": "regional_bank",
+      "route_to": [
+        "REGINALD"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "date": "2026-07-29",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/0001193125-26-323632-index.htm",
+      "entity_class": "hyperscaler_ai",
+      "route_to": [
+        "VULCAN",
+        "HENRY"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "date": "2026-07-30",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+      "entity_class": "hyperscaler_ai",
+      "route_to": [
+        "VULCAN",
+        "HENRY"
+      ]
+    },
+    {
+      "ticker": "META",
+      "date": "2026-07-29",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "severity": "red",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/0001628280-26-050596-index.htm",
+      "entity_class": "hyperscaler_ai",
+      "route_to": [
+        "VULCAN",
+        "HENRY"
+      ]
+    }
+  ]
+}
