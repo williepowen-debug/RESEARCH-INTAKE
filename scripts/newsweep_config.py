@@ -173,7 +173,14 @@ GOOGLE_NEWS_QUERIES = [
         "label": "climate-macro",
     },
     {
-        "query": '"existing home sales" OR "housing inventory" OR "foreclosure" OR "homebuilder" OR "mortgage rates"',
+        # HOMER-amended 2026-07-24 (owner-wins ratify; adopted by PROME 2026-08-02 —
+        # packet was a 7-day-late delivery, terms re-endorsed by HOMER 7/31):
+        # adds multifamily/CMBS (marquee GSE-vs-CMBS divergence), delinquency
+        # pipeline upstream of foreclosure (ICE/MBA prints headline as
+        # "delinquency"), builder-distress tells, and the Ginnie Mae /
+        # nonbank-servicer stress lane (DEWEY 7/24 FHA/VA waterfall).
+        # Flood-watch: "foreclosure" + "mortgage rates" (unchanged, see above).
+        "query": '"existing home sales" OR "housing inventory" OR "foreclosure" OR "mortgage rates" OR "homebuilder" OR "builder incentives" OR "unsold homes" OR "multifamily delinquency" OR "CMBS delinquency" OR "apartment defaults" OR "mortgage delinquency" OR "FHA delinquency" OR "Ginnie Mae" OR "mortgage servicer"',
         "agents": ["HOMER", "CARL"],
         "priority": "high",
         "label": "housing",
