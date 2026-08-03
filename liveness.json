@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-07-31T16:42:32Z",
+  "last_run_utc": "2026-08-03T17:07:43Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,7 +14,7 @@
       "alerts": [
         "cushing_mbbl Cushing=18.599M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-07-31/eia_petroleum.json"
+      "saved": "data/2026-08-03/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
@@ -24,22 +24,20 @@
         "AMZN 2026-07-30 ['2.02', '9.01']",
         "META 2026-07-29 ['2.02', '9.01']"
       ],
-      "saved": "data/2026-07-31/edgar_8k.json"
+      "saved": "data/2026-08-03/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 41,
+      "count": 38,
       "weak": [],
-      "saved": "data/2026-07-31/treasury_auctions.json"
+      "saved": "data/2026-08-03/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
-      "vix_report_date": "2026-07-21",
-      "vix_lev_money_net": 3098,
-      "alerts": [
-        "cftc_cot VIX lev-money net=3098 [orange] (net-long vol / de-risking regime)"
-      ],
-      "saved": "data/2026-07-31/cftc_cot.json"
+      "vix_report_date": "2026-07-28",
+      "vix_lev_money_net": -12289,
+      "alerts": [],
+      "saved": "data/2026-08-03/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -52,31 +50,27 @@
         "BAMLH0A0HYM2 HY OAS bps=284.0 [red]",
         "BAMLH0A0HYM2 HY OAS=284bps [red] >=280 X1-trigger breach (LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)"
       ],
-      "saved": "data/2026-07-31/fred.json"
+      "saved": "data/2026-08-03/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 223,
-      "skipped_already_seen": 122,
+      "new": 228,
+      "skipped_already_seen": 117,
       "by_class": {
-        "NEW": 203,
-        "NEW_WATCH_HIT": 2,
-        "DEVELOPMENT": 4,
-        "NEW_WATCH": 11,
-        "NEW_ALERT": 3
+        "NEW": 212,
+        "NEW_ALERT": 4,
+        "NEW_WATCH": 10,
+        "DEVELOPMENT": 2
       },
       "alerts": [
-        "Ukraine Says It Attacked Lukoil\u2019s Volgograd Oil Refinery - Bloomberg.com [NEW_WATCH_HIT]",
-        "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume - Crude Oil  [NEW_WATCH_HIT]",
-        "BOJ Data Suggest Japan Intervention of About 8.45 Trillion Yen - Bloomberg.com [DEVELOPMENT]",
-        "Bank of Japan leaves rates unchanged as yen intervention talk swirls - Axios [DEVELOPMENT]",
-        "Georgia sees 1st bank failure in nearly a decade - spglobal.com [NEW_ALERT]",
+        "Georgia lender's demise marks second bank failure this year - American Banker [NEW_ALERT]",
         "FDIC releases audit of causes and response to January 2025 community bank failur [NEW_ALERT]",
-        "What Is a Bank Failure? Definition and List of Failed Banks - NerdWallet [NEW_ALERT]",
-        "WAL 8-K & SEC Filings - Yahoo Finance [DEVELOPMENT]",
-        "Ares Management Q2 earnings beat, helped by record fundraising (ARES:NYSE) - See [DEVELOPMENT]"
+        "Sen. Warren calls for probe into Fed\u2019s outside review of Silicon Valley Bank fai [NEW_ALERT]",
+        "bank ozk - Denton Record-Chronicle [DEVELOPMENT]",
+        "Ares Management: Record Fundraising Tops $36 Billion As Dry Powder Reaches $170  [DEVELOPMENT]",
+        "Japan vows further yen intervention with US if needed [NEW_ALERT]"
       ],
-      "saved": "data/2026-07-31/news.json"
+      "saved": "data/2026-08-03/news.json"
     }
   },
   "errors": []
