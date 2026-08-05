@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-08-04T16:50:21Z",
+  "last_run_utc": "2026-08-05T16:29:33Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
@@ -14,31 +14,30 @@
       "alerts": [
         "cushing_mbbl Cushing=18.599M [red] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-08-04/eia_petroleum.json",
-      "recovered_after_retry": true
+      "saved": "data/2026-08-05/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "critical": [
         "MSFT 2026-07-29 ['2.02', '9.01']",
         "AMZN 2026-07-30 ['2.02', '9.01']",
         "META 2026-07-29 ['2.02', '9.01']"
       ],
-      "saved": "data/2026-08-04/edgar_8k.json"
+      "saved": "data/2026-08-05/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 41,
+      "count": 44,
       "weak": [],
-      "saved": "data/2026-08-04/treasury_auctions.json"
+      "saved": "data/2026-08-05/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-07-28",
       "vix_lev_money_net": -12289,
       "alerts": [],
-      "saved": "data/2026-08-04/cftc_cot.json"
+      "saved": "data/2026-08-05/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -48,34 +47,27 @@
         "UMCSENT UMich sentiment=49.5 [orange]",
         "PSAVERT Personal savings rate %=2.7 [orange]",
         "MORTGAGE30US 30yr mortgage rate %=6.66 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=285.0 [red]",
-        "BAMLH0A0HYM2 HY OAS=285bps [red] >=280 X1-trigger breach (LIQUID half of X1; sustain-check owner LIQUID; BROCK wrapper-half must also fire)"
+        "BAMLH0A0HYM2 HY OAS bps=278.0 [orange]"
       ],
-      "saved": "data/2026-08-04/fred.json"
+      "saved": "data/2026-08-05/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 206,
-      "skipped_already_seen": 137,
+      "new": 177,
+      "skipped_already_seen": 166,
       "by_class": {
-        "NEW": 191,
-        "NEW_ALERT": 7,
-        "NEW_WATCH_HIT": 1,
-        "DEVELOPMENT": 1,
-        "NEW_WATCH": 6
+        "NEW": 167,
+        "NEW_ALERT": 3,
+        "NEW_WATCH": 6,
+        "DEVELOPMENT": 1
       },
       "alerts": [
-        "The message beneath the yen intervention - Axios [NEW_ALERT]",
-        "Markets react to joint U.S. and Japan yen intervention. - CME Group [NEW_ALERT]",
-        "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Fin [NEW_ALERT]",
-        "Bessent says U.S. backed Japan\u2019s yen intervention to help stabilize Asia - CNBC [NEW_ALERT]",
-        "US yen intervention signals perfect storm rising in FX and bond markets - Reuter [NEW_ALERT]",
-        "What Is a Bank Failure? Definition and List of Failed Banks - nerdwallet.com [NEW_ALERT]",
-        "Western Alliance (WAL) Q2 Earnings Miss Estimates - Yahoo Finance [NEW_WATCH_HIT]",
-        "Apollo Global Management posts record Q2 earnin... - Pluang [DEVELOPMENT]",
-        "Divided Tech, Divided Fed: Navigating AI Capex Scrutiny and Mixed Macro Signals  [NEW_ALERT]"
+        "The real message in the yen intervention - Financial Times [NEW_ALERT]",
+        "Ares Management: Record Fundraise Challenges Bear Case (NYSE:ARES) - Seeking Alp [DEVELOPMENT]",
+        "Divided Tech, Divided Fed: Navigating AI Capex Scrutiny and Mixed Macro Signals  [NEW_ALERT]",
+        "The real message in the yen intervention [NEW_ALERT]"
       ],
-      "saved": "data/2026-08-04/news.json"
+      "saved": "data/2026-08-05/news.json"
     }
   },
   "errors": []
