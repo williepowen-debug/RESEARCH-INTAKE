@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "commercial_crude_mbbl": {
+      "value": 406.987,
+      "wow": 2.479,
+      "period": "2026-07-31"
+    },
+    "spr_mbbl": {
+      "value": 304.809,
+      "wow": -2.841,
+      "period": "2026-07-31"
+    },
+    "cushing_mbbl": {
+      "value": 20.955,
+      "wow": 2.356,
+      "period": "2026-07-31",
+      "status": "orange"
+    },
+    "gasoline_mbbl": {
+      "value": 209.658,
+      "wow": -1.643,
+      "period": "2026-07-31"
+    },
+    "distillate_mbbl": {
+      "value": 107.159,
+      "wow": -3.473,
+      "period": "2026-07-31"
+    }
+  },
+  "raw": {
+    "commercial_crude_mbbl": [
+      {
+        "date": "2026-07-31",
+        "value": 406987.0
+      },
+      {
+        "date": "2026-07-24",
+        "value": 404508.0
+      }
+    ],
+    "spr_mbbl": [
+      {
+        "date": "2026-07-31",
+        "value": 304809.0
+      },
+      {
+        "date": "2026-07-24",
+        "value": 307650.0
+      }
+    ],
+    "cushing_mbbl": [
+      {
+        "date": "2026-07-31",
+        "value": 20955.0
+      },
+      {
+        "date": "2026-07-24",
+        "value": 18599.0
+      }
+    ],
+    "gasoline_mbbl": [
+      {
+        "date": "2026-07-31",
+        "value": 209658.0
+      },
+      {
+        "date": "2026-07-24",
+        "value": 211301.0
+      }
+    ],
+    "distillate_mbbl": [
+      {
+        "date": "2026-07-31",
+        "value": 107159.0
+      },
+      {
+        "date": "2026-07-24",
+        "value": 110632.0
+      }
+    ]
+  },
+  "alerts": [
+    "cushing_mbbl Cushing=20.955M [orange] (<20M=Boundary#3 operational floor)"
+  ]
+}

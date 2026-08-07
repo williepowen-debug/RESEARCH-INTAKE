@@ -1,43 +1,39 @@
 {
-  "last_run_utc": "2026-08-05T16:29:33Z",
+  "last_run_utc": "2026-08-07T15:52:19Z",
   "status": "ok",
   "jobs": {
     "eia_petroleum": {
       "status": "ok",
       "metrics": {
-        "commercial_crude_mbbl": 404.508,
-        "spr_mbbl": 307.65,
-        "cushing_mbbl": 18.599,
-        "gasoline_mbbl": 211.301,
-        "distillate_mbbl": 110.632
+        "commercial_crude_mbbl": 406.987,
+        "spr_mbbl": 304.809,
+        "cushing_mbbl": 20.955,
+        "gasoline_mbbl": 209.658,
+        "distillate_mbbl": 107.159
       },
       "alerts": [
-        "cushing_mbbl Cushing=18.599M [red] (<20M=Boundary#3 operational floor)"
+        "cushing_mbbl Cushing=20.955M [orange] (<20M=Boundary#3 operational floor)"
       ],
-      "saved": "data/2026-08-05/eia_petroleum.json"
+      "saved": "data/2026-08-07/eia_petroleum.json"
     },
     "edgar_8k": {
       "status": "ok",
-      "count": 4,
-      "critical": [
-        "MSFT 2026-07-29 ['2.02', '9.01']",
-        "AMZN 2026-07-30 ['2.02', '9.01']",
-        "META 2026-07-29 ['2.02', '9.01']"
-      ],
-      "saved": "data/2026-08-05/edgar_8k.json"
+      "count": 0,
+      "critical": [],
+      "saved": "data/2026-08-07/edgar_8k.json"
     },
     "treasury_auctions": {
       "status": "ok",
-      "count": 44,
+      "count": 42,
       "weak": [],
-      "saved": "data/2026-08-05/treasury_auctions.json"
+      "saved": "data/2026-08-07/treasury_auctions.json"
     },
     "cftc_cot": {
       "status": "ok",
       "vix_report_date": "2026-07-28",
       "vix_lev_money_net": -12289,
       "alerts": [],
-      "saved": "data/2026-08-05/cftc_cot.json"
+      "saved": "data/2026-08-07/cftc_cot.json"
     },
     "fred": {
       "status": "ok",
@@ -46,28 +42,30 @@
       "alerts": [
         "UMCSENT UMich sentiment=49.5 [orange]",
         "PSAVERT Personal savings rate %=2.7 [orange]",
-        "MORTGAGE30US 30yr mortgage rate %=6.66 [orange]",
-        "BAMLH0A0HYM2 HY OAS bps=278.0 [orange]"
+        "MORTGAGE30US 30yr mortgage rate %=6.69 [orange]",
+        "BAMLH0A0HYM2 HY OAS bps=271.0 [orange]"
       ],
-      "saved": "data/2026-08-05/fred.json"
+      "saved": "data/2026-08-07/fred.json"
     },
     "newsweep": {
       "status": "ok",
-      "new": 177,
-      "skipped_already_seen": 166,
+      "new": 203,
+      "skipped_already_seen": 138,
       "by_class": {
-        "NEW": 167,
-        "NEW_ALERT": 3,
-        "NEW_WATCH": 6,
-        "DEVELOPMENT": 1
+        "NEW": 193,
+        "NEW_ALERT": 7,
+        "NEW_WATCH": 3
       },
       "alerts": [
-        "The real message in the yen intervention - Financial Times [NEW_ALERT]",
-        "Ares Management: Record Fundraise Challenges Bear Case (NYSE:ARES) - Seeking Alp [DEVELOPMENT]",
-        "Divided Tech, Divided Fed: Navigating AI Capex Scrutiny and Mixed Macro Signals  [NEW_ALERT]",
-        "The real message in the yen intervention [NEW_ALERT]"
+        "Opinion | The Real Reason Behind Trump\u2019s Yen Intervention - The New York Times [NEW_ALERT]",
+        "Yen\u2019s Decline or Pressures on Treasuries Not Stopped by Record Currency Interven [NEW_ALERT]",
+        "Japan\u2019s yen intervention and unusual US support - OMFIF [NEW_ALERT]",
+        "Golub Capital BDC Inc (GBDC) (Q3 2026) Earnings Call Highlights: Navigating Cred [NEW_ALERT]",
+        "KPMG Stuck With SVB Investors\u2019 Fraud Claim in Bank Failure Suit - Bloomberg Law  [NEW_ALERT]",
+        "US Banks Target CLARITY Act Stablecoin Rewards in Fight Over Deposit Flight - Fi [NEW_ALERT]",
+        "Yen intervention illustrates the dangers of monetary experiments [NEW_ALERT]"
       ],
-      "saved": "data/2026-08-05/news.json"
+      "saved": "data/2026-08-07/news.json"
     }
   },
   "errors": []
