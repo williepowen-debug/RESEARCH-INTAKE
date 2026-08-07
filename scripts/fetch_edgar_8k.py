@@ -61,6 +61,12 @@ CLASS_ROUTE = {
 }
 TICKER_ROUTE_OVERRIDE = {
     "MU": ["VULCAN"],  # memory-cycle input-cost primary (class stays "other")
+    # 2026-08-07 WALTER lane-coverage ruling (PROME-applied): promoted single-name
+    # specialists were still routing to their parent — collection was fine, delivery
+    # pointed at REGINALD. BOTH recipients, not either: WAL/OZK get the single name,
+    # REGINALD keeps the cohort/KRE read.
+    "WAL": ["WAL", "REGINALD"],
+    "OZK": ["OZK", "REGINALD"],
 }
 
 # 8-K item -> severity. red = material/credit-relevant, orange = notable.

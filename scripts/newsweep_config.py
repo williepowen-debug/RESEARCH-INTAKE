@@ -336,9 +336,11 @@ ENTITY_INDEX = {
     "BCRED":        {"agents": ["BROCK"], "aliases": ["Blackstone Credit"]},
     "BIZD":         {"agents": ["BROCK"], "aliases": []},
 
-    # REGINALD domain
-    "OZK":          {"agents": ["REGINALD"], "aliases": ["Bank OZK"]},
-    "WAL":          {"agents": ["REGINALD"], "aliases": ["Western Alliance", "Western Alliance Bank"]},
+    # REGINALD domain — WAL/OZK dual-routed 2026-08-07 (WALTER lane-coverage ruling,
+    # PROME-applied): specialist first, parent keeps the cohort read. Same fix as
+    # TICKER_ROUTE_OVERRIDE in fetch_edgar_8k.py — TWO surfaces, fix both or neither.
+    "OZK":          {"agents": ["OZK", "REGINALD"], "aliases": ["Bank OZK"]},
+    "WAL":          {"agents": ["WAL", "REGINALD"], "aliases": ["Western Alliance", "Western Alliance Bank"]},
     "KRE":          {"agents": ["REGINALD", "LIQUID"], "aliases": []},
 
     # HENRY domain
